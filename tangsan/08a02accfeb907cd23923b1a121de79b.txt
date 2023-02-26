@@ -29,15 +29,26 @@
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8 
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0 
+翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941619&extension=ts&play_token=p2yEuU1aFS
+翡翠台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153395&extension=ts&play_token=Pd3SDU2VSy
 翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://c-leung.homeip.net:8011/bysid/1
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=0
 翡翠台http://107.151.203.111:2209/135/hk.php?id=tvbfct
 翡翠台,http://r.jdshipin.com/n90gt
-翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct 
+翡翠台,http://107.151.203.111:2209/135/hk.php?id=tvbfct
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN
+TVB星河,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H
+TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153396&extension=ts&play_token=ICdnbP1fWe
+TVB1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153401&extension=ts&play_token=zUkGQ70Vue
+千禧经典台,,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153503&extension=ts&play_token=CkqdtepPsp
+千禧经典台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571197&extension=ts&play_token=S0w0stULcO
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8 
+娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
+娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
 无线新闻,http://c-leung.homeip.net:8012/bysid/83
 Pearl,http://c-leung.homeip.net:8012/bysid/2
 财经体育资讯台,http://c-leung.homeip.net:8012/bysid/85
@@ -61,8 +72,13 @@ VIU 6,http://c-leung.homeip.net:8011/bysid/96
 澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+华丽台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571187&extension=ts&play_token=uWRW1HvPSb
 华丽台,http://r.jdshipin.com/thuYX
 华丽台,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+双星,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571191&extension=ts&play_token=6Do9QdLKkM
+全佳,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571192&extension=ts&play_token=xEP94V2R5Q
+小太阳,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571230&extension=ts&play_token=D3QyPDZb9O
+TVBS新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
 TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=3
 TVBS新闻台,http://123.58.201.173:52411/test/lshotel.php?id=44
 TVBS新闻台,http://140.238.155.232:9000/jmsytb.m3u8?c=31
@@ -84,6 +100,7 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=41
 中天新闻,http://104.192.80.27:9500/live.m3u8?c=2  
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
+中天亚洲台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
 中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
 中天亚洲台,http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 非凡新闻,http://123.58.201.173:52411/test/lshotel.php?id=46
@@ -99,9 +116,12 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 年代新闻,http://123.58.201.173:52411/test/lshotel.php?id=39 
 中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 NOW新闻台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
+天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
 天映经典,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
 天映经典,http://198.16.64.10:8278/Celestial2/playlist.m3u8?tid=MD3D1210050512100505&ct=19225&tsum=d40ac484b1a904e59158bd911bbd8b89
 天映经典,http://120.84.96.66:808/hls/85/index.m3u8
+卫视中文台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941624&extension=ts&play_token=xmfFOBilCP
+卫视电影台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=UX6nxpu1TT
 星卫电影台, http://www.yshmzmc.top/gtjm.php?id=live1031
 星卫电影台,http://123.58.201.173:52411/test/lshotel.php?id=54
 龙华电影,http://123.58.201.173:52411/test/lshotel.php?id=57
@@ -119,23 +139,82 @@ NOW新闻台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
 公视,http://123.58.201.173:52411/test/lshotel.php?id=5
 华视,http://123.58.201.173:52411/test/lshotel.php?id=3
 华视,http://123.58.201.173:52411/test/lshotel.php?id=3
+东森美洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156397&extension=ts&play_token=2fQZ7EF20L
+东森卫视,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156394&extension=ts&play_token=UEKTIim7lP
 东森财经新闻,http://123.58.201.173:52411/test/lshotel.php?id=48
 东森洋片,http://107.151.203.111:2209/135/hk.php?id=dsypt
+TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
+TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS42,http://158.101.151.82:9000/jmsytb.m3u8?c=4
 纬來电影,http://123.58.201.173:52411/test/lshotel.php?id=56
-HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
-HBO,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-好莱坞电影,http://123.58.201.173:52411/test/lshotel.php?id=55
-动物星球, http://www.yshmzmc.top/gtjm.php?id=live1004
-AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+动物星球, http://www.yshmzmc.top/gtjm.php?id=live1004
+好莱坞电影,http://123.58.201.173:52411/test/lshotel.php?id=55
+TLC, http://www.yshmzmc.top/gtjm.php?id=live1005
+AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8
 starmoworld, http://www.yshmzmc.top/gtjm.php?id=live1040
+BBC Earth,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=521012&extension=ts&play_token=MQT42xqt6E
+BBC WORLD NEWS,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=521001&extension=ts&play_token=m3aL4PMlOK
+SKY NEWS,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=521000&extension=ts&play_token=VFLF8yeAO3
+CNN,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=520999&extension=ts&play_token=iWsLFI9Net
+半岛电视台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=520991&extension=ts&play_token=ZR1DRR1K4C
+MTV,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=887384&extension=ts&play_token=GNC7OwC9rI
+Sky News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=744203&extension=ts&play_token=zaoaPCkVsz
+ESPN1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=646974&extension=ts&play_token=EX687b9qcm
+ESPN2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=646973&extension=ts&play_token=CWvNzZSlQm
+BBC Earth,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=646973&extension=ts&play_token=CWvNzZSlQm
+Discovery,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=157346&extension=ts&play_token=uSzjPLQ9mE
+Discovery Asia,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=157347&extension=ts&play_token=c8N193T7e1
+CNN,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=731850&extension=ts&play_token=QT2kkTSYlz
+Discovery,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571210&extension=ts&play_token=sKAYXqVpQL
+Discovery Asia,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571181&extension=ts&play_token=3nLcKkomPC
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571204&extension=ts&play_token=TQWwwF8fB9
+Animal Planet,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571227&extension=ts&play_token=tNT0ivoVHM
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941648&extension=ts&play_token=U9qP9sjHUP
+National Geographic,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941665&extension=ts&play_token=UG5Td6CWA1
+BBC Earth,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941666&extension=ts&play_token=i8WXn9kEpi
+ABC Australia,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941682&extension=ts&play_token=6tv4LtycUD
+Sky News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941684&extension=ts&play_token=nnpDPx1QyW
+Fox News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941685&extension=ts&play_token=ivXh8iuJ8D
+CNN,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941690&extension=ts&play_token=VZQsFfkwvC
+BBC World News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941693&extension=ts&play_token=HjnMlUcdcC
+HBO,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56057&extension=ts&play_token=pqlvbiUAPq
+HBO HD,http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+HBO,http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+HBO2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56105&extension=ts&play_token=TYYmi0O3a2
+HBO3,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=56104&extension=ts&play_token=HqqAESBfCa
+STAR Channel,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=59259&extension=ts&play_token=8DzCypjTna
+STAR Channel,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1093611&extension=ts&play_token=IFQsd4LG9s
+National Geographic,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=90822&extension=ts&play_token=nsxsxVjbfY
+MTV,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=691564&extension=ts&play_token=qlmfCfLjx8
+STAR WORLD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155726&extension=ts&play_token=StVP2iXS4P
+STAR WORLD PREMIERE,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155728&extension=ts&play_token=jDpghN0Cw4
+STAR MOVIES SELECT,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155729&extension=ts&play_token=12e4tDZGJN
+STAR MOVIES,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
+Sky News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=1081655&extension=ts&play_token=EKqPKLlOOT
+BBC World News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=111541&extension=ts&play_token=R6sUaRH7XE
+CNN,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=30553&extension=ts&play_token=zpDWhmuOJE
+半岛电视台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=229460&extension=ts&play_token=Npusk1q2dr
+Sky Sports News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=411604&extension=ts&play_token=1yKaCgKnlD
+TNT,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45470&extension=ts&play_token=kOelT8m3yR
+MTV，http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45461&extension=ts&play_token=mCTgurvTA7
+National Geographic,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45453&extension=ts&play_token=fSOHmYUeiC
+ABC,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45439&extension=ts&play_token=pUbSISc9bR
+ABC News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45438&extension=ts&play_token=uEvAJRSzdU
+半岛电视台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45614&extension=ts&play_token=CLjxzU01Pv
+BBC World News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=91766&extension=ts&play_token=7zASCiKeES
+CNN,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=442785&extension=ts&play_token=BPLMlfejhE
+CNBC,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=442785&extension=ts&play_token=BPLMlfejhE
+FOX News,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45573&extension=ts&play_token=hPNyKYij2S
+MSNBC,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45535&extension=ts&play_token=hkDdQJuCIB
+ESPN,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45579&extension=ts&play_token=63jUWMuNvT
+ESPN2,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45580&extension=ts&play_token=HNNynNNsh0
+ESPNNEWS,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=45580&extension=ts&play_token=HNNynNNsh0s
 
 ⚛️  央视IPV6,#genre#
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
