@@ -1130,8 +1130,7 @@ BesTV4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/0000000100000006000000000000
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 ZZ4000,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
-MTV1,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=691564&extension=ts&play_token=qlmfCfLjx8
-MTV2,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+MTV,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 🎥  影视,#genre#
