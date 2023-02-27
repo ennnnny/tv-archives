@@ -94,9 +94,7 @@ TVBS新闻台,http://140.238.155.232:9000/jmsytb.m3u8?c=31
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=2
-东森新闻,http://123.58.201.173:52411/test/lshotel.php?id=40
 东森新闻,http://123.58.201.173:52411/test/lshotel.php?id=40
 东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -105,14 +103,12 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 台视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=7
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 华视新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=21 
 华视新闻,http://123.58.201.173:52411/test/lshotel.php?id=38
 中天新闻,https://livetv.qhzx.repl.co/live.m3u8?c=9
 中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
-中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=41
 中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=41
 中天新闻,http://104.192.80.27:9500/live.m3u8?c=2  
 中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1 
@@ -125,7 +121,6 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 三立新闻,http://123.58.201.173:52411/test/lshotel.php?id=43
 三立新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=23
 壹新闻,http://123.58.201.173:52411/test/lshotel.php?id=50
-壹新闻,http://123.58.201.173:52411/test/lshotel.php?id=50
 寰宇新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=14
 寰宇新闻, http://www.yshmzmc.top/gtjm.php?id=live1222
 寰宇新闻,http://123.58.201.173:52411/test/lshotel.php?id=49
@@ -133,18 +128,11 @@ TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 中视新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=8
 NOW新闻台,http://116.205.130.205:66/6/807tv.php?tid=gt&id=13
 民视,http://123.58.201.173:52411/test/lshotel.php?id=4
-民视,http://123.58.201.173:52411/test/lshotel.php?id=4
-民视,http://107.151.203.111:2209/135/us50.php?id=msk&
 民视,http://107.151.203.111:2209/135/us50.php?id=msk
 台视,http://123.58.201.173:52411/test/lshotel.php?id=1
 台视,http://107.151.203.111:2209/135/us50.php?id=tsk
-台视,http://123.58.201.173:52411/test/lshotel.php?id=1
-台视,http://107.151.203.111:2209/135/us50.php?id=tsk
-中视,http://123.58.201.173:52411/test/lshotel.php?id=2
 中视,http://123.58.201.173:52411/test/lshotel.php?id=2
 公视,http://123.58.201.173:52411/test/lshotel.php?id=5
-公视,http://123.58.201.173:52411/test/lshotel.php?id=5
-华视,http://123.58.201.173:52411/test/lshotel.php?id=3
 华视,http://123.58.201.173:52411/test/lshotel.php?id=3
 天映频道,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941618&extension=ts&play_token=kr082FQvzN
 天映经典,http://198.16.64.10:8278/Celestial/playlist.m3u8?tid=MCFC1164333411643334&ct=19225&tsum=3668a5dd07515bbf30cfeebe267936ff
@@ -188,7 +176,6 @@ TVBS42,http://158.101.151.82:9000/jmsytb.m3u8?c=4
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
