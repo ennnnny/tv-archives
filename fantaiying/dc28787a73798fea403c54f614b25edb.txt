@@ -123,6 +123,12 @@ http://tv.fanmingming.com/api/?id=xzws
 http://tv.fanmingming.com/api/?id=hinws
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="卫视",北京纪实科教
 http://tv.fanmingming.com/api/?id=bjjskj
+#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="电影频道",CHC高清电影
+https://tv.fanmingming.com/api/fj.php?id=chcgq
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="电影频道",CHC动作电影
+https://tv.fanmingming.com/api/fj.php?id=chcdz
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="电影频道",CHC家庭影院
+https://tv.fanmingming.com/api/fj.php?id=chcjt
 #EXTINF:-1 group-title="港澳台",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台",TVBS新闻
@@ -173,6 +179,8 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="电影频道",东森电影
+http://120.84.96.89:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="电影频道",星光影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影频道",欧美大片
