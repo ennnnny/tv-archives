@@ -179,6 +179,64 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 group-title="港澳台",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="西班牙",LA 1
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 " tvg-logo="" group-title="西班牙",LA 2 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69298.ts
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="西班牙",Antena 3
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro " tvg-logo="" group-title="西班牙",Cuatro 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="" group-title="西班牙",Telecinco
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
+#EXTINF:-1 tvg-id="" tvg-name="LA Sexta" tvg-logo="" group-title="西班牙",LA Sexta
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
+#EXTINF:-1 tvg-id="" tvg-name="Aragon Tv" tvg-logo="" group-title="西班牙",Aragon Tv
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69303.ts
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="西班牙",Neox
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nova " tvg-logo="" group-title="西班牙",Nova 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Estrenos" tvg-logo="" group-title="西班牙",Movistar Estrenos
+http://desastre3.deficoin.life/play/estrenos/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="西班牙",Movistar Accion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="西班牙",Movistar Comedia
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="西班牙",Movistar Drama
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="西班牙",Movistar Series
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
+#EXTINF:-1 tvg-id="" tvg-name="Cale 13" tvg-logo="" group-title="西班牙",Cale 13
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="西班牙",Hollywood
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="西班牙",Comedy Central
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="西班牙",Syfy
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="西班牙",AXN 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
+#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="" group-title="西班牙",FOX 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic " tvg-logo="" group-title="西班牙",National Geographic 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild " tvg-logo="" group-title="西班牙",National Geographic Wild 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="西班牙",Discovery 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
+#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="西班牙",Caza Y Pesca
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
+#EXTINF:-1 tvg-id="" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="西班牙",Crimen + Investigacion
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="" group-title="西班牙",Boing
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69321.ts
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr " tvg-logo="" group-title="西班牙",Nick Jr 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69320.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior  " tvg-logo="" group-title="西班牙",Disney Junior  
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel " tvg-logo="" group-title="西班牙",Disney Channel 
+http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69324.ts
 #EXTINF:-1 group-title="电影频道",东森电影
 http://120.84.96.89:808/hls/32/index.m3u8
 #EXTINF:-1 group-title="电影频道",星光影院
