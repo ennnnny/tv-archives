@@ -167,12 +167,14 @@ http://cntv.sbs/live?id=cetv1
 http://cntv.sbs/live?id=cetv2
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="其他",CETV4
 http://cntv.sbs/live?id=cetv4
+#EXTINF:-1 tvg-id="华语影院" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/华语影院.png" group-title="其他",华语影院
+http://cntv.sbs/live?id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
 http://cntv.sbs/live?id=zgtq
+#EXTINF:-1 group-title="港澳台",澳门莲花
+http://107.151.203.111:2209/dl/lotustv2021.php
 #EXTINF:-1 group-title="港澳台",TVBS
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",澳门莲花
-http://107.151.203.111:2209/135/hk.php?id=amlh
 #EXTINF:-1 group-title="港澳台",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 #EXTINF:-1 group-title="港澳台",民视新闻台
