@@ -171,239 +171,305 @@ http://cntv.sbs/live?id=cetv4
 http://cntv.sbs/live?id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
 http://cntv.sbs/live?id=zgtq
-#EXTINF:-1 group-title="港澳台",澳门莲花
-http://107.151.203.111:2209/dl/lotustv2021.php
-#EXTINF:-1 group-title="港澳台",TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",民视新闻台
-http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",台视新闻
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="港澳台",东森新闻美洲
-http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-#EXTINF:-1 group-title="港澳台",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="港澳台",番薯
-http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="港澳台",中国环球电视
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 group-title="港澳台",人间卫视
-https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
-#EXTINF:-1 group-title="港澳台",香港卫视文旅
-https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
-#EXTINF:-1 group-title="港澳台",大愛一台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台",大愛二台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="港澳台",中台灣生活網
-http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",CTN
-http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",CTN
-http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="港澳台",SexyK-Pop
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:-1 group-title="港澳台",ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1 group-title="港澳台",FOX News Now
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="西班牙",LA 1
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="港澳台",莲花卫视
+https://cntv.sbs/lhws
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cntv.sbs/g?logo=tvb-jade" group-title="TVB",翡翠台
+https://cntv.sbs/abroad?id=h002
+#EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cntv.sbs/g?logo=tvb-j2" group-title="TVB",J2
+https://cntv.sbs/abroad?id=h003
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://cntv.sbs/g?logo=tvb-news" group-title="TVB",無綫新聞台
+https://cntv.sbs/abroad?id=h004
+#EXTINF:-1 tvg-id="無綫財經·體育·資訊台" tvg-name="無綫財經·體育·資訊台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="TVB",無綫財經·體育·資訊台
+https://cntv.sbs/abroad?id=h005
+#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://cntv.sbs/g?logo=rthk31" group-title="RTHK",港台电视31
+https://cntv.sbs/abroad?id=h006
+#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://cntv.sbs/g?logo=rthk32" group-title="RTHK",港台电视32
+https://cntv.sbs/abroad?id=h007
+#EXTINF:-1 tvg-id="有線新聞台" tvg-name="有線新聞台" tvg-logo="https://cntv.sbs/g?logo=cable-news" group-title="有線電視",有線新聞台
+https://cntv.sbs/abroad?id=h011
+#EXTINF:-1 tvg-id="有線財經資訊台" tvg-name="有線財經資訊台" tvg-logo="https://cntv.sbs/g?logo=cable-finance" group-title="有線電視",有線財經資訊台
+https://cntv.sbs/abroad?id=h012
+#EXTINF:-1 tvg-id="香港開電視" tvg-name="香港開電視" tvg-logo="https://cntv.sbs/g?logo=hoy-tv" group-title="奇妙電視",香港開電視
+https://cntv.sbs/abroad?id=h010
+#EXTINF:-1 tvg-id="香港開電視資訊台" tvg-name="香港開電視資訊台" tvg-logo="https://cntv.sbs/g?logo=hoy-info" group-title="奇妙電視",香港開電視資訊台
+https://cntv.sbs/abroad?id=h008
+#EXTINF:-1 tvg-id="香港國際財經台" tvg-name="香港國際財經台" tvg-logo="https://cntv.sbs/g?logo=hkibc" group-title="奇妙電視",香港國際財經台
+https://cntv.sbs/abroad?id=h009
+#EXTINF:-1 tvg-id="鳳凰資訊" tvg-name="鳳凰資訊" tvg-logo="https://cntv.sbs/g?logo=phtv-info" group-title="鳳凰衛視",鳳凰資訊台
+https://cntv.sbs/abroad?id=h013
+#EXTINF:-1 tvg-id="鳳凰中文" tvg-name="鳳凰中文" tvg-logo="https://cntv.sbs/g?logo=phtv-live" group-title="鳳凰衛視",鳳凰中文台
+https://cntv.sbs/abroad?id=h014
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=abc-news-australia" group-title="News",ABC News Australia
+https://cntv.sbs/abroad?id=e001
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=abc-news" group-title="News",ABC News
+https://cntv.sbs/abroad?id=e002
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=ann-news" group-title="News",ANN News
+https://cntv.sbs/abroad?id=e003
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=asianet-news" group-title="News",Asianet News
+https://cntv.sbs/abroad?id=e004
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=bbc-news" group-title="News",BBC News
+https://cntv.sbs/abroad?id=e005
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=cna-news" group-title="News",CNA News
+https://cntv.sbs/abroad?id=e006
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=cnn-live" group-title="News",CNN Live
+https://cntv.sbs/abroad?id=e007
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=dw-news" group-title="News",DW News
+https://cntv.sbs/abroad?id=e008
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=euro-news" group-title="News",EURO News
+https://cntv.sbs/abroad?id=e009
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=fox-live" group-title="News",Fox Live
+https://cntv.sbs/abroad?id=e010
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=france-24E" group-title="News",France 24 English
+https://cntv.sbs/abroad?id=e011
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=gb-news" group-title="News",GB News
+https://cntv.sbs/abroad?id=e012
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=haber-turk" group-title="News",Haber Turk
+https://cntv.sbs/abroad?id=e013
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=nbc-news" group-title="News",NBC News
+https://cntv.sbs/abroad?id=e014
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=nhk-world" group-title="News",NHK World Japan
+https://cntv.sbs/abroad?id=e015
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=sky-news" group-title="News",SKY News
+https://cntv.sbs/abroad?id=e016
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=radio-ticino" group-title="Other",Radio Ticino
+https://cntv.sbs/abroad?id=e017
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=smithsonian-channel" group-title="Other",Smithsonian Channel
+https://cntv.sbs/abroad?id=e018
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=love-nature" group-title="Other",Love Nature
+https://cntv.sbs/abroad?id=e019
+#EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=lego" group-title="Other",Lego
+https://cntv.sbs/abroad?id=e020
+#EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://cntv.sbs/g?logo=ebc-news" group-title="台灣新聞",東森新聞
+https://cntv.sbs/abroad?id=t001
+#EXTINF:-1 tvg-id="東森財經新聞" tvg-name="東森財經新聞" tvg-logo="https://cntv.sbs/g?logo=ebc-finance" group-title="台灣新聞",東森財經新聞
+https://cntv.sbs/abroad?id=t002
+#EXTINF:-1 tvg-id="中天新聞" tvg-name="中天新聞" tvg-logo="https://cntv.sbs/g?logo=cti-news" group-title="台灣新聞",中天新聞
+https://cntv.sbs/abroad?id=t003
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://cntv.sbs/g?logo=cts-news" group-title="台灣新聞",華視新聞
+https://cntv.sbs/abroad?id=t004
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://cntv.sbs/g?logo=ctv-news" group-title="台灣新聞",中視新聞
+https://cntv.sbs/abroad?id=t005
+#EXTINF:-1 tvg-id="民視新聞" tvg-name="民視新聞" tvg-logo="https://cntv.sbs/g?logo=ftv-news" group-title="台灣新聞",民視新聞
+https://cntv.sbs/abroad?id=t006
+#EXTINF:-1 tvg-id="寰宇國際新聞" tvg-name="寰宇國際新聞" tvg-logo="https://cntv.sbs/g?logo=global-news" group-title="台灣新聞",寰宇國際新聞
+https://cntv.sbs/abroad?id=t007
+#EXTINF:-1 tvg-id="寰宇台灣新聞" tvg-name="寰宇台灣新聞" tvg-logo="https://cntv.sbs/g?logo=global-news" group-title="台灣新聞",寰宇台灣新聞
+https://cntv.sbs/abroad?id=t008
+#EXTINF:-1 tvg-id="三立財經新聞" tvg-name="三立財經新聞" tvg-logo="https://cntv.sbs/g?logo=set-finance" group-title="台灣新聞",三立財經新聞
+https://cntv.sbs/abroad?id=t009
+#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞" tvg-logo="https://cntv.sbs/g?logo=set-news" group-title="台灣新聞",三立新聞
+https://cntv.sbs/abroad?id=t010
+#EXTINF:-1 tvg-id="三立新聞+" tvg-name="三立新聞+" tvg-logo="https://cntv.sbs/g?logo=set-news+" group-title="台灣新聞",三立新聞+
+https://cntv.sbs/abroad?id=t011
+#EXTINF:-1 tvg-id="台視新聞" tvg-name="台視新聞" tvg-logo="https://cntv.sbs/g?logo=ttv-news" group-title="台灣新聞",台視新聞
+https://cntv.sbs/abroad?id=t012
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://cntv.sbs/g?logo=tvbs-news" group-title="台灣新聞",TVBS新聞
+https://cntv.sbs/abroad?id=t013
+#EXTINF:-1 tvg-id="TVBS財經" tvg-name="TVBS財經" tvg-logo="https://cntv.sbs/g?logo=tvbs" group-title="台灣新聞",TVBS財經
+https://cntv.sbs/abroad?id=t014
+#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://cntv.sbs/g?logo=cti-zh" group-title="台灣綜藝",中天綜合台
+https://cntv.sbs/abroad?id=t015
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://cntv.sbs/g?logo=cti-asia" group-title="台灣",中天亞洲台
+https://cntv.sbs/abroad?id=t016
+#EXTINF:-1 tvg-id="民視HD" tvg-name="民視HD" tvg-logo="https://cntv.sbs/g?logo=ftv" group-title="台灣綜藝",民視HD
+https://cntv.sbs/abroad?id=t017
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://cntv.sbs/g?logo=ftv-1" group-title="台灣綜藝",民視第一台
+https://cntv.sbs/abroad?id=t018
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://cntv.sbs/g?logo=ftv-tw" group-title="台灣綜藝",民視台灣台
+https://cntv.sbs/abroad?id=t019
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://cntv.sbs/g?logo=ftv-zy" group-title="台灣綜藝",民視綜藝台
+https://cntv.sbs/abroad?id=t020
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://cntv.sbs/g?logo=ftv-yj" group-title="台灣綜藝",民視影劇台
+https://cntv.sbs/abroad?id=t021
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://cntv.sbs/g?logo=ftv-travel" group-title="台灣綜藝",民視旅遊台
+https://cntv.sbs/abroad?id=t022
+#EXTINF:-1 tvg-id="三立台灣" tvg-name="三立台灣" tvg-logo="https://cntv.sbs/g?logo=set-tw" group-title="台灣",三立台灣
+https://cntv.sbs/abroad?id=t023
+#EXTINF:-1 tvg-id="三立都會" tvg-name="三立都會" tvg-logo="https://cntv.sbs/g?logo=set-dh" group-title="台灣",三立都會
+https://cntv.sbs/abroad?id=t024
+#EXTINF:-1 tvg-id="天才衝衝衝" tvg-name="天才衝衝衝" tvg-logo="https://cntv.sbs/g?logo=cts-zy" group-title="台灣綜藝",天才衝衝衝
+https://cntv.sbs/abroad?id=t025
+#EXTINF:-1 tvg-id="東森yoyo" tvg-name="東森yoyo" tvg-logo="https://cntv.sbs/g?logo=ebc-yoyo" group-title="兒童節目",東森yoyo
+https://cntv.sbs/abroad?id=t026
+#EXTINF:-1 tvg-id="華麗(翡翠)台" tvg-name="華麗(翡翠)台" tvg-logo="https://cntv.sbs/g?logo=astro-jade" group-title="Astro",華麗(翡翠)台
+https://cntv.sbs/abroad?id=h001
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="" group-title="Spain",LA 1
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69297.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA 2 " tvg-logo="" group-title="西班牙",LA 2 
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 " tvg-logo="" group-title="Spain",LA 2 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69298.ts
-#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="西班牙",Antena 3
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3" tvg-logo="" group-title="Spain",Antena 3
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69299.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cuatro " tvg-logo="" group-title="西班牙",Cuatro 
+#EXTINF:-1 tvg-id="" tvg-name="Cuatro " tvg-logo="" group-title="Spain",Cuatro 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69300.ts
-#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="" group-title="西班牙",Telecinco
+#EXTINF:-1 tvg-id="" tvg-name="Telecinco" tvg-logo="" group-title="Spain",Telecinco
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69301.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA Sexta" tvg-logo="" group-title="西班牙",LA Sexta
+#EXTINF:-1 tvg-id="" tvg-name="LA Sexta" tvg-logo="" group-title="Spain",LA Sexta
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69302.ts
-#EXTINF:-1 tvg-id="" tvg-name="Aragon Tv" tvg-logo="" group-title="西班牙",Aragon Tv
+#EXTINF:-1 tvg-id="" tvg-name="Aragon Tv" tvg-logo="" group-title="Spain",Aragon Tv
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69303.ts
-#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="西班牙",Neox
+#EXTINF:-1 tvg-id="" tvg-name="Neox" tvg-logo="" group-title="Spain",Neox
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69304.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nova " tvg-logo="" group-title="西班牙",Nova 
+#EXTINF:-1 tvg-id="" tvg-name="Nova " tvg-logo="" group-title="Spain",Nova 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69305.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="西班牙",Movistar Accion
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Accion" tvg-logo="" group-title="Spain",Movistar Accion
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69306.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="西班牙",Movistar Comedia
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Comedia" tvg-logo="" group-title="Spain",Movistar Comedia
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69307.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="西班牙",Movistar Drama
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Drama" tvg-logo="" group-title="Spain",Movistar Drama
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69309.ts
-#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="西班牙",Movistar Series
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Series" tvg-logo="" group-title="Spain",Movistar Series
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69308.ts
-#EXTINF:-1 tvg-id="" tvg-name="Cale 13" tvg-logo="" group-title="西班牙",Cale 13
+#EXTINF:-1 tvg-id="" tvg-name="Cale 13" tvg-logo="" group-title="Spain",Cale 13
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69310.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="西班牙",Hollywood
+#EXTINF:-1 tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="Spain",Hollywood
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69311.ts
-#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="西班牙",Comedy Central
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="Spain",Comedy Central
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69312.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="西班牙",Syfy
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="Spain",Syfy
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69313.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="西班牙",AXN 
+#EXTINF:-1 tvg-id="" tvg-name="AXN " tvg-logo="" group-title="Spain",AXN 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69314.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="" group-title="西班牙",FOX 
+#EXTINF:-1 tvg-id="" tvg-name="FOX " tvg-logo="" group-title="Spain",FOX 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69315.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic " tvg-logo="" group-title="西班牙",National Geographic 
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic " tvg-logo="" group-title="Spain",National Geographic 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69316.ts
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild " tvg-logo="" group-title="西班牙",National Geographic Wild 
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild " tvg-logo="" group-title="Spain",National Geographic Wild 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69317.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="西班牙",Discovery 
+#EXTINF:-1 tvg-id="" tvg-name="Discovery " tvg-logo="" group-title="Spain",Discovery 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69318.ts
-#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="西班牙",Caza Y Pesca
+#EXTINF:-1 tvg-id="" tvg-name="Caza Y Pesca" tvg-logo="" group-title="Spain",Caza Y Pesca
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69319.ts
-#EXTINF:-1 tvg-id="" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="西班牙",Crimen + Investigacion
+#EXTINF:-1 tvg-id="" tvg-name="Crimen + Investigacion" tvg-logo="" group-title="Spain",Crimen + Investigacion
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69323.ts
-#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="" group-title="西班牙",Boing
+#EXTINF:-1 tvg-id="" tvg-name="Boing" tvg-logo="" group-title="Spain",Boing
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69321.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr " tvg-logo="" group-title="西班牙",Nick Jr 
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr " tvg-logo="" group-title="Spain",Nick Jr 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69320.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Junior  " tvg-logo="" group-title="西班牙",Disney Junior  
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior  " tvg-logo="" group-title="Spain",Disney Junior  
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69322.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney Channel " tvg-logo="" group-title="西班牙",Disney Channel 
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel " tvg-logo="" group-title="Spain",Disney Channel 
 http://grogi.online:80/live/localSkypFr1220/localSkypFr1220/69324.ts
-#EXTINF:-1 group-title="电影频道",东森电影
-http://120.84.96.89:808/hls/32/index.m3u8
-#EXTINF:-1 group-title="电影频道",星光影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="电影频道",欧美大片
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="电影频道",FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-#EXTINF:-1 group-title="电影频道",FashionTV
-http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-#EXTINF:-1 group-title="国际",OAN (1080p)
+#EXTINF:-1 group-title="测试频道",OAN (1080p)
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",日·NHK
+#EXTINF:-1 group-title="测试频道",日·NHK
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 group-title="国际",日·QVC
+#EXTINF:-1 group-title="测试频道",日·QVC
 http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-#EXTINF:-1 group-title="国际",韩·BBS佛教
+#EXTINF:-1 group-title="测试频道",韩·BBS佛教
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-1
+#EXTINF:-1 group-title="测试频道",韩·EBS-1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-1
+#EXTINF:-1 group-title="测试频道",韩·EBS-1
 http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-1
+#EXTINF:-1 group-title="测试频道",韩·EBS-1
 http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-2
+#EXTINF:-1 group-title="测试频道",韩·EBS-2
 http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS-2
+#EXTINF:-1 group-title="测试频道",韩·EBS-2
 http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-#EXTINF:-1 group-title="国际",韩·EBS少儿
+#EXTINF:-1 group-title="测试频道",韩·EBS少儿
 http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-#EXTINF:-1 group-title="国际",韩·KBC
+#EXTINF:-1 group-title="测试频道",韩·KBC
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-#EXTINF:-1 group-title="国际",韩·KCTV
+#EXTINF:-1 group-title="测试频道",韩·KCTV
 http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
-#EXTINF:-1 group-title="国际",韩·MTN
+#EXTINF:-1 group-title="测试频道",韩·MTN
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-#EXTINF:-1 group-title="国际",韩·SBS
+#EXTINF:-1 group-title="测试频道",韩·SBS
 http://1.245.74.5:1935/live/tv/.m3u8
-#EXTINF:-1 group-title="国际",韩·阿里郎
+#EXTINF:-1 group-title="测试频道",韩·阿里郎
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="国际",韩·阿里郎WORLD
+#EXTINF:-1 group-title="测试频道",韩·阿里郎WORLD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-#EXTINF:-1 group-title="国际",韩·职业
+#EXTINF:-1 group-title="测试频道",韩·职业
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="测试频道",CGNTV
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="测试频道",CGNTV
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="测试频道",CGNTV
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="测试频道",CGNTV
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="国际",CGNTV
+#EXTINF:-1 group-title="测试频道",CGNTV
 https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 group-title="国际",Channel News Asia
+#EXTINF:-1 group-title="测试频道",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",Channel News Asia『蓝光』
+#EXTINF:-1 group-title="测试频道",Channel News Asia『蓝光』
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",CNA(1080p)[480*270]
+#EXTINF:-1 group-title="测试频道",CNA(1080p)[480*270]
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="国际",NDTV 24X7[640*480]
+#EXTINF:-1 group-title="测试频道",NDTV 24X7[640*480]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="国际",THAIPBS-3
+#EXTINF:-1 group-title="测试频道",THAIPBS-3
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
-#EXTINF:-1 group-title="国际",VB
+#EXTINF:-1 group-title="测试频道",VB
 http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
-#EXTINF:-1 group-title="国际",ZEEALWAN50
+#EXTINF:-1 group-title="测试频道",ZEEALWAN50
 http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="国际",半·新闻
+#EXTINF:-1 group-title="测试频道",半·新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="国际",俄·IGITV蓝光
+#EXTINF:-1 group-title="测试频道",俄·IGITV蓝光
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="国际",俄·RBC(Opt-1)[996*560]
+#EXTINF:-1 group-title="测试频道",俄·RBC(Opt-1)[996*560]
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="国际",俄·音乐TROSoyuz
+#EXTINF:-1 group-title="测试频道",俄·音乐TROSoyuz
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="国际",法·24台
+#EXTINF:-1 group-title="测试频道",法·24台
 http://tv.balkanweb.com/news24/livestream/playlist.m3u8
-#EXTINF:-1 group-title="国际",法·24台
+#EXTINF:-1 group-title="测试频道",法·24台
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 group-title="国际",法·时尚
+#EXTINF:-1 group-title="测试频道",法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="国际",法·时尚
+#EXTINF:-1 group-title="测试频道",法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-#EXTINF:-1 group-title="国际",美·NASA Public Channel
+#EXTINF:-1 group-title="测试频道",美·NASA Public Channel
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="国际",美·NASA Public Channel
+#EXTINF:-1 group-title="测试频道",美·NASA Public Channel
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-#EXTINF:-1 group-title="国际",美·红牛运动
+#EXTINF:-1 group-title="测试频道",美·红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="国际",美·红牛运动
+#EXTINF:-1 group-title="测试频道",美·红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="国际",泰·THAIPBS
+#EXTINF:-1 group-title="测试频道",泰·THAIPBS
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="国际",泰·公共三台
+#EXTINF:-1 group-title="测试频道",泰·公共三台
 http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 group-title="国际",乌·100ws
+#EXTINF:-1 group-title="测试频道",乌·100ws
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="国际",乌·M2音乐
+#EXTINF:-1 group-title="测试频道",乌·M2音乐
 http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 group-title="国际",西·加利西亚欧洲体育电视台
+#EXTINF:-1 group-title="测试频道",西·加利西亚欧洲体育电视台
 http://europa-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="国际",希·FoxTV
+#EXTINF:-1 group-title="测试频道",希·FoxTV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
-#EXTINF:-1 group-title="国际",新加坡
+#EXTINF:-1 group-title="测试频道",新加坡
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-#EXTINF:-1 group-title="国际",越·HBTV
+#EXTINF:-1 group-title="测试频道",越·HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="测试2",TVB翡翠华丽
-http://23.237.10.66:16410
-#EXTINF:-1 group-title="测试2",TVB J2
+#EXTINF:-1 group-title="测试频道",TVB J2
 https://j3.lhlh.app/mv.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="测试2",澳亚卫视
+#EXTINF:-1 group-title="测试频道",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="测试2",澳门莲花
-http://anren.live/HK/BiIOU11uLA.m3u8
-#EXTINF:-1 group-title="测试2",澳门莲花
-http://nettvpro.live/hls/lotustv.php
-#EXTINF:-1 group-title="测试2",TVBS新闻
+#EXTINF:-1 group-title="测试频道",TVBS新闻
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="测试2",TVBS新闻
+#EXTINF:-1 group-title="测试频道",TVBS新闻
 http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="测试2",民视新闻HD
+#EXTINF:-1 group-title="测试频道",民视新闻HD
 http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="测试2",番薯
+#EXTINF:-1 group-title="测试频道",番薯
 http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-#EXTINF:-1 group-title="测试2",点掌财经
+#EXTINF:-1 group-title="测试频道",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
-#EXTINF:-1 group-title="测试2",点掌财经
+#EXTINF:-1 group-title="测试频道",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 group-title="测试2",耀才财经
+#EXTINF:-1 group-title="测试频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="测试2",耀才财经
+#EXTINF:-1 group-title="测试频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="测试2",耀才财经
+#EXTINF:-1 group-title="测试频道",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="测试2",耀才财经
+#EXTINF:-1 group-title="测试频道",耀才财经
 https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="测试频道",ABC新闻
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
@@ -485,29 +551,27 @@ http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 group-title="测试频道",日本UN WeTV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="测试7",J2台
+#EXTINF:-1 group-title="测试频道",J2台
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
-#EXTINF:-1 group-title="测试7",香港卫视
+#EXTINF:-1 group-title="测试频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="测试7",香港佛陀
+#EXTINF:-1 group-title="测试频道",香港佛陀
 http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-#EXTINF:-1 group-title="测试7",香港佛陀
+#EXTINF:-1 group-title="测试频道",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="测试7",长城精品
+#EXTINF:-1 group-title="测试频道",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-#EXTINF:-1 group-title="测试7",长城精品
+#EXTINF:-1 group-title="测试频道",长城精品
 http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
-#EXTINF:-1 group-title="测试4",france24
+#EXTINF:-1 group-title="测试频道",france24
 http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="测试4",美麗人生購物台
+#EXTINF:-1 group-title="测试频道",美麗人生購物台
 http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="测试4",智林体育
+#EXTINF:-1 group-title="测试频道",智林体育
 http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-#EXTINF:-1 group-title="测试5",香港卫视
+#EXTINF:-1 group-title="测试频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
-#EXTINF:-1 group-title="测试5",俄罗斯中文
+#EXTINF:-1 group-title="测试频道",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="测试5",儒释道经
+#EXTINF:-1 group-title="测试频道",儒释道经
 https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
-#EXTINF:-1 group-title="测试5",唯心台
-http://124.238.99.44:808/hls/363/index.m3u8
