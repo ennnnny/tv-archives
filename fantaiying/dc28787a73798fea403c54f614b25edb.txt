@@ -183,7 +183,7 @@ https://cntv.sbs/abroad?id=h002
 https://cntv.sbs/abroad?id=h003
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://cntv.sbs/g?logo=tvb-news" group-title="TVB",无线新闻台
 https://cntv.sbs/abroad?id=h004
-#EXTINF:-1 tvg-id="无线财经·体育·信息台" tvg-name="无线财经·体育·信息台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="TVB",无线财经·体育·信息台
+#EXTINF:-1 tvg-id="无线财经·体育·资讯台" tvg-name="无线财经·体育·资讯台" tvg-logo="https://cntv.sbs/g?logo=tvb-finance" group-title="TVB",无线财经·体育·资讯台
 https://cntv.sbs/abroad?id=h005
 #EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://cntv.sbs/g?logo=rthk31" group-title="RTHK",港台电视31
 https://cntv.sbs/abroad?id=h006
@@ -191,15 +191,15 @@ https://cntv.sbs/abroad?id=h006
 https://cntv.sbs/abroad?id=h007
 #EXTINF:-1 tvg-id="有线新闻台" tvg-name="有线新闻台" tvg-logo="https://cntv.sbs/g?logo=cable-news" group-title="有线电视",有线新闻台
 https://cntv.sbs/abroad?id=h011
-#EXTINF:-1 tvg-id="有线财经信息台" tvg-name="有线财经信息台" tvg-logo="https://cntv.sbs/g?logo=cable-finance" group-title="有线电视",有线财经信息台
+#EXTINF:-1 tvg-id="有线财经资讯台" tvg-name="有线财经资讯台" tvg-logo="https://cntv.sbs/g?logo=cable-finance" group-title="有线电视",有线财经资讯台
 https://cntv.sbs/abroad?id=h012
 #EXTINF:-1 tvg-id="香港开电视" tvg-name="香港开电视" tvg-logo="https://cntv.sbs/g?logo=hoy-tv" group-title="奇妙电视",香港开电视
 https://cntv.sbs/abroad?id=h010
-#EXTINF:-1 tvg-id="香港开电视信息台" tvg-name="香港开电视信息台" tvg-logo="https://cntv.sbs/g?logo=hoy-info" group-title="奇妙电视",香港开电视信息台
+#EXTINF:-1 tvg-id="香港开电视资讯台" tvg-name="香港开电视资讯台" tvg-logo="https://cntv.sbs/g?logo=hoy-info" group-title="奇妙电视",香港开电视资讯台
 https://cntv.sbs/abroad?id=h008
 #EXTINF:-1 tvg-id="香港国际财经台" tvg-name="香港国际财经台" tvg-logo="https://cntv.sbs/g?logo=hkibc" group-title="奇妙电视",香港国际财经台
 https://cntv.sbs/abroad?id=h009
-#EXTINF:-1 tvg-id="凤凰信息" tvg-name="凤凰信息" tvg-logo="https://cntv.sbs/g?logo=phtv-info" group-title="凤凰卫视",凤凰信息台
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://cntv.sbs/g?logo=phtv-info" group-title="凤凰卫视",凤凰资讯台
 https://cntv.sbs/abroad?id=h013
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://cntv.sbs/g?logo=phtv-live" group-title="凤凰卫视",凤凰中文台
 https://cntv.sbs/abroad?id=h014
