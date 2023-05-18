@@ -175,8 +175,6 @@ http://cntv.sbs/live?id=zgtq
 https://cntv.sbs/lhws
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk
-#EXTINF:-1 tvg-id="华丽翡翠" tvg-name="华丽翡翠" tvg-logo="https://cntv.sbs/g?logo=astro-jade" group-title="Astro",华丽(翡翠)台
-https://cntv.sbs/abroad?id=h001
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cntv.sbs/g?logo=tvb-jade" group-title="TVB",翡翠台
 https://cntv.sbs/abroad?id=h002
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://cntv.sbs/g?logo=tvb-j2" group-title="TVB",J2
@@ -255,6 +253,8 @@ https://cntv.sbs/abroad?id=t024
 https://cntv.sbs/abroad?id=t025
 #EXTINF:-1 tvg-id="东森yoyo" tvg-name="东森yoyo" tvg-logo="https://cntv.sbs/g?logo=ebc-yoyo" group-title="儿童节目",东森yoyo
 https://cntv.sbs/abroad?id=t026
+#EXTINF:-1 tvg-id="华丽翡翠" tvg-name="华丽翡翠" tvg-logo="https://cntv.sbs/g?logo=astro-jade" group-title="Astro",华丽(翡翠)台
+https://cntv.sbs/abroad?id=h001
 #EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=abc-news-australia" group-title="News",ABC News Australia
 https://cntv.sbs/abroad?id=e001
 #EXTINF:-1 tvg-logo="https://cntv.sbs/g?logo=abc-news" group-title="News",ABC News
