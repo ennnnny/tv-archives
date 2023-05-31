@@ -171,7 +171,7 @@ https://cntv.sbs/live05?id=cetv4
 https://cntv.sbs/live05?id=hyyy
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="其他",中国天气
 https://cntv.sbs/live05?id=zgtq
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/莲花卫视.png" group-title="港澳台",莲花卫视
+#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://live.fanmingming.com/tv/澳门莲花.png" group-title="港澳台",莲花卫视
 https://cntv.sbs/lhws
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",凤凰香港
 https://cntv.sbs/fs?id=fhhk
