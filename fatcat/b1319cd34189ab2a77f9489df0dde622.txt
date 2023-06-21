@@ -1,0 +1,382 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+<title>宁波赛德森</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="propellant Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+<!-- Custom Theme files -->
+<link href="css/style.css" rel='stylesheet' type='text/css' />	
+<link rel="stylesheet" href="css/lightbox.css">
+<script src="js/jquery-1.11.1.min.js"> </script>	
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>		
+</head>
+<body>
+	<!-- banner-top -->
+	<div id="home" class="banner-top">
+		<!-- container -->
+		<div class="container">
+			<div class="header-top-left">
+				<p>0574-65783888</p>
+			</div>
+			<div class="details">
+				<ul>
+					<li class="mail"><a href="mailto:info@nbsds.com.cn">qjw@nbsds.com.cn</a></li>
+					<li class="location">宁波市 象山县城东工业园万隆路628号</li>
+				</ul>
+			</div>
+			<div class="clearfix"> </div>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //banner-top -->
+	<!-- banner -->
+	<div class="banner">
+		<!-- container -->
+		<div class="container">
+			<div class="logo">
+				<a href="index.html">Propellant</a>
+			</div>
+			<div class="top-nav">
+				<span class="menu">MENU</span>
+				<ul class="nav1 cl-effect-1">
+					<li><a href="#home" class="active scroll">主页</a></li>
+					<li><a href="#about" class="scroll">关于赛德森</a></li>
+					<li><a href="#testimonials" class="scroll">公司客户群</a></li>
+					<li><a href="#gallery" class="scroll">产品中心</a></li>
+					<li><a href="#gallery1" class="scroll">试验和验证设备</a></li>
+					<li><a href="#contact" class="scroll">联系我们</a></li>
+				</ul>
+				<!-- script-for-menu -->
+				<script>
+					$("span.menu").click(function () {
+						$("ul.nav1").slideToggle(300, function () {
+							// Animation complete.
+						});
+					});
+				</script>
+				<!-- /script-for-menu -->
+			</div>
+			<div class="icons">
+				<ul>
+					<li><a href="#" class="facebook"> </a></li>
+					<li><a href="#" class="facebook twitter"> </a></li>
+					<li><a href="#" class="facebook chrome"> </a></li>
+					<li><a href="#" class="facebook dribbble"> </a></li>
+				</ul>
+			</div>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //banner -->
+	<!-- welcome -->
+	<div class="welcome">
+		<!-- container -->
+		<div class="container">
+			<div class="welcome-info">
+				<h3>欢迎来象山</h3>
+				<h5 class="caption">象山县是中国浙江省宁波市下辖县，位于东海之滨，居长三角地区南缘、浙江省东部沿海，位于象山港与三门湾之间，三面环海，两港相拥。唐神龙二年（公元706年）立县，因县城西北有山“形似伏象”，故名象山，由象山半岛东部及沿海608个岛礁组成。</h5>
+			</div>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //welcome -->
+	<!-- about -->
+	<div id="about" class="about">
+		<!-- container -->
+		<div class="container">
+			<div class="about-grids">
+				<div class="col-md-4 about-left">
+					<img src="images/1.jpg" alt="" />
+				</div>
+				<div class="col-md-8 about-right">
+					<h3>关于赛德森</h3>
+					</BR>
+					<p>&emsp;&emsp;宁波赛德森减振系统有限公司是国内科研能力、生产规模较大的曲轴减振器设计、研发、制造的科技型专业公司，专注于减少发动机曲轴扭振的橡胶减振器和硅油减振器的研发和生产制造。公司的优势在于拥有完整的技术研发团队、完善的试验设备，完整的垂直生产供应链。</p>
+
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+			<div class="about-bottom-grids">
+				<p>&emsp;&emsp;研发团队由国内发动机振动和噪音专业资深的教授级科研人员领衔，辅以橡胶减振器和硅油减振器各类试验设备和分析、计算的手段来设计、检验和验证产品。同时与浙江大学、东南大学、上海内燃机研究所等机构有着密切协作关系。</p>
+				<p>&emsp;&emsp;公司具备年产橡胶减振器100万套、硅油减振器50万件的能力。自主研制的减振器广泛应用于轻型、中型、重型商用车的柴油和天然气发动机，乘用车的汽油、柴油发动机，船用主机和船用/陆用发电机组，工程机械发动机等。公司于2001年通过ISO9001：2000版质量体系认证,2005年通过TS/1694916949：2002质量体系认证，之后是IATF16949:2016，2015年通过ISO14001:2004认证。公司获得政府相关部门联合认证的“高新技术企业”和“浙江省著名商标”。</p>
+
+			</div>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //about -->
+	<!-- banner-bottom -->
+	<!-- testimonials -->
+	<div id="testimonials" class="testimonials">
+		<!-- container -->
+		<div class="container">
+			<div class="testimonials-info">
+				<h3>公司客户群</h3>
+			</div>
+			<div class="testimonials-grids">
+				<script>
+					// You can also use "$(window).load(function() {"
+					$(function () {
+						// Slideshow 4
+						$("#slider3").responsiveSlides({
+							auto: true,
+							pager: true,
+							nav: false,
+							speed: 500,
+							namespace: "callbacks",
+							before: function () {
+								$('.events').append("<li>before event fired.</li>");
+							},
+							after: function () {
+								$('.events').append("<li>after event fired.</li>");
+							}
+						});
+
+					});
+				</script>
+				<div id="top" class="callbacks_container">
+					<ul class="rslides" id="slider3">
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\1.jpg" alt="" />
+								<p><span>"</span>一汽无锡柴油机有限公司<span>"</span></p>
+							</div>
+						</li>
+
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\2.jpg" alt="" />
+								<p><span>"</span>道依茨一汽（大连）柴油机有限公司<span>"</span></p>
+							</div>
+						</li>
+
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\3.jpg" alt="" />
+								<p><span>"</span>东风朝阳朝柴动力有限公司<span>"</span></p>
+							</div>
+						</li>
+
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\4.jpg" alt="" />
+								<p><span>"</span>中国重汽<span>"</span></p>
+							</div>
+						</li>
+
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\5.jpg" alt="" />
+								<p><span>"</span>广西玉柴机器股份有限公司<span>"</span></p>
+							</div>
+						</li>
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\6.jpg" alt="" />
+								<p><span>"</span>潍柴动力<span>"</span></p>
+							</div>
+						</li>
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\7.jpg" alt="" />
+								<p><span>"</span>长城汽车<span>"</span></p>
+							</div>
+						</li>
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\8.jpg" alt="" />
+								<p><span>"</span>比亚迪汽车<span>"</span></p>
+							</div>
+						</li>
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\9.jpg" alt="" />
+								<p><span>"</span>奇瑞汽车<span>"</span></p>
+							</div>
+						</li>
+						<li>
+							<div class="testimonials-grid">
+								<img src="images\khq\10.jpg" alt="" />
+								<p><span>"</span>东风康明斯<span>"</span></p>
+							</div>
+						</li>
+
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //testimonials -->
+	<!-- gallery -->
+	<div id="gallery" class="gallery-top">
+		<!-- container -->
+		<div class="container">
+			<div class="gallery-info">
+				<h3>产品中心</h3>
+				<h5 class="caption">公司已具备年产橡胶减振器90万套、硅油减振器50万件的能力。目前产品适用功率范围:66KW-601KW;硅油减振器规格:φ205-φ500mm。</h5>
+			</div>
+			<div class="gallery-grids-top">
+				<div class="gallery-grids">
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/101.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/101.jpg" alt="" /></a>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/102.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/102.jpg" alt="" /></a>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/103.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/103.jpg" alt="" /></a>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/104.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/104.jpg" alt="" /></a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="gallery-grids gallery-grids-middle">
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/201.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/201.jpg" alt="" /></a>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/202.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/202.jpg" alt="" /></a>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/203.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/203.jpg" alt="" /></a>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/204.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/204.jpg" alt="" /></a>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<script src="js/lightbox-plus-jquery.min.js"></script>
+			</div>
+		</div>
+		<!-- //container -->
+	</div>
+
+	<div id="gallery1" class="gallery-top">
+		<!-- container -->
+		<div class="container">
+			<div class="gallery-info">
+				<h3>试验和验证设备</h3>
+				<h5 class="caption">对橡胶减振器，我们具备检测橡胶减振器固有频率的测量仪器、静扭矩测量仪器、臭氧试验箱、高温老化试验箱、低温橡胶脆性试验箱；</h5>
+				<h5 class="caption">对硅油减振器，我们有硅油减振器阻尼性能测量仪、硅油粘度测量仪器；</h5>
+				<h5 class="caption">减振器扭振振幅测量设备、减振器轴向振动测量设备、减振器温度测量设备，对金属材料成分进行快速精确分析的德国生产的光谱仪。</h5>
+
+				
+			</div>
+			<div class="gallery-grids-top">
+				<div class="gallery-grids">
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/301.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/301.jpg" alt="" /></a>
+						<P align="center">自动灌注硅油装置</P>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/302.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/302.jpg" alt="" /></a>
+						<P align="center">轴向振动测量仪</P>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/303.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/303.jpg" alt="" /></a>
+						<P align="center">频谱仪</P>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/304.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/304.jpg" alt="" /></a>
+						<P align="center">橡胶减振器固有频率测量仪</P>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+				<div class="gallery-grids gallery-grids-middle">
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/401.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/401.jpg" alt="" /></a>
+						<P align="center">橡胶减振器动态耐久试验机</P>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/402.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/402.jpg" alt="" /></a>
+						<P align="center">橡胶减振器静扭矩测试机</P>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/403.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/403.jpg" alt="" /></a>
+						<P align="center">硅油粘度测量仪</P>
+					</div>
+					<div class="col-md-3 gallery-grid">
+						<a class="example-image-link" href="images/404.jpg" data-lightbox="example-set" data-title=""><img class="example-image" src="images/404.jpg" alt="" /></a>
+						<P align="center">三坐标测量仪</P>
+					</div>
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //gallery -->
+	
+	<!-- contact -->
+	<div id="contact" class="contact">
+		<!-- container -->
+		<div class="container">
+			<div class="contact-info">
+				<h3>联系我们</h3>
+				<table border="1" frame="void" rules="none" width="750" align="center">
+					<tr height="50" align="left">
+						<td width="450"><h5 class="caption">地 址：宁波市 象山县城东工业园万隆路628号</h5></td>
+						<td width="300"><h5 class="caption">联系人： 侯祖飞</h5></td>
+					</tr>
+
+					<tr height="50" align="left">
+						<td width="450"><h5 class="caption">电 话： 0574-65783888 ,65783838</h5></td>
+						<td width="300"><h5 class="caption">传 真： 0574-65783888,6578381</h5></td>
+					</tr>
+
+					<tr height="50" align="left">
+						<td width="450"><h5 class="caption">网 址： http://www.nbsds.com.cn</h5></td>
+						<td width="300"><h5 class="caption">邮 箱： qjw@nbsds.com.cn</h5></td>
+					</tr>
+				</table>
+			</div>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //contact -->
+	<!-- footer -->
+	<div class="footer">
+		<!-- container -->
+		<div class="container">
+			<p>
+				<img src="./images/备案图标.png" /><a rel="nofollow" href="http://www.beian.miit.gov.cn" target="_blank">浙ICP备20012914</a>
+			</p>
+		</div>
+		<!-- //container -->
+	</div>
+	<!-- //footer -->
+	<script type="text/javascript">
+		$(document).ready(function () {
+			/*
+			var defaults = {
+					containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear'
+				};
+			*/
+
+			$().UItoTop({ easingType: 'easeOutQuart' });
+
+		});
+	</script>
+	<a href="#" id="toTop" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+	<!-- content-Get-in-touch -->
+	<script src="js/responsiveslides.min.js"></script>
+	<script type="text/javascript" src="js/move-top.js"></script>
+	<script type="text/javascript" src="js/easing.js"></script>
+</body>
+</html>
