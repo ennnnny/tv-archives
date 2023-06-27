@@ -1,64 +1,7 @@
-<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=Cache-Control content="no-cache, no-store, must-revalidate"><link href=./static/animate.css rel=stylesheet><title>ESL Cloud System</title><link rel=stylesheet href=./static/theme/icon.css><link rel=stylesheet href=./static/js/jquery.contextMenu.css><style>html{
-              touch-action:none;
-          }</style><script>function ToCDB(obj) {
-              var tmp = "";
-              var str = obj.value;
-              for(var i=0;i<str.length;i++){
-                  if (str.charCodeAt(i) === 12288){
-                      tmp += String.fromCharCode(str.charCodeAt(i)-12256);
-                      continue;
-                  }
-                  if(str.charCodeAt(i) > 65280 && str.charCodeAt(i) < 65375){
-                      tmp += String.fromCharCode(str.charCodeAt(i)-65248);
-                  }
-                  else{
-                      tmp += String.fromCharCode(str.charCodeAt(i));
-                  }
-              }
-              return tmp
-          };</script><link href=/static/css/app.02d7ff10769a7fb6b98a4c0aa05e844a.2.02020.9.9.css rel=stylesheet></head><body><script src=./static/fabricchange.js></script><script src=./static/customiseControls.min.js></script><div id=app></div><script>/*window.onload = function(){
-          if( sessionStorage.getItem('lan') ==='ar'){
-              var inputs=document.getElementsByTagName("input");
-              for(var i=0;i<inputs.length;i++){
-                  inputs[i].setAttribute('dir','rtl');
-              }
-              var textareas=document.getElementsByTagName("textarea");
-              for(var i=0;i<textareas.length;i++){
-                  textareas[i].setAttribute('dir','rtl');
-              }
-          }
-      }
-*/
-      function inputdir(){
-
-          window.onload = function() {
-              if (sessionStorage.getItem('lan') === 'ar') {
-                  var inputs = document.getElementsByTagName("input");
-                  console.log(inputs);
-
-                  for (var i = 0; i < inputs.length; i++) {
-                      inputs[i].setAttribute('dir', 'rtl');
-                  }
-                  var textareas = document.getElementsByTagName("textarea");
-                  for (var j = 0; j < textareas.length; j++) {
-                      textareas[j].setAttribute('dir', 'rtl');
-                  }
-              }
-              console.log(inputs);
-          }
-          setTimeout(()=>{
-              if (sessionStorage.getItem('lan') === 'ar') {
-                  var inputs = document.getElementsByTagName("input");
-                  console.log(inputs);
-
-                  for (var i = 0; i < inputs.length; i++) {
-                      inputs[i].setAttribute('dir', 'rtl');
-                  }
-                  var textareas = document.getElementsByTagName("textarea");
-                  for (var j = 0; j < textareas.length; j++) {
-                      textareas[j].setAttribute('dir', 'rtl');
-                  }
-              }
-              console.log(inputs);
-          },1000);
-      }</script><script type=text/javascript src=/static/js/manifest.01babb6b1b5a5f218c85.2.02020.9.9.js></script><script type=text/javascript src=/static/js/vendor.398d4d3163d100d04572.2.02020.9.9.js></script><script type=text/javascript src=/static/js/app.83c32b972c4930b12b3b.2.02020.9.9.js></script></body></html>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>openresty</center>
+</body>
+</html>
