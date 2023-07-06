@@ -1,7 +1,10 @@
-<html>
-<head><title>400 Bad Request</title></head>
-<body>
-<center><h1>400 Bad Request</h1></center>
-<hr><center>nginx/1.16.1</center>
-</body>
-</html>
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+<hr>
+<address>Apache/2.4.41 (Ubuntu) Server at aHR0cDovL2h6NzUyLmxvdmU6NjMvdHh0L3lzYm94LnR4dA== Port 80</address>
+</body></html>
