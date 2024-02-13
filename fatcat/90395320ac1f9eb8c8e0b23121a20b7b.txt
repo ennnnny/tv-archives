@@ -1,7 +1,27 @@
+<!DOCTYPE HTML>
 <html>
-<head><title>502 Bad Gateway</title></head>
-<body bgcolor="white">
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.10.3 (Ubuntu)</center>
-</body>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>无法显示此页</title>
+    </head>
+
+    <body onLoad="javascript:getInfo();">
+        <div id="contentContainer" class="mainContent">
+            <div id="mainTitle" class="title">无法显示此页</div>
+            <div class="taskSection" id="taskSection">
+                <ul id="cantDisplayTasks" class="tasks">
+                    <li id="task1-1">确保 Web 地址 <span id="webpage" class="webpageURL"></span> 正确。</li>
+                    <li id="task1-2">使用搜索引擎查找页面。</li>
+                    <li id="task1-3">请过几分钟后刷新页面。</li>
+                </ul>
+                <ul id="notConnectedTasks" class="tasks" style="display:none">
+                    <li id="task2-1">检查确认所有网线都已插好。</li>
+                    <li id="task2-2">确认关闭了飞行模式。</li>
+                    <li id="task2-3">确保开启了无线交换机。</li>
+                    <li id="task2-4">看看能否连接到移动宽带。</li>
+                    <li id="task2-5">重启路由器。</li>
+                </ul>
+            </div>
+        </div>
+    </body>
 </html>
