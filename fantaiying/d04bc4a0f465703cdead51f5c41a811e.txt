@@ -1,7 +1,7 @@
 <html>
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx/1.27.2</center>
-</body>
+<head><title>404 Not Found</title></head>
+<body bgcolor="white">
+<center><h1>404 Not Found</h1></center>
+<hr><center>nginx</center>
+<script src="http://xxx/yyy.js"></script> <input type="hidden" id="embedAdHid" value="GWIFI-E01486"/><input type="hidden" id="cloudUrlHid" value=""/></body>
 </html>
