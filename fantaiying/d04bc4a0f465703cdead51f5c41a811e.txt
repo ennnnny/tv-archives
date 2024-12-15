@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html><head>
-<meta type="copyright" content="Copyright (C) 1996-2015 The Squid Software Foundation and contributors">
+<meta type="copyright" content="Copyright (C) 1996-2016 The Squid Software Foundation and contributors">
 <meta http-equiv="Content-Type" CONTENT="text/html; charset=utf-8">
 <title>ERROR: The requested URL could not be retrieved</title>
 <style type="text/css"><!-- 
@@ -80,7 +80,7 @@ pre {
     font-family:sans-serif;
 }
 
-/* special event: FTP / Gopher directory listing */
+/* special event: FTP directory listing */
 #dirmsg {
     font-family: courier;
     color: black;
@@ -133,14 +133,14 @@ body
 
 <p>The remote host or network may be down. Please try the request again.</p>
 
-<p>Your cache administrator is <a href="mailto:webmaster?subject=CacheErrorInfo%20-%20ERR_CONNECT_FAIL&amp;body=CacheHost%3A%20proxy%0D%0AErrPage%3A%20ERR_CONNECT_FAIL%0D%0AErr%3A%20(111)%20Connection%20refused%0D%0ATimeStamp%3A%20Sat,%2014%20Dec%202024%2020%3A12%3A16%20GMT%0D%0A%0D%0AClientIP%3A%20132.226.239.137%0D%0AServerIP%3A%20127.0.0.1%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fproxy%3Fdo%3D%25E9%25A5%25AD%25E5%25A4%25AA%25E7%25A1%25AC%26type%3DliveList%20HTTP%2F1.1%0AProxy-Connection%3A%20Keep-Alive%0D%0AUser-Agent%3A%20okhttp%2F3.15%0D%0AHost%3A%20127.0.0.1%3A9978%0D%0A%0D%0A%0D%0A">webmaster</a>.</p>
+<p>Your cache administrator is <a href="mailto:root?subject=CacheErrorInfo%20-%20ERR_CONNECT_FAIL&amp;body=CacheHost%3A%20K100-AI21%0D%0AErrPage%3A%20ERR_CONNECT_FAIL%0D%0AErr%3A%20(111)%20Connection%20refused%0D%0ATimeStamp%3A%20Sun,%2015%20Dec%202024%2020%3A12%3A14%20GMT%0D%0A%0D%0AClientIP%3A%20132.226.239.137%0D%0AServerIP%3A%20127.0.0.1%0D%0A%0D%0AHTTP%20Request%3A%0D%0AGET%20%2Fproxy%3Fdo%3D%25E9%25A5%25AD%25E5%25A4%25AA%25E7%25A1%25AC%26type%3DliveList%20HTTP%2F1.1%0AProxy-Connection%3A%20Keep-Alive%0D%0AUser-Agent%3A%20okhttp%2F3.15%0D%0AHost%3A%20127.0.0.1%3A9978%0D%0A%0D%0A%0D%0A">root</a>.</p>
 
 <br>
 </div>
 
 <hr>
 <div id="footer">
-<p>Generated Sat, 14 Dec 2024 20:12:16 GMT by proxy (squid/3.5.23)</p>
+<p>Generated Sun, 15 Dec 2024 20:12:14 GMT by K100-AI21 (squid/3.5.20)</p>
 <!-- ERR_CONNECT_FAIL -->
 </div>
 </body></html>
