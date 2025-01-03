@@ -1,13 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>ERROR: Gateway Timeout</title></head>
-<body><h2>ERROR: Gateway Timeout</h2>
-<hr noshade size="1px"/>
-
-<p>While trying to retrieve the URL <a href="http://127.0.0.1:9978/proxy?do=%E9%A5%AD%E5%A4%AA%E7%A1%AC&type=liveList">http://127.0.0.1:9978/proxy?do=%E9%A5%AD%E5%A4%AA%E7%A1%AC&type=liveList</a>:</p>
-<ul><li><strong>Connection refused</strong></li></ul>
-
-<p>Your cache administrator is <a href="mailto:webmaster">webmaster</a>.
-<br clear="all"/><hr noshade size="1px"/>
-<address>Generated Wed, 01 Jan 2025 20:12:15 GMT by 218.255.90.106 (Mikrotik HttpProxy)</address>
-</body></html>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.18.0 (Ubuntu)</center>
+</body>
+</html>
