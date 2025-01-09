@@ -6,6 +6,6 @@
 <p>The server is temporarily unable to service your
 request due to maintenance downtime or capacity
 problems. Please try again later.</p>
-<p>Additionally, a 503 Service Unavailable
-error was encountered while trying to use an ErrorDocument to handle the request.</p>
+<hr>
+<address>Apache/2.4.52 (Ubuntu) Server at 127.0.0.1 Port 9978</address>
 </body></html>
