@@ -1,7 +1,7 @@
 <html>
-<head><title>404 Not Found</title></head>
-<body bgcolor="white">
-<center><h1>404 Not Found</h1></center>
-<hr><center>nginx</center>
-<script src="http://xxx/yyy.js"></script> <input type="hidden" id="embedAdHid" value="GWIFI-E01486"/><input type="hidden" id="cloudUrlHid" value=""/></body>
+<head><title>500 Internal Server Error</title></head>
+<body>
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx/1.24.0</center>
+</body>
 </html>
