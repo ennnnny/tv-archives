@@ -1,10 +1,7 @@
-<pre>
-From: whistle@2.3.0
-Node: v8.16.1
-Date: 2025-1-19 20:12:12
-Error: connect ECONNREFUSED 127.0.0.1:9978
-    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
-
-
-<a href="javascript:;" onclick="location.reload()">Reload this page</a>
-</pre>
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.12.2</center>
+</body>
+</html>
