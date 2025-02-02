@@ -1,1 +1,885 @@
-dial tcp 127.0.0.1:9978: connect: connection refused
+<!DOCTYPE html>
+
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>万维宝</title>
+    <meta name="viewport"
+          content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta name="description" content="Free HTML5 Template by FREEHTML5.CO"/>
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta content="yes" name="apple-touch-fullscreen">
+    <meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive"/>
+    <meta name="author" content="FREEHTML5.CO"/>
+
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+    <!-- <link href="/resource/Plugins/appwebsite/css/about-us.css" rel="stylesheet" type="text/css"/> -->
+
+    <!-- <link rel="shortcut icon" href="/Content/wwb/images/favicon.ico'/>"> -->
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="/baoweiwebsite/css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="/baoweiwebsite/css/icomoon.css">
+    <!-- Simple Line Icons-->
+    <link rel="stylesheet" href="/baoweiwebsite/css/simple-line-icons.css">
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="/baoweiwebsite/css/magnific-popup.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="/baoweiwebsite/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="/baoweiwebsite/css/owl.theme.default.min.css">
+    <!-- Salvattore -->
+    <!--<link rel="stylesheet" href="/baoweiwebsite/css/salvattore.css">-->
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="/baoweiwebsite/css/style.css">
+
+    <script src="/baoweiwebsite/js/modernizr-2.6.2.min.js"></script>
+
+    <!-- FOR IE9 below -->
+    <!--[if lt IE 9]>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "https://hm.baidu.com/hm.js?c063096a9e4e22a6d2e8cb5cd86fb36b";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+</head>
+<body>
+
+<div id="fh5co-offcanvass">
+    <ul>
+        <li class="active"><a href="#fh5co-wrap">首页</a></li>
+        <li><a href="#fh5co-features">关于</a></li>
+        <li><a href="#fh5co-cta">服务</a></li>
+        <li><a href="#concatAncho">联系</a></li>
+        <li><a href="http://www.365wwb.com/wwb.html">登录</a></li>
+    </ul>
+</div>
+
+<div id="fh5co-menu" class="navbar">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <a href="#" class="js-fh5co-nav-toggle fh5co-nav-toggle" data-toggle="collapse"
+                   data-target="#fh5co-navbar" aria-expanded="false" aria-controls="navbar"><span>Menu</span>
+                    <i></i></a>
+                <a href="wwb.html" class="navbar-brand"><span class="brand-logo"></span></a>
+                <div class="top-nav">
+                    <li><a href="#fh5co-wrap">首页</a></li>
+                    <li><a href="#fh5co-features">关于</a></li>
+                    <li><a href="#fh5co-cta">服务</a></li>
+                    <li><a href="#concatAncho">联系</a></li>
+                    <li><a href="http://www.365wwb.com/wwb.html">登录</a></li>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--有背景图片-->
+<div id="fh5co-page">
+    <div id="fh5co-wrap">
+        <header id="fh5co-hero" role="banner"
+                style="background: url(/baoweiwebsite/images/top_home_bg.jpg) top left; background-size: cover;">
+            <div class="fh5co-overlay"></div>
+            <div class="fh5co-intro">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-7 fh5co-text" style="position:relative">
+                            <h2 class="to-animate intro-animate-1">万维宝</h2>
+                            <p class="to-animate intro-animate-1"><img src="/baoweiwebsite/images/img-line.png"/></p>
+                            <h3 class="to-animate intro-animate-2 text-white" style="margin-bottom:30px;">
+                                专业的设备维保互联网平台</h3>
+                            <p class="to-animate intro-animate-3" style="margin-bottom:40px; line-height:30px;">
+                                万维宝是苏州宝维网络有限公司巨资打造的互联网服务品牌，自成立以来，一直专注于设备维保服务，是全国最专业的设备维保平台服务商。</p>
+
+                            <div class="row">
+                                <div class="col-md-4 text-center">
+										<span class="to-animate intro-animate-4">
+											<img src="/baoweiwebsite/images/QRCodeWwb/weibao-pro(Android).jpg"/>
+											<br>
+											<br>
+                                            <a href="http://www.365wwb.com/download/wwb.apk"
+                                               class="btn btn-success btn-sm"
+                                               style="width:100%; height:43px; text-align:center;">
+												<i class="icon-android"></i> Android 下载
+											</a>
+										</span>
+                                </div>
+
+                                <div class="col-md-4  text-center">
+										<span class="to-animate intro-animate-5">
+											<img src="/baoweiwebsite/images/QRCodeWwb/weibao-pro(IOS).jpg"/>
+											<br>
+											<br>
+											<a href="https://itunes.apple.com/us/app/wan-wei-bao/id1164000307?mt=8"
+                                               class="btn btn-primary btn-sm" style="width:100%; height:43px;">
+												<i class="icon-apple"></i> iPhone 下载
+											</a>
+										</span>
+                                </div>
+                                <div class="col-md-4  text-center">
+										<span class="to-animate intro-animate-5">
+											<img src="/baoweiwebsite/images/QRCodeWwb/weibao-pro(WeiXin).jpg"/>
+											<br>
+											<br>
+											<div href="#"
+                                                 style="width:100%; height:43px;font-size: 20px;display:inline-block;margin-top: 7px;"><i
+                                                    class="icon-weixin"></i> 关注微信公众号</div>
+										</span>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-md-5 text-right fh5co-intro-img to-animate intro-animate-4">
+                            <img src="/baoweiwebsite/images/iphone_6_3.png" alt="app">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </header>
+        <!-- END .header -->
+
+        <div id="fh5co-main">
+            <div id="fh5co-clients">
+                <div class="container">
+                    <div class="row text-center">
+                        <div class="to-animate">
+                            <img src="/baoweiwebsite/images/img-line.png"/>
+                        </div>
+                        <div class="to-animate">
+                            <h3 class="text-white">设备维保那点事</h3>
+                        </div>
+                        <div class="to-animate">
+                            <h2 class="text-white">那都不是事</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="fh5co-features">
+                <div class="container">
+                    <div class="row">
+                        <!-- <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                            <h2 class="fh5co-lead to-animate">多方共赢的生态链平台</h2>
+                            <p class="fh5co-sub to-animate">多端同步，无缝沟通， 智能维保，一键搞定，全程管控，省时省心</p>
+                        </div> -->
+                        <div class="text-center to-animate" style="padding: 0 10px;">
+                            <img src="/baoweiwebsite/images/img-3fang.png"
+                                 style="width: 100%;height: 100%;display: block;"/>
+                        </div>
+                        <!-- <div class="text-center" style="margin: 40px 0;">
+                            <span class="to-animate pd40"><img src="/baoweiwebsite/images/ver-ios.png"/></span>
+                            <span class="to-animate pd40"><img src="/baoweiwebsite/images/ver-andriod.png"/></span>
+                            <span class="to-animate pd40"><img src="/baoweiwebsite/images/ver-windows.png"/></span>
+                        </div> -->
+                        <!-- <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-001.png"/></span>
+                                <h3 class="fh5co-feature-lead">故障维修工单</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-002.png"/></span>
+                                <h3 class="fh5co-feature-lead">设备管理</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-003.png"/></span>
+                                <h3 class="fh5co-feature-lead">工程管理</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-004.png"/></span>
+                                <h3 class="fh5co-feature-lead">使用单位管理</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="fh5co-spacer fh5co-spacer-sm"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-005.png"/></span>
+                                <h3 class="fh5co-feature-lead">供货单位管理</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-006.png"/></span>
+                                <h3 class="fh5co-feature-lead">维修单位管理</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-007.png"/></span>
+                                <h3 class="fh5co-feature-lead">帐号管理</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="#" class="fh5co-feature to-animate">
+                                <span><img src="images/icon-008	.png"/></span>
+                                <h3 class="fh5co-feature-lead">数据导入</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+
+                        <div class="fh5co-spacer fh5co-spacer-sm"></div> -->
+                    </div>
+                </div>
+            </div>
+            <div id="fh5co-features-2" data-section="design">
+                <div class="fh5co-features-2-content">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                                <h2 class="fh5co-lead to-animate">最简单的报修</h2>
+                                <p class="fh5co-sub to-animate">APP一键报修，就这么轻松</p>
+                            </div>
+                            <div class="col-md-4 fh5co-text-wrap">
+                                <div class="row text-center">
+                                    <div class="col-md-12 col-sm-6 col-xs-6 col-xxs-12 fh5co-text animate-object features-2-animate-3">
+                                        <span class="fh5co-icon"><img src="/baoweiwebsite/images/icon-app-01.png"
+                                                                      width="30%"/></span>
+                                        <h4 class="fh5co-uppercase-sm">图片/文字/视频</h4>
+                                        <p>简单易懂</p>
+                                    </div>
+                                    <div class="col-md-12 col-sm-6 col-xs-6 col-xxs-12 fh5co-text animate-object features-2-animate-4">
+                                        <span class="fh5co-icon"><img src="/baoweiwebsite/images/icon-app-02.png"
+                                                                      width="30%"/></span>
+                                        <h4 class="fh5co-uppercase-sm">GPS/WIFI/基站</h4>
+                                        <p>多重位置定位</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-md-push-4 fh5co-text-wrap">
+                                <div class="row text-center">
+                                    <div class="col-md-12 col-sm-6 col-xs-6 col-xxs-12 fh5co-text animate-object features-2-animate-5">
+                                        <span class="fh5co-icon"><img src="/baoweiwebsite/images/icon-app-03.png"
+                                                                      width="30%"/></span>
+                                        <h4 class="fh5co-uppercase-sm">二维码扫描</h4>
+                                        <p>快速设备定位</p>
+                                    </div>
+                                    <div class="col-md-12 col-sm-6 col-xs-6 col-xxs-12 fh5co-text animate-object features-2-animate-6">
+                                        <span class="fh5co-icon"><img src="/baoweiwebsite/images/icon-app-04.png"
+                                                                      width="30%"/></span>
+                                        <h4 class="fh5co-uppercase-sm">我的</h4>
+                                        <p>显示版本信息 / 帮助信息 / 退出系统</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4 col-md-pull-4 fh5co-image animate-object features-2-animate-2">
+                                <p class="text-center">
+                                    <img src="/baoweiwebsite/images/iphone_blank_2.png" class="" alt="app">
+                                </p>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="fh5co-products" data-section="products"
+                 style="background-image: url(/baoweiwebsite/images/bg_6.jpg); background-size: cover;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                            <h2 class="fh5co-lead to-animate text-white">最智能的派单</h2>
+                            <p class="fh5co-sub to-animate text-white">一键直达，无需中间环节</p>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-001.png"/></span>
+                                <h3 class="fh5co-feature-lead">专业的地理区域划分法</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-002.png"/></span>
+                                <h3 class="fh5co-feature-lead">高效的GIS算法支撑</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-003.png"/></span>
+                                <h3 class="fh5co-feature-lead">用户行为智能分析</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-004.png"/></span>
+                                <h3 class="fh5co-feature-lead">云端智能拆单</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="fh5co-spacer fh5co-spacer-sm"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-005.png"/></span>
+                                <h3 class="fh5co-feature-lead">机器智能学习</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-006.png"/></span>
+                                <h3 class="fh5co-feature-lead">大数据分析支撑</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-007.png"/></span>
+                                <h3 class="fh5co-feature-lead">关键特征值匹配</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="javascript:" class="fh5co-feature to-animate">
+                                <span><img src="/baoweiwebsite/images/icon-008.png"/></span>
+                                <h3 class="fh5co-feature-lead">API自动报修</h3>
+                            </a>
+                        </div>
+                        <div class="fh5co-spacer fh5co-spacer-sm"></div>
+                    </div>
+                </div>
+            </div>
+
+            <!--删除<div id="fh5co-testimony" data-section="testimonies">
+                <div class="container">
+                    <div class="row animate-box">
+                        <div class="owl-carousel">
+                            <div class="item">
+                                <div class="col-md-3 col-sm-3 col-xs-4 col-xxs-12">
+                                    <figure class="fh5co-vcard"><img src="images/user.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive"></figure>
+                                </div>
+                                <div class="col-md-9 col-sm-9 col-xs-8 col-xxs-12">
+                                    <blockquote>
+                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+                                    </blockquote>
+                                    <p class="fh5co-author fh5co-uppercase-sm"><span>Gustav Barrow</span>, XYZ Inc.</p>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="col-md-3 col-sm-3 col-xs-4 col-xxs-12">
+                                    <figure class="fh5co-vcard"><img src="images/user_2.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive"></figure>
+                                </div>
+                                <div class="col-md-9 col-sm-9 col-xs-8 col-xxs-12">
+                                    <blockquote>
+                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+                                    </blockquote>
+                                    <p class="fh5co-author fh5co-uppercase-sm"><span>Gustav Barrow</span>, XYZ Inc.</p>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="col-md-3 col-sm-3 col-xs-4 col-xxs-12">
+                                    <figure class="fh5co-vcard"><img src="images/user_3.jpg" alt="Free HTML5 Template by FREEHTML5.co" class="img-responsive"></figure>
+                                </div>
+                                <div class="col-md-9 col-sm-9 col-xs-8 col-xxs-12">
+                                    <blockquote>
+                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+                                    </blockquote>
+                                    <p class="fh5co-author fh5co-uppercase-sm"><span>Gustav Barrow</span>, XYZ Inc.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+
+            <!--删除<div id="fh5co-counter" data-section="counter" class="fh5co-bg-section" style="background-image: url(images/bg_3.jpg); background-attachment: fixed;">
+                <div class="fh5co-overlay"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                            <h2 class="fh5co-lead to-animate1">最高效的沟通</h2>
+                            <p class="fh5co-sub to-animate2">直接沟通，使命必达</p>
+                        </div>
+                        <div class="col-md-12">
+                            <div class="fh5co-hero-wrap">
+                                <div class="fh5co-hero-intro text-center to-animate counter-animate">
+                                    <div class="col-md-4 text-center">
+                                        <span class="fh5co-counter js-counter" data-from="0" data-to="287" data-speed="5000" data-refresh-interval="50"></span>
+                                        <span class="fh5co-counter-label">企业数</span>
+                                    </div>
+                                    <div class="col-md-4 text-center">
+                                        <span class="fh5co-counter js-counter" data-from="0" data-to="43056" data-speed="5000" data-refresh-interval="50"></span>
+                                        <span class="fh5co-counter-label">用户数</span>
+                                    </div>
+                                    <div class="col-md-4 text-center">
+                                        <span class="fh5co-counter js-counter" data-from="0" data-to="28" data-speed="5000" data-refresh-interval="50"></span>
+                                        <span class="fh5co-counter-label">省份地区</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>-->
+
+            <div id="fh5co-products" data-section="products">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                            <h2 class="fh5co-lead animate-single product-animate-1">最高效的沟通</h2>
+                            <p class="fh5co-sub animate-single product-animate-2">直接沟通，使命必达</p>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="/baoweiwebsite/images/product_1.jpg" class="fh5co-figure to-animate image-popup">
+                                <figure>
+                                    <img src="/baoweiwebsite/images/product_1.jpg" alt="Free HTML5 Responsive Template"
+                                         class="img-responsive">
+                                </figure>
+                                <h3 class="fh5co-figure-lead">01 企业群组/全员共享/找人方便</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="/baoweiwebsite/images/product_2.jpg" class="fh5co-figure to-animate image-popup">
+                                <figure>
+                                    <img src="/baoweiwebsite/images/product_2.jpg" alt="Free HTML5 Responsive Template"
+                                         class="img-responsive">
+                                </figure>
+                                <h3 class="fh5co-figure-lead">02 新任务单自动提醒</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="/baoweiwebsite/images/product_3.jpg" class="fh5co-figure to-animate image-popup">
+                                <figure>
+                                    <img src="/baoweiwebsite/images/product_3.jpg" alt="Free HTML5 Responsive Template"
+                                         class="img-responsive">
+                                </figure>
+                                <h3 class="fh5co-figure-lead">03 加急任务 消息催办</h3>
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <a href="/baoweiwebsite/images/product_4.jpg" class="fh5co-figure to-animate image-popup">
+                                <figure>
+                                    <img src="/baoweiwebsite/images/product_4.jpg" alt="Free HTML5 Responsive Template"
+                                         class="img-responsive">
+                                </figure>
+                                <h3 class="fh5co-figure-lead">04 有图为证/无需解释/简单粗暴</h3>
+                            </a>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="fh5co-spacer fh5co-spacer-sm"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="fh5co-features-3" data-section="benefits" style="position:relative;overflow: hidden;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                            <h2 class="fh5co-lead animate-single features3-animate-1">最专业的管控</h2>
+                            <p class="fh5co-sub animate-single features3-animate-2 lh18">严谨又简单，就这么任性</p>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 text-center fh5co-text-wrap">
+                            <div class="fh5co-text to-animate">
+                                <span class="fh5co-icon"><i class="icon-bell2"></i></span>
+                                <h4 class="fh5co-uppercase-sm lh18">维修全过程跟踪，<br>消息自动通知</h4>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 text-center fh5co-text-wrap">
+                            <div class="fh5co-text to-animate">
+                                <span class="fh5co-icon"><i class="icon-clipboard2"></i></span>
+                                <h4 class="fh5co-uppercase-sm lh18">维修时间、地点自动采集，<br>维修全程透明</h4>
+                                <!--<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>-->
+                            </div>
+                        </div>
+
+                        <div class="clearfix visible-sm-block"></div>
+
+                        <div class="col-md-4 col-sm-6 text-center fh5co-text-wrap">
+                            <div class="fh5co-text to-animate">
+                                <span class="fh5co-icon"><i class="icon-target"></i></span>
+                                <h4 class="fh5co-uppercase-sm lh18">独创的质量分析模型，<br>维修质量自动打分、排名</h4>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 text-center fh5co-text-wrap">
+                            <div class="fh5co-text to-animate">
+                                <span class="fh5co-icon"><i class="icon-bar-graph-2"></i></span>
+                                <h4 class="fh5co-uppercase-sm lh18">多维度统计报表，<br>一目了然</h4>
+                            </div>
+                        </div>
+
+                        <div class="clearfix visible-sm-block"></div>
+
+                        <div class="col-md-4 col-sm-6 text-center fh5co-text-wrap">
+                            <div class="fh5co-text to-animate">
+                                <span class="fh5co-icon"><i class="icon-money"></i></span>
+                                <h4 class="fh5co-uppercase-sm lh18">多种结算方法，做帐更轻松</h4>
+                            </div>
+                        </div>
+
+                        <!-- <div style="position:absolute;top:-30px;left:-120px;">
+                            <span class="to-animate"><img src="images/bg-work-01.png"/></span>
+                        </div>
+                        <div style="position:absolute;bottom:0;right:-140px;">
+                            <span class="to-animate"><img src="images/bg-work-02.png"/></span>
+                        </div> -->
+                        <!--<div class="col-md-4 col-sm-6 text-center fh5co-text-wrap">
+                            <div class="fh5co-text to-animate">
+                                <span class="fh5co-icon"><i class="icon-energy"></i></span>
+                                <h4 class="fh5co-uppercase-sm">Cross platform support</h4>
+                                <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                            </div>
+                        </div>-->
+
+                    </div>
+                </div>
+            </div>
+            <div id="fh5co-cta">
+                <div class="fh5co-bg-section cta"
+                     style="background-image: url(/baoweiwebsite/images/bg_5.jpg); background-attachment: fixed;">
+                    <div class="fh5co-overlay"></div>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="fh5co-hero-wrap">
+                                    <div class="fh5co-hero-intro text-center">
+                                        <div class="row">
+                                            <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                                                <h2 class="fh5co-lead to-animate"><span style="color:#FFF">致力成为中国最好设备维保服务平台</span>
+                                                </h2>
+                                                <p class="fh5co-sub to-animate"
+                                                   style="font-size:22px; line-height:40px;">
+                                                    万维宝是苏州宝维网络有限公司巨资打造的互联网服务品牌，自成立以来，一直专注于设备维保服务，是全国最专业的设备维保平台服务商。</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="fh5co-pricing" data-section="pricing"
+                 style="background-image: url(/baoweiwebsite/images/bg_4.jpg);background-size:cover;">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                                <h2 class="fh5co-lead animate-single pricing-animate-1" style="color:#FFF">
+                                    开放的企业级互联网平台</h2>
+                                <p class="fh5co-sub animate-single pricing-animate-2" style="color:#FFF">
+                                    专注于设备维保，适用各种场景</p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-12">
+                            <div class="to-animate text-center">
+                                <h3 class="lh18 text-white" style="color:#CCC;font-size:22px;">
+                                    公司配备了专业技术团队和售后服务团队，为尊贵的客户提供专属应用集成服务。可以帮助用户定制专属的APP，把维保服务嵌入到微信公众号\企业号中。同时，我们越来越多的企业级应用正在陆续上线……</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 删除的
+
+            <div id="fh5co-faqs"  data-section="faqs">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                            <h2 class="fh5co-lead animate-single faqs-animate-1">Frequently Ask Questions</h2>
+                            <p class="fh5co-sub animate-single faqs-animate-2">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container">
+                    <div class="faq-accordion active to-animate">
+                        <span class="faq-accordion-icon-toggle active"><i class="icon-arrow-down"></i></span>
+                        <h3>What is Outline?</h3>
+                        <div class="faq-body" style="display: block;">
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                        </div>
+                    </div>
+                    <div class="faq-accordion to-animate">
+                        <span class="faq-accordion-icon-toggle"><i class="icon-arrow-down"></i></span>
+                        <h3>Is Outline Free?</h3>
+                        <div class="faq-body">
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                        </div>
+                    </div>
+                    <div class="faq-accordion to-animate">
+                        <span class="faq-accordion-icon-toggle"><i class="icon-arrow-down"></i></span>
+                        <h3>How do I use Outline Features?</h3>
+                        <div class="faq-body">
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                        </div>
+                    </div>
+                    <div class="faq-accordion to-animate">
+                        <span class="faq-accordion-icon-toggle"><i class="icon-arrow-down"></i></span>
+                        <h3>Which version of iOS do your apps support?</h3>
+                        <div class="faq-body">
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                        </div>
+                    </div>
+                    <div class="faq-accordion to-animate">
+                        <span class="faq-accordion-icon-toggle"><i class="icon-arrow-down"></i></span>
+                        <h3>What languages are available?</h3>
+                        <div class="faq-body">
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                        </div>
+                    </div>
+                    <div class="faq-accordion to-animate">
+                        <span class="faq-accordion-icon-toggle"><i class="icon-arrow-down"></i></span>
+                        <h3>I have technical problem, who do I email?</h3>
+                        <div class="faq-body">
+                            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                -->
+            <div id="fh5co-subscribe">
+                <div class="container">
+                    <div class="row animate-box">
+                        <div class="col-md-8 col-md-offset-2 fh5co-section-heading text-center">
+                            <h2 class="fh5co-lead text-white">他们选择了万维宝</h2>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <div class="concat-company">
+									<span>
+										<img src="/baoweiwebsite/images/ggfu.jpg"/>
+									</span>
+                                <div>
+                                    <img src="/baoweiwebsite/images/ggfuHover.png"/>
+                                </div>
+                                <p class="fh5co-feature-lead">公共服务</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <div class="concat-company">
+									<span>
+										<img src="/baoweiwebsite/images/jcs.jpg"/>
+									</span>
+                                <div>
+                                    <img src="/baoweiwebsite/images/jcsHover.png"/>
+                                </div>
+                                <p class="fh5co-feature-lead">集成商</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <div class="concat-company">
+									<span>
+										<img src="/baoweiwebsite/images/yys.jpg"/>
+									</span>
+                                <div>
+                                    <img src="/baoweiwebsite/images/yysHover.png"/>
+                                </div>
+                                <p class="fh5co-feature-lead">运营商</p>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 col-xs-6 col-xxs-12">
+                            <div class="concat-company">
+									<span>
+										<img src="/baoweiwebsite/images/zzs.jpg"/>
+									</span>
+                                <div>
+                                    <img src="/baoweiwebsite/images/zzsHover.png"/>
+                                </div>
+                                <p class="fh5co-feature-lead">制造商</p>
+                            </div>
+                        </div>
+                        <div class="clearfix visible-sm-block"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer id="fh5co-footer" style="" data-section="footer">
+        <div class="fh5co-overlay">
+            <div class="wd" id="concatAncho"><img src="/baoweiwebsite/images/kf.jpg"
+												  style="width:1920px;height:675px; overflow:hidden;"/></div>
+        </div>
+        <div class="fh5co-footer-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 text-center">
+                        <h2 class="fh5co-lead">联系</h2>
+                        <h3 class="text-white">全球顶级的保障服务</h3>
+                        <p style="color:#CCC;">更快、更好、更稳定、更安全</p>
+                        <p style="color:#ccc;">阿里云服务器， 高效稳定省心<br>
+
+                            星级运维保障， 数据安全无忧<br>
+                            7*24专属服务，有问题找小宝<br>
+                        </p>
+                        <h3 class="fh5co-sub text-white">维小宝服务热线：<br><br>
+                            <span class="fh5co-icon"><i class="icon-phone-square"></i></span>
+                            0512-65924471
+                            <br>
+                            <br>
+                            severice@365wwb.com<br>
+                        </h3>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 text-center">
+                        <p class="fh5co-social-icons">
+                            <img src="/baoweiwebsite/images/icon-wechat.png" class="social-1" title="微信"/>&nbsp;&nbsp;
+                            <img src="/baoweiwebsite/images/icon-iphone.png" class="social-2" title="iPhone"/>&nbsp;&nbsp;
+                            <img src="/baoweiwebsite/images/icon-android.png" class="social-3" title="android"/>
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="map">
+                <p class="map-area">&nbsp;</p>
+                <!--<div class="map">-->
+                <!--<div id="mapContainer"></div>
+                <div id="panel"></div>-->
+                <!--<p class="fh5co-copyright text-center"><small>&copy; 2016 苏州宝维网络【科技】有限公司 All Rights Reserved.</p>-->
+                <p class="fh5co-copyright text-center"><small>
+                    Copyright ©2016-2020 苏州宝维网络有限公司, All Rights Reserved.
+                    <br><a style="color: blue;" href="https://beian.miit.gov.cn/" target="_blank">苏ICP备16044793号-1</a>
+                    <a style="color: blue;"
+                       href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32059002004513"
+                       target="_blank"><img src="/baoweiwebsite/images/gaba_wwb.png"/></a>
+                    <a style="color: blue;"
+                       href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32059002004513"
+                       target="_blank">苏公网安备 32059002004513号</a>
+                </p>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<!--二维码-->
+<div class="ewm-box3 hide">
+    <div class="ewm-box-content3">
+        <p class="text-center">
+            <img src="/baoweiwebsite/images/QRCodeWwb/weibao-pro(Android).jpg"/><br>
+            扫描二维码，android下载<br>
+            <button class="btn btn-primary btn-sm">确定</button>
+        </p>
+    </div>
+</div>
+
+<div class="ewm-box2 hide">
+    <div class="ewm-box-content2">
+        <p class="text-center">
+            <img src="/baoweiwebsite/images/QRCodeWwb/weibao-pro(IOS).jpg"/><br>
+            扫描二维码，iPhone下载<br>
+            <button class="btn btn-primary btn-sm">确定</button>
+        </p>
+    </div>
+</div>
+
+<div class="ewm-box1 hide">
+    <div class="ewm-box-content1">
+        <p class="text-center">
+            <img src="/baoweiwebsite/images/QRCodeWwb/weibao-pro(WeiXin).jpg"/><br>
+            扫描二维码，关注微信公众号<br>
+            <button class="btn btn-primary btn-sm">确定</button>
+        </p>
+    </div>
+</div>
+
+<!--侧边栏，我个人增加的-->
+<div class="floating_ck" style="display: none;">
+    <dl>
+        <dt></dt>
+        <dd class="words" style="border-radius:6px 0px 0 0;">
+            <span>在线留言</span>
+            <div class="floating_left"><a href="http://sc.chinaz.com">问题在线留言</a></div>
+        </dd>
+        <dd class="quote">
+            <span>服务热线</span>
+            <div class="floating_left" style=" color:#FFF; line-height:25px;"><p class="qrcord_p02"
+                                                                                 style="margin: 15px 0 0 0;">
+                全国免费服务热线<br><b>0512-65924471<b></p></div>
+        </dd>
+        <dd class="qrcord">
+            <span>关注微信</span>
+            <div class="floating_left floating_ewm">
+                <i></i>
+                <p class="qrcord_p01">扫一扫<br>关注万维宝官方微信</p>
+
+            </div>
+        </dd>
+        <dd class="return" style="border-radius:0px 0px 0px 6px;">
+            <span onClick="gotoTop();return false;">返回顶部</span>
+        </dd>
+    </dl>
+</div>
+<!--侧边栏结束-->
+
+<!-- jQuery -->
+<script src="/baoweiwebsite/js/jquery.min.js"></script>
+<!-- jQuery Easing -->
+<script src="/baoweiwebsite/js/jquery.easing.1.3.js"></script>
+<!-- Bootstrap -->
+<script src="/baoweiwebsite/js/bootstrap.min.js"></script>
+<!-- Waypoints -->
+<script src="/baoweiwebsite/js/jquery.waypoints.min.js"></script>
+<!-- Magnific Popup -->
+<script src="/baoweiwebsite/js/jquery.magnific-popup.min.js"></script>
+<!-- Owl Carousel -->
+<script src="/baoweiwebsite/js/owl.carousel.min.js"></script>
+<!-- toCount -->
+<script src="/baoweiwebsite/js/jquery.countTo.js"></script>
+<!-- Main JS -->
+<script src="/baoweiwebsite/js/main.js"></script>
+
+<!--<script type="text/javascript" src="/baoweiwebsite/js/sidebar/top.js"></script>
+<script type="text/javascript" src="/baoweiwebsite/js/map/es5.min.js"></script>
+<script type="text/javascript" src="/baoweiwebsite/js/map/addToolbar.js"></script>
+<script type="text/javascript" src="/baoweiwebsite/js/map/maps.js"></script>
+<script type="text/javascript" src="/baoweiwebsite/js/map/main.js"></script>-->
+
+<script type="text/javascript">
+    $(function () {
+        $('.social-1').click(function () {
+            $('.ewm-box1').removeClass("hide");
+        });
+        $('.social-2').click(function () {
+            $('.ewm-box2').removeClass("hide");
+        });
+        $('.social-3').click(function () {
+            $('.ewm-box3').removeClass("hide");
+        });
+        $('.ewm-box-content1 .btn').click(function () {
+            $('.ewm-box1').addClass("hide");
+        });
+        $('.ewm-box-content2 .btn').click(function () {
+            $('.ewm-box2').addClass("hide");
+        });
+        $('.ewm-box-content3 .btn').click(function () {
+            $('.ewm-box3').addClass("hide");
+        });
+    });
+</script>
+
+</body>
+</html>
