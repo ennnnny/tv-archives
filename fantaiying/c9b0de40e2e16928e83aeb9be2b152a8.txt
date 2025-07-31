@@ -182,6 +182,8 @@ https://epg.iill.top/v/301.mp4
 #INSERT_HERE
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1769475507&bilibili&logo" group-title="•B站「其他」",熊q熊
 http://dns.yiandrive.com:13571/bilibili/1769475507
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/732&bilibili&logo" group-title="•B站「娱乐」",Asaki
+http://dns.yiandrive.com:13571/bilibili/732
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/721&bilibili&logo" group-title="•B站「娱乐」",魔法Zc目录
 http://dns.yiandrive.com:13571/bilibili/721
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22342243&bilibili&logo" group-title="•B站「娱乐」",新华社快看
@@ -190,72 +192,88 @@ http://dns.yiandrive.com:13571/bilibili/22342243
 http://dns.yiandrive.com:13571/bilibili/32330910
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22056077&bilibili&logo" group-title="•B站「影视」",爱情公寓|福禄影视馆
 http://dns.yiandrive.com:13571/bilibili/22056077
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30224749&bilibili&logo" group-title="•B站「影视」",蜡笔小新|新酱不狐涂
-http://dns.yiandrive.com:13571/bilibili/30224749
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30041682&bilibili&logo" group-title="•B站「影视」",臣臣
 http://dns.yiandrive.com:13571/bilibili/30041682
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22970821&bilibili&logo" group-title="•B站「影视」",影视
-http://dns.yiandrive.com:13571/bilibili/22970821
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8178490&bilibili&logo" group-title="•B站「影视」",央视新闻直播
+http://dns.yiandrive.com:13571/bilibili/8178490
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/32009238&bilibili&logo" group-title="•B站「影视」",飞橘
+http://dns.yiandrive.com:13571/bilibili/32009238
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7777&bilibili&logo" group-title="•B站「游戏」",德云社
 http://dns.yiandrive.com:13571/bilibili/7777
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/25919092&bilibili&logo" group-title="•B站「游戏」",第五我爱洗澡
-http://dns.yiandrive.com:13571/bilibili/25919092
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/925378&bilibili&logo" group-title="•B站「游戏」",FARWAY远芳芳
+http://dns.yiandrive.com:13571/bilibili/925378
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22957791&bilibili&logo" group-title="•B站「游戏」",意识DT
 http://dns.yiandrive.com:13571/bilibili/22957791
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22439496&bilibili&logo" group-title="•B站「游戏」",LGDPYL116
-http://dns.yiandrive.com:13571/bilibili/22439496
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2001981&bilibili&logo" group-title="•B站「游戏」",留白Camille
-http://dns.yiandrive.com:13571/bilibili/2001981
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7734200&bilibili&logo" group-title="•B站「游戏」",英雄联盟赛事
-http://dns.yiandrive.com:13571/bilibili/7734200
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/3580061&bilibili&logo" group-title="•B站「游戏」",你是Nana的小可爱吗
 http://dns.yiandrive.com:13571/bilibili/3580061
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/22722289&bilibili&logo" group-title="•B站「游戏」",鱼鹅来了
-http://dns.yiandrive.com:13571/bilibili/22722289
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/672409&bilibili&logo" group-title="•B站「游戏」",航师傅
-http://dns.yiandrive.com:13571/bilibili/672409
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/25602272&bilibili&logo" group-title="•B站「游戏」",翱翔的小辣椒fp
+http://dns.yiandrive.com:13571/bilibili/25602272
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4017751&bilibili&logo" group-title="•B站「游戏」",BestNaomi
+http://dns.yiandrive.com:13571/bilibili/4017751
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/7401280&bilibili&logo" group-title="•B站「游戏」",时雨ioo
 http://dns.yiandrive.com:13571/bilibili/7401280
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/10&bilibili&logo" group-title="•B站「游戏」",2025英雄联盟季中冠军赛4K极清房间
-http://dns.yiandrive.com:13571/bilibili/10
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/janjju&soop&logo" group-title="•SOOP「娱乐」",박가린님[♥]
-https://live.iill.top/soop/janjju
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/5194110&bilibili&logo" group-title="•B站「游戏」",库库_sama
+http://dns.yiandrive.com:13571/bilibili/5194110
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/ch1716&soop&logo" group-title="•SOOP「娱乐」",최군형
+https://live.iill.top/soop/ch1716
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/lovelyena&soop&logo" group-title="•SOOP「娱乐」",금사랑♥
+https://live.iill.top/soop/lovelyena
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/dohhwa1&soop&logo" group-title="•SOOP「娱乐」",도화[♡]
 https://live.iill.top/soop/dohhwa1
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/dlsgk1763&soop&logo" group-title="•SOOP「娱乐」",유니나♥
+https://live.iill.top/soop/dlsgk1763
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/bjinoa&soop&logo" group-title="•SOOP「娱乐」",이노아
+https://live.iill.top/soop/bjinoa
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/taeri0806&soop&logo" group-title="•SOOP「娱乐」",♡태리츄♡
+https://live.iill.top/soop/taeri0806
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/tkxkd9187&soop&logo" group-title="•SOOP「娱乐」",앙체리♥
+https://live.iill.top/soop/tkxkd9187
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/flowerbud1&soop&logo" group-title="•SOOP「娱乐」",츠보미.
 https://live.iill.top/soop/flowerbud1
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/daum0319&soop&logo" group-title="•SOOP「娱乐」",다우미
-https://live.iill.top/soop/daum0319
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/hancoma&soop&logo" group-title="•SOOP「娱乐」",하나옵
 https://live.iill.top/soop/hancoma
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/salgu1004&soop&logo" group-title="•SOOP「娱乐」",E-;이은♥
-https://live.iill.top/soop/salgu1004
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/eunz1nara&soop&logo" group-title="•SOOP「娱乐」",양팡♥
+https://live.iill.top/soop/eunz1nara
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/dkdleliii&soop&logo" group-title="•SOOP「娱乐」",해리〃민경
 https://live.iill.top/soop/dkdleliii
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/chamingcha&soop&logo" group-title="•SOOP「娱乐」",차밍챠
 https://live.iill.top/soop/chamingcha
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/zxll6721&soop&logo" group-title="•SOOP「娱乐」",미지수♥
+https://live.iill.top/soop/zxll6721
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/vnfmfmsrht&soop&logo" group-title="•SOOP「娱乐」",♥나은♥
 https://live.iill.top/soop/vnfmfmsrht
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/misspark&soop&logo" group-title="•SOOP「娱乐」",박지희♥
 https://live.iill.top/soop/misspark
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/codus6311&soop&logo" group-title="•SOOP「娱乐」",강바비♡
-https://live.iill.top/soop/codus6311
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/ahae0505&soop&logo" group-title="•SOOP「娱乐」",°해아
-https://live.iill.top/soop/ahae0505
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/juhyoung04&soop&logo" group-title="•SOOP「娱乐」",백진미._.
+https://live.iill.top/soop/juhyoung04
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/mappp4&soop&logo" group-title="•SOOP「娱乐」",단비:D
+https://live.iill.top/soop/mappp4
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/newksb03&soop&logo" group-title="•SOOP「娱乐」",♥아이비♥
+https://live.iill.top/soop/newksb03
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/aisun777&soop&logo" group-title="•SOOP「娱乐」",엘리제♥
+https://live.iill.top/soop/aisun777
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/hmes1327&soop&logo" group-title="•SOOP「娱乐」",♥젠이
+https://live.iill.top/soop/hmes1327
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/amyll710&soop&logo" group-title="•SOOP「娱乐」",뎡이♥
+https://live.iill.top/soop/amyll710
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/sanaekcy&soop&logo" group-title="•SOOP「娱乐」",[LR]사나이
 https://live.iill.top/soop/sanaekcy
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/berryoonna&soop&logo" group-title="•SOOP「娱乐」",죠물
-https://live.iill.top/soop/berryoonna
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「其他」",樂優
-https://live.iill.top/twitch/iloveuu0408
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/subin0750&soop&logo" group-title="•SOOP「娱乐」",청아_♥
+https://live.iill.top/soop/subin0750
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「其他」",肉乙
+https://live.iill.top/twitch/zoe_0601
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/vedal987&twitch&logo" group-title="•Twitch「娱乐」",vedal987
+https://live.iill.top/twitch/vedal987
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「娱乐」",艾怡
 https://live.iill.top/twitch/irissiri129
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/Arielle&twitch&logo" group-title="•Twitch「娱乐」",Arielle
-https://live.iill.top/twitch/Arielle
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「娱乐」",Bobross
 https://live.iill.top/twitch/Bobross
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「娱乐」",QBunnyTV
 https://live.iill.top/twitch/QBunnyTV
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「娱乐」",cerberVT
+https://live.iill.top/twitch/cerberVT
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",Dota TV 24/7
+https://live.iill.top/twitch/dotatv247
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",Shroud
 https://live.iill.top/twitch/shroud
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/Twitch.png" group-title="•Twitch「游戏」",青铜树海1
@@ -320,6 +338,8 @@ https://live.iill.top/youtube/@HDPLTV
 https://live.iill.top/youtube/@amtbhz
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",11点热炒店
 https://live.iill.top/youtube/@chopchopshow
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",SwimwearUnderwear
+https://live.iill.top/youtube/@SwimwearUnderwear
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",ウェザーニュース
 https://live.iill.top/youtube/@weathernews
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",LiveNOW
@@ -334,8 +354,6 @@ https://live.iill.top/youtube/@LiveNow24H
 https://live.iill.top/youtube/ylYJSBUgaMA&pp
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2mCSYvcfhtc&youtube&logo" group-title="•YouTube「其他」",TVBS 新聞台
 https://live.iill.top/youtube/2mCSYvcfhtc
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",BellatorMMA
-https://live.iill.top/youtube/BellatorMMA
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1Xm5bjdI5hU&youtube&logo" group-title="•YouTube「其他」",朝日新聞LIVE
 https://live.iill.top/youtube/1Xm5bjdI5hU
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「其他」",wtt
@@ -364,8 +382,6 @@ https://live.iill.top/youtube/Music180Arirang
 https://live.iill.top/youtube/JVocS7Yftw8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",大爱
 https://live.iill.top/youtube/@DaAiVideo
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/@dlw2023&youtube&logo" group-title="•YouTube「娱乐」",老王
-https://live.iill.top/youtube/@dlw2023
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",Dhaaris TV
 https://live.iill.top/youtube/@dhaaristv
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「娱乐」",@leewong5960
@@ -386,8 +402,6 @@ https://live.iill.top/youtube/V1p33hqPrUk
 https://live.iill.top/youtube/@CCTVDrama
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/YouTube.png" group-title="•YouTube「影视」",newsebc
 https://live.iill.top/youtube/newsebc
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/duanxiaochi007&douyin&logo" group-title="•抖音「其他」",大龙猫
-http://dns.yiandrive.com:13571/douyin/duanxiaochi007
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/抖音.png" group-title="•抖音「其他」",佛山发布
 http://dns.yiandrive.com:13571/douyin/foshanfabu
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/SAZzzzz&douyin&logo" group-title="•抖音「其他」",小小酸奶昔
@@ -412,10 +426,6 @@ http://dns.yiandrive.com:13571/douyu/236461
 http://dns.yiandrive.com:13571/douyu/9742633
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/10071735&douyu&logo" group-title="•斗鱼「娱乐」",Nice、奶思、
 http://dns.yiandrive.com:13571/douyu/10071735
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11034942&douyu&logo" group-title="•斗鱼「娱乐」",夕夕没睡醒
-http://dns.yiandrive.com:13571/douyu/11034942
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1377142&douyu&logo" group-title="•斗鱼「娱乐」",yuxian
-http://dns.yiandrive.com:13571/douyu/1377142
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9236042&douyu&logo" group-title="•斗鱼「娱乐」",吐槽吐槽
 http://dns.yiandrive.com:13571/douyu/9236042
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8737695&douyu&logo" group-title="•斗鱼「娱乐」",文西与阿漆
@@ -442,8 +452,6 @@ http://dns.yiandrive.com:13571/douyu/299854
 http://dns.yiandrive.com:13571/douyu/40471
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/3928&douyu&logo" group-title="•斗鱼「娱乐」",小鬼影视
 http://dns.yiandrive.com:13571/douyu/3928
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4246519&douyu&logo" group-title="•斗鱼「影视」",邵氏电影·1
-http://dns.yiandrive.com:13571/douyu/4246519
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4105989&douyu&logo" group-title="•斗鱼「影视」",变形金刚
 http://dns.yiandrive.com:13571/douyu/4105989
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2793084&douyu&logo" group-title="•斗鱼「影视」",科幻
@@ -566,22 +574,16 @@ http://dns.yiandrive.com:13571/douyu/747764
 http://dns.yiandrive.com:13571/douyu/4290711
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/74374&douyu&logo" group-title="•斗鱼「影视」",冰冰小剧场
 http://dns.yiandrive.com:13571/douyu/74374
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/12313&douyu&logo" group-title="•斗鱼「游戏」",叶音符
-http://dns.yiandrive.com:13571/douyu/12313
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9999&douyu&logo" group-title="•斗鱼「游戏」",YYF
 http://dns.yiandrive.com:13571/douyu/9999
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/74960&douyu&logo" group-title="•斗鱼「游戏」",叫我老陈就好了
 http://dns.yiandrive.com:13571/douyu/74960
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1870001&douyu&logo" group-title="•斗鱼「游戏」",大木
 http://dns.yiandrive.com:13571/douyu/1870001
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/213116&douyu&logo" group-title="•斗鱼「游戏」",普通人陡壁
-http://dns.yiandrive.com:13571/douyu/213116
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/5498522&douyu&logo" group-title="•斗鱼「游戏」",Lilghost
 http://dns.yiandrive.com:13571/douyu/5498522
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/178432&douyu&logo" group-title="•斗鱼「游戏」",QuQu、太常规
 http://dns.yiandrive.com:13571/douyu/178432
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/5684726&douyu&logo" group-title="•斗鱼「游戏」",皮特
-http://dns.yiandrive.com:13571/douyu/5684726
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/3567314&douyu&logo" group-title="•斗鱼「游戏」",王纪超666
 http://dns.yiandrive.com:13571/douyu/3567314
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1300804&douyu&logo" group-title="•斗鱼「游戏」",卷子
@@ -618,6 +620,8 @@ http://dns.yiandrive.com:13571/douyu/80887
 http://dns.yiandrive.com:13571/douyu/2207607
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/5377721&douyu&logo" group-title="•斗鱼「游戏」",放逐大帝灬
 http://dns.yiandrive.com:13571/douyu/5377721
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2106575&douyu&logo" group-title="•斗鱼「游戏」",吕布
+http://dns.yiandrive.com:13571/douyu/2106575
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/190448&douyu&logo" group-title="•斗鱼「游戏」",hasfin
 http://dns.yiandrive.com:13571/douyu/190448
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8302&douyu&logo" group-title="•斗鱼「游戏」",祈风
@@ -628,6 +632,8 @@ http://dns.yiandrive.com:13571/douyu/52
 http://dns.yiandrive.com:13571/douyu/5168755
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1314213&douyu&logo" group-title="•斗鱼「游戏」",阿良林暦
 http://dns.yiandrive.com:13571/douyu/1314213
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9401&douyu&logo" group-title="•斗鱼「游戏」",中华毅力帝
+http://dns.yiandrive.com:13571/douyu/9401
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/62081&douyu&logo" group-title="•斗鱼「游戏」",叶落
 http://dns.yiandrive.com:13571/douyu/62081
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/433724&douyu&logo" group-title="•斗鱼「游戏」",王科长
@@ -638,30 +644,34 @@ http://dns.yiandrive.com:13571/douyu/3305122
 http://dns.yiandrive.com:13571/douyu/5894085
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2311698&douyu&logo" group-title="•斗鱼「游戏」",斯祥
 http://dns.yiandrive.com:13571/douyu/2311698
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/5226647&douyu&logo" group-title="•斗鱼「游戏」",死鱼ysy
-http://dns.yiandrive.com:13571/douyu/5226647
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/845683&douyu&logo" group-title="•斗鱼「游戏」",卡特cs2
 http://dns.yiandrive.com:13571/douyu/845683
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8652337&douyu&logo" group-title="•斗鱼「游戏」",小霖超甜呐-蛋仔
 http://dns.yiandrive.com:13571/douyu/8652337
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8527241&douyu&logo" group-title="•斗鱼「游戏」",解说老陈
+http://dns.yiandrive.com:13571/douyu/8527241
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/2421040&douyu&logo" group-title="•斗鱼「游戏」",三酒OuO
 http://dns.yiandrive.com:13571/douyu/2421040
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/4644759&douyu&logo" group-title="•斗鱼「游戏」",明栀明030
 http://dns.yiandrive.com:13571/douyu/4644759
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•斗鱼「游戏」",龙四爷攻略组
 http://dns.yiandrive.com:13571/douyu/479079
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8439245&douyu&logo" group-title="•斗鱼「游戏」",LisaQvQ
+http://dns.yiandrive.com:13571/douyu/8439245
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8256300&douyu&logo" group-title="•斗鱼「游戏」",子敬ad
+http://dns.yiandrive.com:13571/douyu/8256300
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/93936&douyu&logo" group-title="•斗鱼「游戏」",赖小峰
 http://dns.yiandrive.com:13571/douyu/93936
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1580850&douyu&logo" group-title="•斗鱼「游戏」",冰雪聪明的团子
-http://dns.yiandrive.com:13571/douyu/1580850
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/6822146&douyu&logo" group-title="•斗鱼「游戏」",PeRo明明
+http://dns.yiandrive.com:13571/douyu/6822146
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/24422&douyu&logo" group-title="•斗鱼「游戏」",Pigff
 http://dns.yiandrive.com:13571/douyu/24422
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/32892&douyu&logo" group-title="•斗鱼「游戏」",过载十五岁的涛妹
-http://dns.yiandrive.com:13571/douyu/32892
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/3830391&douyu&logo" group-title="•斗鱼「游戏」",清清清
-http://dns.yiandrive.com:13571/douyu/3830391
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9462120&douyu&logo" group-title="•斗鱼「游戏」",凡尘困
+http://dns.yiandrive.com:13571/douyu/9462120
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/5171942&douyu&logo" group-title="•斗鱼「游戏」",秋季
 http://dns.yiandrive.com:13571/douyu/5171942
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/703246&douyu&logo" group-title="•斗鱼「游戏」",小铅笔
+http://dns.yiandrive.com:13571/douyu/703246
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/235520&douyu&logo" group-title="•斗鱼「游戏」",18yearsold天残少年K9
 http://dns.yiandrive.com:13571/douyu/235520
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/6591422&douyu&logo" group-title="•斗鱼「游戏」",小红豆阿
@@ -674,8 +684,10 @@ http://dns.yiandrive.com:13571/douyu/74706
 http://dns.yiandrive.com:13571/yy/991
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/993&yy&logo" group-title="•歪歪「娱乐」",燃舞993
 http://dns.yiandrive.com:13571/yy/993
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/9348&yy&logo" group-title="•歪歪「娱乐」",虎娱晴晴
-http://dns.yiandrive.com:13571/yy/9348
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1669&yy&logo" group-title="•歪歪「娱乐」",大白兔
+http://dns.yiandrive.com:13571/yy/1669
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/10287387&yy&logo" group-title="•歪歪「娱乐」",星妹妹m
+http://dns.yiandrive.com:13571/yy/10287387
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/8248&yy&logo" group-title="•歪歪「娱乐」",丁丁
 http://dns.yiandrive.com:13571/yy/8248
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1251&yy&logo" group-title="•歪歪「娱乐」",娅儿
@@ -686,8 +698,10 @@ http://dns.yiandrive.com:13571/yy/34025318
 http://dns.yiandrive.com:13571/yy/54880976
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/314&yy&logo" group-title="•歪歪「娱乐」",314
 http://dns.yiandrive.com:13571/yy/314
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1670&yy&logo" group-title="•歪歪「娱乐」",迎迎
-http://dns.yiandrive.com:13571/yy/1670
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1453810838&yy&logo" group-title="•歪歪「影视」",亮剑
+http://dns.yiandrive.com:13571/yy/1453810838
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/504368&yy&logo" group-title="•歪歪「影视」",小甜甜-悬疑电视剧
+http://dns.yiandrive.com:13571/yy/504368
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「其他」",挨饿德
 http://dns.yiandrive.com:13571/huya/15373958
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/18958242&huya&logo" group-title="•虎牙「其他」",梨涡少女mini
@@ -708,18 +722,18 @@ http://dns.yiandrive.com:13571/huya/21356214
 http://dns.yiandrive.com:13571/huya/880625
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/880214&huya&logo" group-title="•虎牙「其他」",虎牙斯诺克
 http://dns.yiandrive.com:13571/huya/880214
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/16289380&huya&logo" group-title="•虎牙「其他」",德爷荒岛求生解说
+http://dns.yiandrive.com:13571/huya/16289380
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「其他」",美食纪录片 风味人间
 http://dns.yiandrive.com:13571/huya/26355760
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602032&huya&logo" group-title="•虎牙「其他」",易中天品三国
 http://dns.yiandrive.com:13571/huya/11602032
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/19491628&huya&logo" group-title="•虎牙「其他」",嘉嘉
-http://dns.yiandrive.com:13571/huya/19491628
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/28511836&huya&logo" group-title="•虎牙「其他」",JJ麻将
-http://dns.yiandrive.com:13571/huya/28511836
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/527988&huya&logo" group-title="•虎牙「娱乐」",童锦程
-http://dns.yiandrive.com:13571/huya/527988
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30700158&huya&logo" group-title="•虎牙「其他」",斯诺克中英解说蓝老师
+http://dns.yiandrive.com:13571/huya/30700158
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/145920&huya&logo" group-title="•虎牙「娱乐」",芊若吖
 http://dns.yiandrive.com:13571/huya/145920
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/206199&huya&logo" group-title="•虎牙「娱乐」",乐听、雪寒
+http://dns.yiandrive.com:13571/huya/206199
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/291326&huya&logo" group-title="•虎牙「娱乐」",绮夏
 http://dns.yiandrive.com:13571/huya/291326
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/233&huya&logo" group-title="•虎牙「娱乐」",张开朗
@@ -728,26 +742,16 @@ http://dns.yiandrive.com:13571/huya/233
 http://dns.yiandrive.com:13571/huya/155525
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/126519&huya&logo" group-title="•虎牙「娱乐」",Smoggy直播
 http://dns.yiandrive.com:13571/huya/126519
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/691349&huya&logo" group-title="•虎牙「娱乐」",温舒蕾
-http://dns.yiandrive.com:13571/huya/691349
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/691311&huya&logo" group-title="•虎牙「娱乐」",狂鸟、小甜茶
 http://dns.yiandrive.com:13571/huya/691311
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/339124&huya&logo" group-title="•虎牙「娱乐」",王者明凯
-http://dns.yiandrive.com:13571/huya/339124
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/770714&huya&logo" group-title="•虎牙「娱乐」",cxy0714
 http://dns.yiandrive.com:13571/huya/770714
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/134769&huya&logo" group-title="•虎牙「娱乐」",张伟丽MMA
 http://dns.yiandrive.com:13571/huya/134769
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/143721&huya&logo" group-title="•虎牙「娱乐」",HY-铃初初
-http://dns.yiandrive.com:13571/huya/143721
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059572&huya&logo" group-title="•虎牙「娱乐」",粤语电影放映厅
 http://dns.yiandrive.com:13571/huya/21059572
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/149512&huya&logo" group-title="•虎牙「娱乐」",HX蕊蕊
-http://dns.yiandrive.com:13571/huya/149512
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26798562&huya&logo" group-title="•虎牙「娱乐」",狂鸟丶小玥
 http://dns.yiandrive.com:13571/huya/26798562
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30491918&huya&logo" group-title="•虎牙「娱乐」",仙女
-http://dns.yiandrive.com:13571/huya/30491918
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「娱乐」",重案六组
 http://dns.yiandrive.com:13571/huya/23482266
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「娱乐」",花千骨
@@ -756,12 +760,16 @@ http://dns.yiandrive.com:13571/huya/26355839
 http://dns.yiandrive.com:13571/huya/23865080
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342412&huya&logo" group-title="•虎牙「影视」",周星星
 http://dns.yiandrive.com:13571/huya/11342412
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26058097&huya&logo" group-title="•虎牙「影视」",都爱看
+http://dns.yiandrive.com:13571/huya/26058097
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342403&huya&logo" group-title="•虎牙「影视」",不发威当我Kitty
 http://dns.yiandrive.com:13571/huya/11342403
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602058&huya&logo" group-title="•虎牙「影视」",四大裁子之首
 http://dns.yiandrive.com:13571/huya/11602058
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26355850&huya&logo" group-title="•虎牙「影视」",嶺外奇服兮
 http://dns.yiandrive.com:13571/huya/26355850
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/138531&huya&logo" group-title="•虎牙「影视」",依依妹妹在等你
+http://dns.yiandrive.com:13571/huya/138531
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342386&huya&logo" group-title="•虎牙「影视」",偷心大盗ヽ龍宝
 http://dns.yiandrive.com:13571/huya/11342386
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23903123&huya&logo" group-title="•虎牙「影视」",堆堆港剧日常
@@ -792,8 +800,6 @@ http://dns.yiandrive.com:13571/huya/11601960
 http://dns.yiandrive.com:13571/huya/11336571
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342390&huya&logo" group-title="•虎牙「影视」",核桃姐姐
 http://dns.yiandrive.com:13571/huya/11342390
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11336587&huya&logo" group-title="•虎牙「影视」",Yummy
-http://dns.yiandrive.com:13571/huya/11336587
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11282233&huya&logo" group-title="•虎牙「影视」",樹袋熊小九九
 http://dns.yiandrive.com:13571/huya/11282233
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602044&huya&logo" group-title="•虎牙「影视」",小怪兽、
@@ -804,8 +810,6 @@ http://dns.yiandrive.com:13571/huya/11602082
 http://dns.yiandrive.com:13571/huya/23865171
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352965&huya&logo" group-title="•虎牙「影视」",笙歌
 http://dns.yiandrive.com:13571/huya/11352965
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23903196&huya&logo" group-title="•虎牙「影视」",冷门港片大全
-http://dns.yiandrive.com:13571/huya/23903196
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352894&huya&logo" group-title="•虎牙「影视」",飙车的老司机
 http://dns.yiandrive.com:13571/huya/11352894
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352909&huya&logo" group-title="•虎牙「影视」",小军迷
@@ -824,14 +828,10 @@ http://dns.yiandrive.com:13571/huya/29580971
 http://dns.yiandrive.com:13571/huya/26355788
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26355861&huya&logo" group-title="•虎牙「影视」",西游记
 http://dns.yiandrive.com:13571/huya/26355861
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352958&huya&logo" group-title="•虎牙「影视」",神探·
-http://dns.yiandrive.com:13571/huya/11352958
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601986&huya&logo" group-title="•虎牙「影视」",贺岁
 http://dns.yiandrive.com:13571/huya/11601986
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/353798&huya&logo" group-title="•虎牙「影视」",红色
 http://dns.yiandrive.com:13571/huya/353798
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26355829&huya&logo" group-title="•虎牙「影视」",超
-http://dns.yiandrive.com:13571/huya/26355829
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352935&huya&logo" group-title="•虎牙「影视」",丹
 http://dns.yiandrive.com:13571/huya/11352935
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342404&huya&logo" group-title="•虎牙「影视」",扫黑
@@ -854,6 +854,8 @@ http://dns.yiandrive.com:13571/huya/23749096
 http://dns.yiandrive.com:13571/huya/11352970
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059567&huya&logo" group-title="•虎牙「影视」",唯爱
 http://dns.yiandrive.com:13571/huya/21059567
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342425&huya&logo" group-title="•虎牙「影视」",神探
+http://dns.yiandrive.com:13571/huya/11342425
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26355781&huya&logo" group-title="•虎牙「影视」",探索
 http://dns.yiandrive.com:13571/huya/26355781
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342424&huya&logo" group-title="•虎牙「影视」",刘德华
@@ -862,8 +864,6 @@ http://dns.yiandrive.com:13571/huya/11342424
 http://dns.yiandrive.com:13571/huya/26355856
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11274154&huya&logo" group-title="•虎牙「影视」",陈翔六点半
 http://dns.yiandrive.com:13571/huya/11274154
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21136378&huya&logo" group-title="•虎牙「影视」",周星驰吧
-http://dns.yiandrive.com:13571/huya/21136378
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342387&huya&logo" group-title="•虎牙「影视」",电影_发哥
 http://dns.yiandrive.com:13571/huya/11342387
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352876&huya&logo" group-title="•虎牙「影视」",电影_黄渤
@@ -896,14 +896,14 @@ http://dns.yiandrive.com:13571/huya/11602081
 http://dns.yiandrive.com:13571/huya/30080255
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29465856&huya&logo" group-title="•虎牙「影视」",刑事侦缉档案
 http://dns.yiandrive.com:13571/huya/29465856
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602071&huya&logo" group-title="•虎牙「影视」",父母爱情
+http://dns.yiandrive.com:13571/huya/11602071
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「影视」",痞子帅叔叔
 http://dns.yiandrive.com:13571/huya/11342433
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352897&huya&logo" group-title="•虎牙「影视」",电影
 http://dns.yiandrive.com:13571/huya/11352897
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「影视」",扁豆看电影
 http://dns.yiandrive.com:13571/huya/16028551
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「影视」",止戈电影
-http://dns.yiandrive.com:13571/huya/19863777
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/1394565204&huya&logo" group-title="•虎牙「影视」",木子先生，铁齿铜牙纪晓岚
 http://dns.yiandrive.com:13571/huya/11342396
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342400&huya&logo" group-title="•虎牙「影视」",活佛济公
@@ -918,8 +918,6 @@ http://dns.yiandrive.com:13571/huya/11342426
 http://dns.yiandrive.com:13571/huya/11602085
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352956&huya&logo" group-title="•虎牙「影视」",双面胶
 http://dns.yiandrive.com:13571/huya/11352956
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29982639&huya&logo" group-title="•虎牙「影视」",庆余年
-http://dns.yiandrive.com:13571/huya/29982639
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352872&huya&logo" group-title="•虎牙「影视」",家有儿女|种瓜得弟弟
 http://dns.yiandrive.com:13571/huya/11352872
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30080236&huya&logo" group-title="•虎牙「影视」",名侦探柯南|傍晚猴
@@ -940,6 +938,8 @@ http://dns.yiandrive.com:13571/huya/11352922
 http://dns.yiandrive.com:13571/huya/23740156
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23865142&huya&logo" group-title="•虎牙「影视」",港剧慢品汇
 http://dns.yiandrive.com:13571/huya/23865142
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342393&huya&logo" group-title="•虎牙「影视」",漫长的季节
+http://dns.yiandrive.com:13571/huya/11342393
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/23865058&huya&logo" group-title="•虎牙「影视」",笑看风云
 http://dns.yiandrive.com:13571/huya/23865058
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602072&huya&logo" group-title="•虎牙「影视」",民兵葛二蛋
@@ -966,12 +966,16 @@ http://dns.yiandrive.com:13571/huya/11352883
 http://dns.yiandrive.com:13571/huya/11352871
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29465863&huya&logo" group-title="•虎牙「影视」",鬼吹灯之龙岭迷窟
 http://dns.yiandrive.com:13571/huya/29465863
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352898&huya&logo" group-title="•虎牙「影视」",鬼吹灯之云南虫谷
+http://dns.yiandrive.com:13571/huya/11352898
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602075&huya&logo" group-title="•虎牙「影视」",鬼吹灯之怒晴湘西
 http://dns.yiandrive.com:13571/huya/11602075
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601957&huya&logo" group-title="•虎牙「影视」",鬼吹灯之昆仑神宫
 http://dns.yiandrive.com:13571/huya/11601957
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11601966&huya&logo" group-title="•虎牙「影视」",七龙珠改-超级赛亚人孙悟空
 http://dns.yiandrive.com:13571/huya/11601966
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352913&huya&logo" group-title="•虎牙「影视」",古墓系列-去冒险吧!
+http://dns.yiandrive.com:13571/huya/11352913
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11602069&huya&logo" group-title="•虎牙「影视」",向阳花-神奇宝贝
 http://dns.yiandrive.com:13571/huya/11602069
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342394&huya&logo" group-title="•虎牙「影视」",樱桃小丸子
@@ -982,6 +986,8 @@ http://dns.yiandrive.com:13571/huya/26355767
 http://dns.yiandrive.com:13571/huya/11342430
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「影视」",大盛魁
 http://dns.yiandrive.com:13571/huya/30292086
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11352946&huya&logo" group-title="•虎牙「影视」",成龙历险记|老司机
+http://dns.yiandrive.com:13571/huya/11352946
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30311494&huya&logo" group-title="•虎牙「影视」",征服
 http://dns.yiandrive.com:13571/huya/30311494
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/21059609&huya&logo" group-title="•虎牙「影视」",30而已
@@ -1010,8 +1016,6 @@ http://dns.yiandrive.com:13571/huya/11352879
 http://dns.yiandrive.com:13571/huya/22414123
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342384&huya&logo" group-title="•虎牙「影视」",鱼塘塘主张年年
 http://dns.yiandrive.com:13571/huya/11342384
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29982668&huya&logo" group-title="•虎牙「影视」",有翡
-http://dns.yiandrive.com:13571/huya/29982668
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/26355866&huya&logo" group-title="•虎牙「影视」",与凤行
 http://dns.yiandrive.com:13571/huya/26355866
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30080234&huya&logo" group-title="•虎牙「影视」",星球大战- 宇宙电影的起点
@@ -1024,6 +1028,8 @@ http://dns.yiandrive.com:13571/huya/20969142
 http://dns.yiandrive.com:13571/huya/11342439
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11342414&huya&logo" group-title="•虎牙「影视」",元芳看不到
 http://dns.yiandrive.com:13571/huya/11342414
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29076690&huya&logo" group-title="•虎牙「影视」",李连杰
+http://dns.yiandrive.com:13571/huya/29076690
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29982636&huya&logo" group-title="•虎牙「影视」",特种兵|火凤凰
 http://dns.yiandrive.com:13571/huya/29982636
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/11336592&huya&logo" group-title="•虎牙「影视」",雪中悍刀行
@@ -1058,18 +1064,24 @@ http://dns.yiandrive.com:13571/huya/52033
 http://dns.yiandrive.com:13571/huya/836458
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/660149&huya&logo" group-title="•虎牙「游戏」",HSL虎牙超级联赛
 http://dns.yiandrive.com:13571/huya/660149
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/189201&huya&logo" group-title="•虎牙「游戏」",霸哥
+http://dns.yiandrive.com:13571/huya/189201
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/18958992&huya&logo" group-title="•虎牙「游戏」",War3魔尊重楼
 http://dns.yiandrive.com:13571/huya/18958992
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/837804&huya&logo" group-title="•虎牙「游戏」",拼
 http://dns.yiandrive.com:13571/huya/837804
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/181469&huya&logo" group-title="•虎牙「游戏」",张嘉文
 http://dns.yiandrive.com:13571/huya/181469
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/326513&huya&logo" group-title="•虎牙「游戏」",XLX露雪
+http://dns.yiandrive.com:13571/huya/326513
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/657314&huya&logo" group-title="•虎牙「游戏」",虎牙丶三伟子
+http://dns.yiandrive.com:13571/huya/657314
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/459804&huya&logo" group-title="•虎牙「游戏」",虎牙Jiale-MG
+http://dns.yiandrive.com:13571/huya/459804
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/584260&huya&logo" group-title="•虎牙「游戏」",达文西
 http://dns.yiandrive.com:13571/huya/584260
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/883174&huya&logo" group-title="•虎牙「游戏」",青帝
 http://dns.yiandrive.com:13571/huya/883174
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/12214&huya&logo" group-title="•虎牙「游戏」",十四剑姬
-http://dns.yiandrive.com:13571/huya/12214
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/115959&huya&logo" group-title="•虎牙「游戏」",AG 虎牙绝迹
 http://dns.yiandrive.com:13571/huya/115959
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/998&huya&logo" group-title="•虎牙「游戏」",楚河
@@ -1080,18 +1092,20 @@ http://dns.yiandrive.com:13571/huya/616702
 http://dns.yiandrive.com:13571/huya/13579
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/209801&huya&logo" group-title="•虎牙「游戏」",三千丶新娘
 http://dns.yiandrive.com:13571/huya/209801
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/312410&huya&logo" group-title="•虎牙「游戏」",炉石春哥
-http://dns.yiandrive.com:13571/huya/312410
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/52333&huya&logo" group-title="•虎牙「游戏」",LING-张老三
 http://dns.yiandrive.com:13571/huya/52333
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/172392&huya&logo" group-title="•虎牙「游戏」",寒星
+http://dns.yiandrive.com:13571/huya/172392
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/387067&huya&logo" group-title="•虎牙「游戏」",随风蛮王
 http://dns.yiandrive.com:13571/huya/387067
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/825801&huya&logo" group-title="•虎牙「游戏」",完美CS2
 http://dns.yiandrive.com:13571/huya/825801
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/834622&huya&logo" group-title="•虎牙「游戏」",TG-老熊【平头哥】
 http://dns.yiandrive.com:13571/huya/834622
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/513723&huya&logo" group-title="•虎牙「游戏」",逗豆爱格斗
-http://dns.yiandrive.com:13571/huya/513723
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/30255157&huya&logo" group-title="•虎牙「游戏」",明明
+http://dns.yiandrive.com:13571/huya/30255157
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/776556&huya&logo" group-title="•虎牙「游戏」",金灿毅chane
+http://dns.yiandrive.com:13571/huya/776556
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/211202&huya&logo" group-title="•虎牙「游戏」",寒千落丶
 http://dns.yiandrive.com:13571/huya/211202
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/829922&huya&logo" group-title="•虎牙「游戏」",War3Yumiko
@@ -1102,5 +1116,7 @@ http://dns.yiandrive.com:13571/huya/170280
 http://dns.yiandrive.com:13571/huya/100011
 #EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/610829&huya&logo" group-title="•虎牙「游戏」",唐轩宇
 http://dns.yiandrive.com:13571/huya/610829
-#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/660729&huya&logo" group-title="•虎牙「游戏」",BLAST赛事主舞台
-http://dns.yiandrive.com:13571/huya/660729
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•虎牙「游戏」",解说Suki
+http://dns.yiandrive.com:13571/huya/517407
+#EXTINF:-1 tvg-logo="https://tv.iill.top/LOGO/29465851&huya&logo" group-title="•虎牙「影视」",电视迷痴迷港剧
+http://dns.yiandrive.com:13571/huya/29465851
