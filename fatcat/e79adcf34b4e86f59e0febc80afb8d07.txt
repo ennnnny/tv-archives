@@ -1,15 +1,6 @@
 全网央卫,#genre#
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
-CCTV1,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV1,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
-CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-CCTV1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
-CCTV1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-CCTV1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+CCTV1,http://112.89.121.23/PLTV/88888973/224/3221225768/10000100000000060000000000337107_0.smil/01.m3u8
+CCTV1,http://112.89.121.23/PLTV/88888973/224/3221225768/10000100000000060000000000337107_0.smil/02.m3u8
 CCTV2,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV2,http://goo.bkpcp.top/mg/CCTV2
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
