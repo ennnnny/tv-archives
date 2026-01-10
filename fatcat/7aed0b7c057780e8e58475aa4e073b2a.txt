@@ -1,0 +1,800 @@
+#EXTM3U x-tvg-url="https://static.188766.xyz/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+https://migu.188766.xyz/?migutoken=cbd336b38a0582cfdac44d77a0785e2d&id=CCTV1&type=yy
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+https://migu.188766.xyz/?migutoken=187ee96cabc122357793610749cd0d3b&id=CCTV2&type=yy
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+https://migu.188766.xyz/?migutoken=d18533bf332fd2ca846b8876816d61f8&id=CCTV3&type=yy
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+https://migu.188766.xyz/?migutoken=9e9a11a42a50229b45da009cf7f5f5b2&id=CCTV4&type=yy
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+https://migu.188766.xyz/?migutoken=f9b995f0f53da3d4333bd647b37d20b6&id=CCTV5&type=yy
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+https://migu.188766.xyz/?migutoken=d21e9fd89e94b33e00649c1c360fd768&id=CCTV5p&type=yy
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+https://migu.188766.xyz/?migutoken=91b1cc84626dad732d134311cd9e02cc&id=CCTV6&type=yy
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+https://migu.188766.xyz/?migutoken=071d7f5e2e78cb1c203c0e87e1f7b6ac&id=CCTV7&type=yy
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+https://migu.188766.xyz/?migutoken=9ed28327707ac34f241450b03894a149&id=CCTV8&type=yy
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+https://migu.188766.xyz/?migutoken=04cd2cc8970d8153f9dad9ecc1d6dd29&id=CCTV9&type=yy
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+https://migu.188766.xyz/?migutoken=379fe12e911d1daf514a399b38e6d944&id=CCTV10&type=yy
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+https://migu.188766.xyz/?migutoken=6fc332702b7a97bf5df028f00c0477fa&id=CCTV11&type=yy
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+https://migu.188766.xyz/?migutoken=498fc6fc181d22e9493235bd7c184bb7&id=CCTV12&type=yy
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+https://migu.188766.xyz/?migutoken=f67df04aa8b67e9be8a30446a857a433&id=CCTV13&type=yy
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+https://migu.188766.xyz/?migutoken=4c8290e0f970f4d69fd5a7e50ea7005e&id=CCTV14&type=yy
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+https://migu.188766.xyz/?migutoken=8f526cd18d34ddd149ec92a22156dcab&id=CCTV15&type=yy
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+https://migu.188766.xyz/?migutoken=bb601dee99de1418fcac9863974d36f2&id=CCTV17&type=yy
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 中文国际 欧洲
+https://migu.188766.xyz/?migutoken=7befe3b1a9eeb9603887e17888976ca3&id=CCTV4%E6%AC%A7%E6%B4%B2&type=yy
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 中文国际 美洲
+https://migu.188766.xyz/?migutoken=1fb381d40f341ec4d02cb223e8d52740&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+https://migu.188766.xyz/?migutoken=04f0bd8d7a24f80832b352789e86fd12&id=hnws&type=sz
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://migu.188766.xyz/?migutoken=316df023372b0a404e4aa98ec527b949&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+https://migu.188766.xyz/?migutoken=f691800010035c5b05887497ba42d18d&id=z_jws&type=sz
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+https://migu.188766.xyz/?migutoken=1a72612c470c9ea498cc41956e652be2&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/东方卫视.png" group-title="卫视频道",东方卫视
+https://migu.188766.xyz/?migutoken=ae4294491d0342fcde473012ed568855&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/广东卫视.png" group-title="卫视频道",广东卫视
+https://migu.188766.xyz/?migutoken=b17a0ac9628b29fadb745c2a1ef91af2&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+https://migu.188766.xyz/?migutoken=b3ca91c05b39f2bd87e8a1887e917cf9&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/江西卫视.png" group-title="卫视频道",江西卫视
+https://migu.188766.xyz/?migutoken=c99f2815833fdbc7131209f1f0fd8181&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+https://migu.188766.xyz/?migutoken=3778caed5368b7d9ab6ce2b096606f5a&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南卫视.png" group-title="卫视频道",河南卫视
+https://migu.188766.xyz/?migutoken=6db074b5e44e861c1a060b7bd2371d20&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海南卫视.png" group-title="卫视频道",海南卫视
+https://migu.188766.xyz/?migutoken=aee8c5d6d1ef0f51af1b830943ecc659&id=hn_hnws&type=sz
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+https://migu.188766.xyz/?migutoken=b75150eb78cdba03602634aff08ef62c&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+https://migu.188766.xyz/?migutoken=e8321300dcadac6f1cc1d6da1bf3d1d7&id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+https://migu.188766.xyz/?migutoken=bd6e0999a6e32b41f2b7d838baaaa2cf&id=hn_ssws&type=sz
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+https://migu.188766.xyz/?migutoken=4b4b4ce8cab12574d5221e283ee63893&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/青海卫视.png" group-title="卫视频道",青海卫视
+https://migu.188766.xyz/?migutoken=beaef1d74dceceae1de64d11fafbc46c&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/海南卫视.png" group-title="卫视频道",海南卫视
+https://migu.188766.xyz/?migutoken=6bbd6388f688c3f8ecb7691ab665b74e&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+https://migu.188766.xyz/?migutoken=74e30cc91cbca6abcf33d5e71e6927e8&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/农林卫视.png" group-title="卫视频道",农林卫视
+https://migu.188766.xyz/?migutoken=a865616512ddda5fcfb38c753268e4c7&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+https://migu.188766.xyz/?migutoken=70eb0d7a614df66f9dc3a042f2fef011&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/大湾区卫视.png" group-title="卫视频道",大湾区卫视
+https://migu.188766.xyz/?migutoken=b2e9fa85686207ce9e1388f2dbef1eff&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+
+
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="超清频道",湖南卫视4K
+https://migu.188766.xyz/?migutoken=436dd6dc143feee4c97b3a50a5f33da3&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="超清频道",浙江卫视4K
+https://migu.188766.xyz/?migutoken=df53774a01a7e910c33896f298f26995&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="超清频道",东方卫视4K
+#EXTVLCOPT:referer=https://live.kankanews.com/
+#EXTVLCOPT:http-referer=https://live.kankanews.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://live.kankanews.com/
+https://migu.188766.xyz/?migutoken=e5cfcd008956c666178baa9af0fd5c5d&id=dfws&type=sz
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="超清频道",北京卫视4K
+https://migu.188766.xyz/?migutoken=cf7a6d07fa5f81e3887a0070503004f6&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/深圳卫视4K.png" group-title="超清频道",深圳卫视4K
+https://migu.188766.xyz/?migutoken=aa34cfcc6cdbb305baf203fbe339ed4b&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+#EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/苏州4K.png" group-title="超清频道",苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="河北4K" tvg-name="河北4K" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/纯享4K.png" group-title="超清频道",河北4K
+https://event.pull.hebtv.com:443/live/live101.m3u8
+
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/CHC影迷电影.png" group-title="其他频道",CHC影迷电影
+https://migu.188766.xyz/?migutoken=8f55c9a769f91470d2ff23bb23f10426&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="其他频道",五星体育
+https://migu.188766.xyz/?migutoken=94193368b75605bf4a1a233a209fdad1&id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2&pp=1
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-user-agent="okHttp/Mod-1.5.0.0" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/五星体育.png" group-title="其他频道",五星体育
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://other.ottiptv.cc/wxty.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" http-user-agent="okHttp/Mod-1.5.0.0" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/重温经典.png" group-title="其他频道",重温经典
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://other.ottiptv.cc/cwjd.m3u8
+#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/002/274/202105271333_5100001715_2_HSJ720H.jpg" group-title="其他频道",上视东方影视
+https://migu.188766.xyz/?migutoken=033a3db459cb4755f9133e7282b01bab&id=%E4%B8%8A%E8%A7%86%E4%B8%9C%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/新片放映厅.png" group-title="其他频道",新片放映厅
+https://migu.188766.xyz/?migutoken=fba4c00fab7ec92b5d9f1a85cc74c050&id=%E6%96%B0%E7%89%87%E6%94%BE%E6%98%A0%E5%8E%85&type=yy
+#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/242/089/202508211805_1755769511908_H32_1080.webp" group-title="其他频道",经典香港电影
+https://migu.188766.xyz/?migutoken=d84383b4c57ca6d13d9cffaf53aa3c83&id=%E7%BB%8F%E5%85%B8%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1&type=yy
+#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp" group-title="其他频道",抗战经典影片
+https://migu.188766.xyz/?migutoken=92a5026274794188f40b8f3215b7b67f&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
+#EXTINF:-1 tvg-id="南方影视" tvg-name="南方影视" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2206/173/738/202304081513_2206173738_HSJ720H.jpg" group-title="其他频道",南方影视
+https://migu.188766.xyz/?migutoken=75bdb5388d11ebf77100e56553b443fa&id=%E5%8D%97%E6%96%B9%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/019/525/202504151721_1744708803016_H169_1080.jpg" group-title="其他频道",和美乡途轮播台
+https://migu.188766.xyz/?migutoken=3f311049e79d71ce4ef9acaacdfd8205&id=%E5%92%8C%E7%BE%8E%E4%B9%A1%E9%80%94%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/320/202512290851_1766567978328_H169_1080.jpg" group-title="其他频道",茶
+https://migu.188766.xyz/?migutoken=929a04ea65c93a7631021b65465e4073&id=%E8%8C%B6&type=yy
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/317/202512290851_1766567873215_H169_1080.jpg" group-title="其他频道",快乐垂钓
+https://migu.188766.xyz/?migutoken=eb6bd2a86f08587ae39231c4be8be5c6&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/赛事最经典.png" group-title="其他频道",赛事最经典
+https://migu.188766.xyz/?migutoken=cb4c47fd9519a1a64c63ad8f1ac357d3&id=%E8%B5%9B%E4%BA%8B%E6%9C%80%E7%BB%8F%E5%85%B8&type=yy
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/201/202509251348_1758698474363_H32_1080.webp" group-title="其他频道",武术世界
+https://migu.188766.xyz/?migutoken=864a23c9e9747eb44cac47c1ad0da7de&id=%E6%AD%A6%E6%9C%AF%E4%B8%96%E7%95%8C&type=yy
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/184/202508040856_5100132656_H32_1080.webp" group-title="其他频道",四海钓鱼
+https://migu.188766.xyz/?migutoken=e52a437cf6a0138ca8b108b9e5608126&id=%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC&type=yy
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/200/202509251348_1758698362959_H32_1080.webp" group-title="其他频道",环球旅游
+https://migu.188766.xyz/?migutoken=8e9a894c82b3d9970315f2562d0384d3&id=%E7%8E%AF%E7%90%83%E6%97%85%E6%B8%B8&type=yy
+#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/最强综艺趴.png" group-title="其他频道",最强综艺趴
+https://migu.188766.xyz/?migutoken=afc985cd9c63654c3202e1251d2175b0&id=%E6%9C%80%E5%BC%BA%E7%BB%BC%E8%89%BA%E8%B6%B4&type=yy
+#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://wapx.cmvideo.cn/publish/poms/v1/image/5910/022/319/202512290851_1766568047463_H169_1080.jpg" group-title="其他频道",新动漫
+https://migu.188766.xyz/?migutoken=e30673f8e72e759480f22426e2b8a6ec&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/嘉佳卡通.png" group-title="其他频道",嘉佳卡通
+https://migu.188766.xyz/?migutoken=e6722fb7d82c66826a40fb6467b422bb&id=%E5%98%89%E4%BD%B3%E5%8D%A1%E9%80%9A&type=yy
+#EXTINF:-1 tvg-id="经典动画大集合" tvg-name="经典动画大集合" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/经典动画大集合.png" group-title="其他频道",经典动画大集合
+https://migu.188766.xyz/?migutoken=eb45c767fbd9b633045ce7926e6bf0ac&id=%E7%BB%8F%E5%85%B8%E5%8A%A8%E7%94%BB%E5%A4%A7%E9%9B%86%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/优漫卡通频道.png" group-title="其他频道",优漫卡通
+https://migu.188766.xyz/?migutoken=e89c530116290951965a5ed7b99757af&id=%E4%BC%98%E6%BC%AB%E5%8D%A1%E9%80%9A%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/193/202508061552_1754385779498_H32_1080.webp" group-title="其他频道",财富天下
+https://migu.188766.xyz/?migutoken=968d239b31f28e742e17318c6bb651ec&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy
+#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/体坛名栏汇.png" group-title="其他频道",体坛名栏汇
+https://migu.188766.xyz/?migutoken=e0b30ecfbf48df2ebe4d8fe16b581946&id=%E4%BD%93%E5%9D%9B%E5%90%8D%E6%A0%8F%E6%B1%87&type=yy
+#EXTINF:-1 tvg-id="24小时城市联赛轮播台" tvg-name="24小时城市联赛轮播台" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/136/202509241340_1758692392561_H32_1080.webp" group-title="其他频道",24小时城市联赛轮播台
+https://migu.188766.xyz/?migutoken=ad3a9a2731fb33cfc8fe8668a84b6f57&id=24%E5%B0%8F%E6%97%B6%E5%9F%8E%E5%B8%82%E8%81%94%E8%B5%9B%E8%BD%AE%E6%92%AD%E5%8F%B0&type=yy
+#EXTINF:-1 tvg-id="山东教育" tvg-name="山东教育" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/v1/image/5910/022/199/202509241938_1758698577926_H32_1080.webp" group-title="其他频道",山东教育
+https://migu.188766.xyz/?migutoken=d75e4d2f6110f617bf3a3ad13c3bb291&id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2&type=yy
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/中学生.png" group-title="其他频道",中学生
+https://migu.188766.xyz/?migutoken=2d51814917da336e503629f7f000946f&id=%E4%B8%AD%E5%AD%A6%E7%94%9F&type=yy
+#EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/022/002/202405081702_1715158648861_H32_1080.webp" group-title="其他频道",老故事
+https://migu.188766.xyz/?migutoken=403d9aa3866e306f06c915374663355c&id=%E8%80%81%E6%95%85%E4%BA%8B&type=yy
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/212/893/202405081702_1715158824845_H169_1080.jpg" group-title="其他频道",发现之旅
+https://migu.188766.xyz/?migutoken=86cbdf8f5fe44fed5f0392e168779e1d&id=%E5%8F%91%E7%8E%B0%E4%B9%8B%E6%97%85&type=yy
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV1.png" group-title="其他频道",CETV-1
+https://migu.188766.xyz/?migutoken=517d0c642009a0ed90498fd1d27c511e&id=CETV1&type=yy
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV2.png" group-title="其他频道",CETV-2
+https://migu.188766.xyz/?migutoken=b28209c7b9cb3fb36f34b806c8a13896&id=CETV2&type=yy
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/CETV4.png" group-title="其他频道",CETV-4
+https://migu.188766.xyz/?migutoken=15d317a52d0200a933e93bf4e7a1ed10&id=CETV4&type=yy
+#EXTINF:-1 tvg-id="新动力量创一流" tvg-name="新动力量创一流" tvg-logo="http://wapx.cmvideo.cn:8080/publish/poms/image/5910/019/523/202506060000_1749138941378_H32_1080.webp" group-title="其他频道",新动力量创一流
+https://migu.188766.xyz/?migutoken=2cbc6b46c7be557fbd0b3d13ce78a8ad&id=%E6%96%B0%E5%8A%A8%E5%8A%9B%E9%87%8F%E5%88%9B%E4%B8%80%E6%B5%81&type=yy
+
+
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://static.188766.xyz/logo/taksssss/tv/icon/卡酷少儿.png" group-title="地方频道",卡酷少儿
+https://migu.188766.xyz/?migutoken=b41c808c78ac230974c5e46584c73757&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
+#EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京影视.png" group-title="地方频道",北京影视
+https://migu.188766.xyz/?migutoken=97e539fd56b2fcc620d1b09c3b8db57e&id=%E5%8C%97%E4%BA%AC%E5%BD%B1%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京文艺.png" group-title="地方频道",北京文艺
+https://migu.188766.xyz/?migutoken=ea8fd24acb42b53533f05cc8287d4bc7&id=%E5%8C%97%E4%BA%AC%E6%96%87%E8%89%BA&type=yy
+#EXTINF:-1 tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京财经.png" group-title="地方频道",北京财经
+https://migu.188766.xyz/?migutoken=fd9c30fe9b82ec9e4bf3e88ff32fe6ca&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+#EXTINF:-1 tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京生活.png" group-title="地方频道",北京生活
+https://migu.188766.xyz/?migutoken=bf95ce227b0717c408172422c064c7d2&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京新闻.png" group-title="地方频道",北京新闻
+https://migu.188766.xyz/?migutoken=30c6c1d6f7e50ed2ab55e0d8932ca4d8&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/北京纪实科教.png" group-title="地方频道",北京纪实科教
+https://migu.188766.xyz/?migutoken=2e8f6f75859331780ce8eea80f10a702&id=%E5%8C%97%E4%BA%AC%E7%BA%AA%E5%AE%9E%E7%A7%91%E6%95%99&type=yy
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南梨园.png" group-title="地方频道",河南梨园
+https://migu.188766.xyz/?migutoken=4490fc65ee8919d1a92f0052dd794c4d&id=%E6%A2%A8%E5%9B%AD%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南新闻" tvg-name="河南新闻" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南新闻.png" group-title="地方频道",河南新闻
+https://migu.188766.xyz/?migutoken=9479da3a3656037d90ea41b558471c00&id=%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南都市.png" group-title="地方频道",河南都市
+https://migu.188766.xyz/?migutoken=5ddd2d3bfcd52c35c615fbb2918828b0&id=%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南民生.png" group-title="地方频道",河南民生
+https://migu.188766.xyz/?migutoken=68dffe6ef5ab3338f56a2d89190094bf&id=%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南电视剧" tvg-name="河南电视剧" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南电视剧.png" group-title="地方频道",河南电视剧
+https://migu.188766.xyz/?migutoken=afe1336bd5a69f586cdba2121206496f&id=%E7%94%B5%E8%A7%86%E5%89%A7%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南公共.png" group-title="地方频道",河南公共
+https://migu.188766.xyz/?migutoken=cced32b864510ea384b895612e5545cb&id=%E5%85%AC%E5%85%B1%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南公共" tvg-name="河南公共" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/河南法治.png" group-title="地方频道",河南法治
+https://migu.188766.xyz/?migutoken=41b0c6411192be59d12a9f8bb6ff843d&id=%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南武术" tvg-name="河南武术" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/武术世界.png" group-title="地方频道",河南武术
+https://migu.188766.xyz/?migutoken=0e9c40b4150bba309ec63d602177cec4&id=%E6%AD%A6%E6%9C%AF%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南移动戏曲" tvg-name="河南移动戏曲" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/移动戏曲.png" group-title="地方频道",河南移动戏曲
+https://migu.188766.xyz/?migutoken=d353893ca2cf77cbaed93af2b3d80967&id=%E7%A7%BB%E5%8A%A8%E6%88%8F%E6%9B%B2%E9%A2%91%E9%81%93&type=yy
+#EXTINF:-1 tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/文物宝库.png" group-title="地方频道",河南文物宝库
+https://migu.188766.xyz/?migutoken=09218c66d66d970036d4939fbdc45df0&id=%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93&type=yy
+#EXTINF:-1 tvg-id="河南象视界" tvg-name="河南象视界" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/河南象视界.png" group-title="地方频道",河南象视界
+https://migu.188766.xyz/?migutoken=681b882df54a729105232eedd672ff77&id=%E8%B1%A1%E8%A7%86%E7%95%8C&type=yy
+
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东体育.png" group-title="地方频道",广东体育
+https://migu.188766.xyz/?migutoken=decff9c836be75e4f242ae97251220a2&id=hk_gdty&type=dy
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东体育.png" group-title="地方频道",广东体育
+https://hk.188766.xyz/?migutoken=a26523f638564681aebf403a42281fa1&id=gd_gdty&type=sz
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东新闻.png" group-title="地方频道",广东新闻
+https://hk.188766.xyz/?migutoken=00b8d940dc215e9ce9ae778417816553&id=gd_gdxw&type=sz
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东珠江.png" group-title="地方频道",广东珠江
+https://hk.188766.xyz/?migutoken=d6535674a7f4cfa417b2dbd6c608442e&id=gd_gdzj&type=sz
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东民生.png" group-title="地方频道",广东民生
+https://hk.188766.xyz/?migutoken=bb6fb387986c52885876426c938bd68f&id=gd_gdms&type=sz
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东影视.png" group-title="地方频道",广东影视
+https://hk.188766.xyz/?migutoken=a7c968475aac7e5591dfc805bfdf3f42&id=gd_gdys&type=sz
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东少儿.png" group-title="地方频道",广东少儿
+https://hk.188766.xyz/?migutoken=3ad5003833a7fbf2a7d8dee10ac90843&id=gd_gdse&type=sz
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/嘉佳卡通.png" group-title="地方频道",嘉佳卡通
+https://hk.188766.xyz/?migutoken=f271ba730e5edc9d733c5d36bb881d95&id=gd_jjkt&type=sz
+#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/岭南戏曲.png" group-title="地方频道",岭南戏曲
+https://hk.188766.xyz/?migutoken=38caf783d3e2b9b44a6e5f7e008e05ef&id=gd_lnxq&type=sz
+#EXTINF:-1 tvg-id="广东移动" tvg-name="广东移动" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东移动.png" group-title="地方频道",广东移动
+https://hk.188766.xyz/?migutoken=2c9828e18e5223ad6883cc88520c2670&id=gd_gdyd&type=sz
+#EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/现代教育.png" group-title="地方频道",现代教育
+https://hk.188766.xyz/?migutoken=9b5b65ef0e7cb7c867bd53016c892a18&id=gd_xdjy&type=sz
+#EXTINF:-1 tvg-id="广东生活频道" tvg-name="广东生活频道" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/广东生活A.png" group-title="地方频道",广东生活频道
+https://hk.188766.xyz/?migutoken=e9238af3fe63062a050ab2c4b97e1a70&id=gd_gdsh&type=sz
+
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/上海新闻综合.png" group-title="地方频道",上海新闻综合
+https://migu.188766.xyz/?migutoken=e7e10a271dd75e59e0cddfc52d7ce3d1&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
+#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/上海第一财经.png" group-title="地方频道",上海第一财经
+#EXTVLCOPT:referer=https://live.kankanews.com/
+#EXTVLCOPT:http-referer=https://live.kankanews.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://live.kankanews.com/
+https://migu.188766.xyz/?migutoken=b6bcf347857760c56a32b98ac8c6d462&id=dycj&type=sz
+#EXTINF:-1 tvg-id="上海新纪实" tvg-name="上海新纪实" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/新纪实频道.png" group-title="地方频道",上海新纪实
+#EXTVLCOPT:referer=https://live.kankanews.com/
+#EXTVLCOPT:http-referer=https://live.kankanews.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://live.kankanews.com/
+https://migu.188766.xyz/?migutoken=4e8aae22eef79f1bcc17137f93d63cb7&id=jsrw&type=sz
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/上海都市.png" group-title="地方频道",上海都市
+#EXTVLCOPT:referer=https://live.kankanews.com/
+#EXTVLCOPT:http-referer=https://live.kankanews.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://live.kankanews.com/
+https://migu.188766.xyz/?migutoken=1bd977258432be0ce7b1a443e02df500&id=shds&type=sz
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/哈哈炫动.png" group-title="地方频道",哈哈炫动
+#EXTVLCOPT:referer=https://live.kankanews.com/
+#EXTVLCOPT:http-referer=https://live.kankanews.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://live.kankanews.com/
+https://migu.188766.xyz/?migutoken=ef0d2b95603ab7bebf1be5092ed438f7&id=hhxd&type=sz
+#EXTINF:-1 tvg-id="上海魔都眼" tvg-name="上海魔都眼" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/上海魔都眼.png" group-title="地方频道",上海魔都眼
+#EXTVLCOPT:referer=https://live.kankanews.com/
+#EXTVLCOPT:http-referer=https://live.kankanews.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://live.kankanews.com/
+https://migu.188766.xyz/?migutoken=739a1d44558c80eb859900dc7464e9f7&id=mdy&type=sz
+#EXTINF:-1 tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/上海ICS.png" group-title="地方频道",爱上海
+#EXTVLCOPT:referer=https://live.kankanews.com/
+#EXTVLCOPT:http-referer=https://live.kankanews.com/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://live.kankanews.com/
+https://migu.188766.xyz/?migutoken=72df41729a2d31af10cc9725a05df5e2&id=ash&type=sz
+
+#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南新闻.png" group-title="地方频道",海南新闻
+https://migu.188766.xyz/?migutoken=f8420ecef17d53f4c0fa5c59c2159061&id=hn_xwpd&type=sz
+#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南文旅.png" group-title="地方频道",海南文旅
+https://migu.188766.xyz/?migutoken=aa78ff89be95fd1cb7ee86c674f6b966&id=hn_wlpd&type=sz
+#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南自贸.png" group-title="地方频道",海南自贸
+https://migu.188766.xyz/?migutoken=cd91812ec2294ed578efa312fa5370f5&id=hn_jjpd&type=sz
+#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南公共.png" group-title="地方频道",海南公共
+https://migu.188766.xyz/?migutoken=a36aa53f607f2e1beeb0f80c7fad1de6&id=hn_ggpd&type=sz
+#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/海南少儿.png" group-title="地方频道",海南少儿
+https://migu.188766.xyz/?migutoken=240d7b96f278fa4523dd75d08bbd721e&id=hn_sepd&type=sz
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江新闻.png" group-title="地方频道",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江国际.png" group-title="地方频道",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江少儿.png" group-title="地方频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江教科影视.png" group-title="地方频道",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/之江纪录.png" group-title="地方频道",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江民生休闲.png" group-title="地方频道",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/浙江经济生活.png" group-title="地方频道",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/钱江都市.png" group-title="地方频道",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="内蒙古农牧" tvg-name="内蒙古农牧" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古农牧.png" group-title="地方频道",内蒙古农牧
+http://play1-qk.nmtv.cn:80/live/1686561299036179.m3u8
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-name="内蒙古新闻综合" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古新闻综合.png" group-title="地方频道",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 tvg-id="内蒙古少儿" tvg-name="内蒙古少儿" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古少儿.png" group-title="地方频道",内蒙古少儿
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-name="内蒙古文体娱乐" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古文体娱乐.png" group-title="地方频道",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-name="内蒙古经济生活" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古经济生活.png" group-title="地方频道",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 tvg-id="内蒙古蒙语卫视" tvg-name="内蒙古蒙语卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语卫视.png" group-title="地方频道",内蒙古蒙语卫视
+http://play1-qk.nmtv.cn/live/1686560387346365.m3u8
+#EXTINF:-1 tvg-id="内蒙古蒙语文化" tvg-name="内蒙古蒙语文化" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/内蒙古蒙语文化.png" group-title="地方频道",内蒙古蒙语文化
+http://play1-qk.nmtv.cn/live/1686561065304370.m3u8
+
+
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="粤语频道",凤凰中文
+https://mgev.188766.xyz/?migutoken=33d097fdc43f959564e5c6252de03dd2&id=fhzw&pp=1
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="粤语频道",凤凰中文
+https://mgev.188766.xyz/?migutoken=888c81861e37d7040da05650635aa5bb&id=hk_fhzw&type=dy
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="粤语频道",凤凰资讯
+https://mgev.188766.xyz/?migutoken=34f4338a46dc98b8080ad11e650082e4&id=fhzx&pp=1
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="粤语频道",凤凰资讯
+https://mgev.188766.xyz/?migutoken=b3a6a4786877932481b4efcda00261c2&id=hk_fhzx&type=dy
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="粤语频道",凤凰香港
+https://mgev.188766.xyz/?migutoken=45cc07f63fabff94c7c3343527b1638b&id=fhhk&pp=1
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/凤凰卫视香港台.png" group-title="粤语频道",凤凰香港
+https://mgev.188766.xyz/?migutoken=940e91f840e50dfb138e47ac6e65b648&id=hk_fhhk&type=dy
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="粤语频道",翡翠台
+https://mgev.188766.xyz/?migutoken=150ce5fc488a73fa8dc10581bbb0bf89&id=hk_fct&type=dy
+#EXTINF:-1 tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/翡翠台.png" group-title="粤语频道",翡翠台4K
+https://mgev.188766.xyz/?migutoken=1bc3a41c04d5daa057e8bf769ab40619&id=hk_fct4k&type=dy
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/无线新闻.png" group-title="粤语频道",无线新闻
+https://mgev.188766.xyz/?migutoken=e12728fa35d5da609681245f00c258b2&id=hk_wxxw&type=dy
+#EXTINF:-1 tvg-id="Now新闻台" tvg-name="Now新闻台" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/NOW新闻台.png" group-title="粤语频道",Now新闻台
+https://mgev.188766.xyz/?migutoken=6708fd37b0c66d2aa3a78cb3766e04ad&id=hk_now&type=dy
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/tvbplus.png" group-title="粤语频道",TVB Plus
+https://mgev.188766.xyz/?migutoken=aac05b982c30ace5a7232f857116d3aa&id=hk_tvbp&type=dy
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/明珠台.png" group-title="粤语频道",明珠台
+https://mgev.188766.xyz/?migutoken=48a67f44b642676c974ab7077d4472e5&id=hk_mzt&type=dy
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/TVB星河.png" group-title="粤语频道",TVB星河
+https://mgev.188766.xyz/?migutoken=d1b298c1a70cd3c02c655fa103d78d41&id=hk_tvbxh&type=dy
+#EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/TVB功夫.png" group-title="粤语频道",TVB功夫
+https://mgev.188766.xyz/?migutoken=21f3941d38ba241560e3b5a8eff9f9d6&id=hk_yzwx&type=dy
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/八度空间.png" group-title="粤语频道",八度空间
+https://mgev.188766.xyz/?migutoken=82dba379146f3c8728546fbff1beeafc&id=hk_8tv&type=dy
+#EXTINF:-1 tvg-id="CHU" tvg-name="CHU" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channelu.png" group-title="粤语频道",CHU
+https://mgev.188766.xyz/?migutoken=c609570d0ffa5c9e42bfc6b079599cf2&id=hk_chu&type=dy
+#EXTINF:-1 tvg-id="CH5" tvg-name="CH5" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel5.png" group-title="粤语频道",CH5
+https://mgev.188766.xyz/?migutoken=389512ea3eacd9147248a1846ab32d2e&id=hk_ch5&type=dy
+#EXTINF:-1 tvg-id="CH8" tvg-name="CH8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/channel8.png" group-title="粤语频道",CH8
+https://mgev.188766.xyz/?migutoken=bc2d61bbfa1e206cda29ae13fdf5d69a&id=hk_ch8&type=dy
+#EXTINF:-1 tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/澳视澳门.png" group-title="粤语频道",澳视澳门
+https://mgev.188766.xyz/?migutoken=4a210ac160c2765d603fbf008ccef8e3&id=hk_asam&type=dy
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/HOY77.png" group-title="粤语频道",HOY77
+https://mgev.188766.xyz/?migutoken=87a8a7cdebcb1024b8b70977632bd550&id=hk_hoy&type=dy
+
+
+
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="咪视界ys",睛彩竞技-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011528&token=3869e7bc3869e7bc3869e7bc3869e7bc&client=ys
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="咪视界ys",睛彩篮球-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011529&token=3869e7bd3869e7bd3869e7bd3869e7bd&client=ys
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩青少.png" group-title="咪视界ys",睛彩青少-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011525&token=3869e7b93869e7b93869e7b93869e7b9&client=ys
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩广场舞.png" group-title="咪视界ys",睛彩广场舞-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011523&token=3869e7b73869e7b73869e7b73869e7b7&client=ys
+#EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="咪视界ys",咪视界4K-1-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000005180&token=a378e0a4a378e0a4a378e0a4a378e0a4&client=ys
+#EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="咪视界ys",咪视界4K-2-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000015686&token=a3870af0a3870af0a3870af0a3870af0&client=ys
+#EXTINF:-1 tvg-id="咪视界-1" tvg-name="咪视界-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-1-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000005308&token=02dda59402dda59402dda59402dda594&client=ys
+#EXTINF:-1 tvg-id="咪视界-2" tvg-name="咪视界-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-2-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000005969&token=02ddbcd502ddbcd502ddbcd502ddbcd5&client=ys
+#EXTINF:-1 tvg-id="咪视界-3" tvg-name="咪视界-3" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-3-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000007218&token=02de8ab002de8ab002de8ab002de8ab0&client=ys
+#EXTINF:-1 tvg-id="咪视界-4" tvg-name="咪视界-4" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-4-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000008001&token=02def76702def76702def76702def767&client=ys
+#EXTINF:-1 tvg-id="咪视界-5" tvg-name="咪视界-5" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-5-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000008176&token=02defc0602defc0602defc0602defc06&client=ys
+#EXTINF:-1 tvg-id="咪视界-6" tvg-name="咪视界-6" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-6-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000008379&token=02df038b02df038b02df038b02df038b&client=ys
+#EXTINF:-1 tvg-id="咪视界-7" tvg-name="咪视界-7" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-7-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000010129&token=02e96ff702e96ff702e96ff702e96ff7&client=ys
+#EXTINF:-1 tvg-id="咪视界-8" tvg-name="咪视界-8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-8-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000010948&token=02e98e3c02e98e3c02e98e3c02e98e3c&client=ys
+#EXTINF:-1 tvg-id="咪视界-9" tvg-name="咪视界-9" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-9-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000028638&token=02fb3d5302fb3d5302fb3d5302fb3d53&client=ys
+#EXTINF:-1 tvg-id="咪视界-10" tvg-name="咪视界-10" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-10-移动或影视专用
+https://msj.188766.xyz/play?id=3000000001000031494&token=03061f6f03061f6f03061f6f03061f6f&client=ys
+#EXTINF:-1 tvg-id="咪视界-11" tvg-name="咪视界-11" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-11-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000000097&token=a376972ea376972ea376972ea376972e&client=ys
+#EXTINF:-1 tvg-id="咪视界-12" tvg-name="咪视界-12" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-12-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000002019&token=a3777ef6a3777ef6a3777ef6a3777ef6&client=ys
+#EXTINF:-1 tvg-id="咪视界-13" tvg-name="咪视界-13" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-13-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000002809&token=a3779cdfa3779cdfa3779cdfa3779cdf&client=ys
+#EXTINF:-1 tvg-id="咪视界-14" tvg-name="咪视界-14" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-14-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000003915&token=a378151aa378151aa378151aa378151a&client=ys
+#EXTINF:-1 tvg-id="咪视界-15" tvg-name="咪视界-15" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-15-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000004193&token=a3786c67a3786c67a3786c67a3786c67&client=ys
+#EXTINF:-1 tvg-id="咪视界-16" tvg-name="咪视界-16" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-16-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000005837&token=a378fa57a378fa57a378fa57a378fa57&client=ys
+#EXTINF:-1 tvg-id="咪视界-17" tvg-name="咪视界-17" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-17-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000006077&token=a379512aa379512aa379512aa379512a&client=ys
+#EXTINF:-1 tvg-id="咪视界-18" tvg-name="咪视界-18" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-18-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000006658&token=a3796773a3796773a3796773a3796773&client=ys
+#EXTINF:-1 tvg-id="咪视界-19" tvg-name="咪视界-19" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-19-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000009788&token=a37ac8aea37ac8aea37ac8aea37ac8ae&client=ys
+#EXTINF:-1 tvg-id="咪视界-20" tvg-name="咪视界-20" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-20-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000010833&token=a384cbf9a384cbf9a384cbf9a384cbf9&client=ys
+#EXTINF:-1 tvg-id="咪视界-21" tvg-name="咪视界-21" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-21-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000011297&token=a3852a90a3852a90a3852a90a3852a90&client=ys
+#EXTINF:-1 tvg-id="咪视界-22" tvg-name="咪视界-22" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-22-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000011518&token=a38534dca38534dca38534dca38534dc&client=ys
+#EXTINF:-1 tvg-id="咪视界-23" tvg-name="咪视界-23" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-23-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000012558&token=a385a9b7a385a9b7a385a9b7a385a9b7&client=ys
+#EXTINF:-1 tvg-id="咪视界-24" tvg-name="咪视界-24" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-24-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000012616&token=a385acfaa385acfaa385acfaa385acfa&client=ys
+#EXTINF:-1 tvg-id="咪视界-25" tvg-name="咪视界-25" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-25-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000015470&token=a3870349a3870349a3870349a3870349&client=ys
+#EXTINF:-1 tvg-id="咪视界-26" tvg-name="咪视界-26" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-26-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000015560&token=a38706eba38706eba38706eba38706eb&client=ys
+#EXTINF:-1 tvg-id="咪视界-27" tvg-name="咪视界-27" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-27-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000017678&token=a387f391a387f391a387f391a387f391&client=ys
+#EXTINF:-1 tvg-id="咪视界-28" tvg-name="咪视界-28" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-28-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000019839&token=a388e356a388e356a388e356a388e356&client=ys
+#EXTINF:-1 tvg-id="咪视界-29" tvg-name="咪视界-29" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-29-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000021904&token=a3935b3ea3935b3ea3935b3ea3935b3e&client=ys
+#EXTINF:-1 tvg-id="咪视界-30" tvg-name="咪视界-30" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-30-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000023434&token=a3943194a3943194a3943194a3943194&client=ys
+#EXTINF:-1 tvg-id="咪视界-31" tvg-name="咪视界-31" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-31-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000025380&token=a3951728a3951728a3951728a3951728&client=ys
+#EXTINF:-1 tvg-id="咪视界-32" tvg-name="咪视界-32" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-32-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000027691&token=a3960b49a3960b49a3960b49a3960b49&client=ys
+#EXTINF:-1 tvg-id="咪视界-33" tvg-name="咪视界-33" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-33-移动或影视专用
+https://msj.188766.xyz/play?id=3000000010000031669&token=a3a1683ba3a1683ba3a1683ba3a1683b&client=ys
+#EXTINF:-1 tvg-id="咪视界-34" tvg-name="咪视界-34" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-34-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011518&token=3869e79d3869e79d3869e79d3869e79d&client=ys
+#EXTINF:-1 tvg-id="咪视界-35" tvg-name="咪视界-35" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-35-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011519&token=3869e79e3869e79e3869e79e3869e79e&client=ys
+#EXTINF:-1 tvg-id="咪视界-36" tvg-name="咪视界-36" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-36-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011520&token=3869e7b43869e7b43869e7b43869e7b4&client=ys
+#EXTINF:-1 tvg-id="咪视界-37" tvg-name="咪视界-37" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-37-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011521&token=3869e7b53869e7b53869e7b53869e7b5&client=ys
+#EXTINF:-1 tvg-id="咪视界-38" tvg-name="咪视界-38" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界ys",咪视界-38-移动或影视专用
+https://msj.188766.xyz/play?id=3000000020000011522&token=3869e7b63869e7b63869e7b63869e7b6&client=ys
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="咪视界bc",睛彩竞技-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011528&token=3869e7bc3869e7bc3869e7bc3869e7bc
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/晴彩竞技.png" group-title="咪视界bc",睛彩篮球-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011529&token=3869e7bd3869e7bd3869e7bd3869e7bd
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩青少.png" group-title="咪视界bc",睛彩青少-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011525&token=3869e7b93869e7b93869e7b93869e7b9
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/睛彩广场舞.png" group-title="咪视界bc",睛彩广场舞-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011523&token=3869e7b73869e7b73869e7b73869e7b7
+#EXTINF:-1 tvg-id="咪视界4k-1" tvg-name="咪视界4k-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="咪视界bc",咪视界4K-1-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000005180&token=a378e0a4a378e0a4a378e0a4a378e0a4
+#EXTINF:-1 tvg-id="咪视界4k-2" tvg-name="咪视界4k-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界4K.png" group-title="咪视界bc",咪视界4K-2-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000015686&token=a3870af0a3870af0a3870af0a3870af0
+#EXTINF:-1 tvg-id="咪视界-1" tvg-name="咪视界-1" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-1-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000005308&token=02dda59402dda59402dda59402dda594
+#EXTINF:-1 tvg-id="咪视界-2" tvg-name="咪视界-2" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-2-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000005969&token=02ddbcd502ddbcd502ddbcd502ddbcd5
+#EXTINF:-1 tvg-id="咪视界-3" tvg-name="咪视界-3" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-3-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000007218&token=02de8ab002de8ab002de8ab002de8ab0
+#EXTINF:-1 tvg-id="咪视界-4" tvg-name="咪视界-4" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-4-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000008001&token=02def76702def76702def76702def767
+#EXTINF:-1 tvg-id="咪视界-5" tvg-name="咪视界-5" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-5-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000008176&token=02defc0602defc0602defc0602defc06
+#EXTINF:-1 tvg-id="咪视界-6" tvg-name="咪视界-6" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-6-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000008379&token=02df038b02df038b02df038b02df038b
+#EXTINF:-1 tvg-id="咪视界-7" tvg-name="咪视界-7" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-7-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000010129&token=02e96ff702e96ff702e96ff702e96ff7
+#EXTINF:-1 tvg-id="咪视界-8" tvg-name="咪视界-8" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-8-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000010948&token=02e98e3c02e98e3c02e98e3c02e98e3c
+#EXTINF:-1 tvg-id="咪视界-9" tvg-name="咪视界-9" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-9-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000028638&token=02fb3d5302fb3d5302fb3d5302fb3d53
+#EXTINF:-1 tvg-id="咪视界-10" tvg-name="咪视界-10" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-10-冰茶专用
+https://msj.188766.xyz/play?id=3000000001000031494&token=03061f6f03061f6f03061f6f03061f6f
+#EXTINF:-1 tvg-id="咪视界-11" tvg-name="咪视界-11" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-11-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000000097&token=a376972ea376972ea376972ea376972e
+#EXTINF:-1 tvg-id="咪视界-12" tvg-name="咪视界-12" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-12-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000002019&token=a3777ef6a3777ef6a3777ef6a3777ef6
+#EXTINF:-1 tvg-id="咪视界-13" tvg-name="咪视界-13" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-13-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000002809&token=a3779cdfa3779cdfa3779cdfa3779cdf
+#EXTINF:-1 tvg-id="咪视界-14" tvg-name="咪视界-14" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-14-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000003915&token=a378151aa378151aa378151aa378151a
+#EXTINF:-1 tvg-id="咪视界-15" tvg-name="咪视界-15" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-15-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000004193&token=a3786c67a3786c67a3786c67a3786c67
+#EXTINF:-1 tvg-id="咪视界-16" tvg-name="咪视界-16" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-16-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000005837&token=a378fa57a378fa57a378fa57a378fa57
+#EXTINF:-1 tvg-id="咪视界-17" tvg-name="咪视界-17" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-17-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000006077&token=a379512aa379512aa379512aa379512a
+#EXTINF:-1 tvg-id="咪视界-18" tvg-name="咪视界-18" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-18-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000006658&token=a3796773a3796773a3796773a3796773
+#EXTINF:-1 tvg-id="咪视界-19" tvg-name="咪视界-19" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-19-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000009788&token=a37ac8aea37ac8aea37ac8aea37ac8ae
+#EXTINF:-1 tvg-id="咪视界-20" tvg-name="咪视界-20" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-20-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000010833&token=a384cbf9a384cbf9a384cbf9a384cbf9
+#EXTINF:-1 tvg-id="咪视界-21" tvg-name="咪视界-21" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-21-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000011297&token=a3852a90a3852a90a3852a90a3852a90
+#EXTINF:-1 tvg-id="咪视界-22" tvg-name="咪视界-22" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-22-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000011518&token=a38534dca38534dca38534dca38534dc
+#EXTINF:-1 tvg-id="咪视界-23" tvg-name="咪视界-23" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-23-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000012558&token=a385a9b7a385a9b7a385a9b7a385a9b7
+#EXTINF:-1 tvg-id="咪视界-24" tvg-name="咪视界-24" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-24-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000012616&token=a385acfaa385acfaa385acfaa385acfa
+#EXTINF:-1 tvg-id="咪视界-25" tvg-name="咪视界-25" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-25-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000015470&token=a3870349a3870349a3870349a3870349
+#EXTINF:-1 tvg-id="咪视界-26" tvg-name="咪视界-26" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-26-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000015560&token=a38706eba38706eba38706eba38706eb
+#EXTINF:-1 tvg-id="咪视界-27" tvg-name="咪视界-27" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-27-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000017678&token=a387f391a387f391a387f391a387f391
+#EXTINF:-1 tvg-id="咪视界-28" tvg-name="咪视界-28" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-28-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000019839&token=a388e356a388e356a388e356a388e356
+#EXTINF:-1 tvg-id="咪视界-29" tvg-name="咪视界-29" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-29-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000021904&token=a3935b3ea3935b3ea3935b3ea3935b3e
+#EXTINF:-1 tvg-id="咪视界-30" tvg-name="咪视界-30" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-30-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000023434&token=a3943194a3943194a3943194a3943194
+#EXTINF:-1 tvg-id="咪视界-31" tvg-name="咪视界-31" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-31-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000025380&token=a3951728a3951728a3951728a3951728
+#EXTINF:-1 tvg-id="咪视界-32" tvg-name="咪视界-32" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-32-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000027691&token=a3960b49a3960b49a3960b49a3960b49
+#EXTINF:-1 tvg-id="咪视界-33" tvg-name="咪视界-33" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-33-冰茶专用
+https://msj.188766.xyz/play?id=3000000010000031669&token=a3a1683ba3a1683ba3a1683ba3a1683b
+#EXTINF:-1 tvg-id="咪视界-34" tvg-name="咪视界-34" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-34-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011518&token=3869e79d3869e79d3869e79d3869e79d
+#EXTINF:-1 tvg-id="咪视界-35" tvg-name="咪视界-35" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-35-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011519&token=3869e79e3869e79e3869e79e3869e79e
+#EXTINF:-1 tvg-id="咪视界-36" tvg-name="咪视界-36" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-36-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011520&token=3869e7b43869e7b43869e7b43869e7b4
+#EXTINF:-1 tvg-id="咪视界-37" tvg-name="咪视界-37" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-37-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011521&token=3869e7b53869e7b53869e7b53869e7b5
+#EXTINF:-1 tvg-id="咪视界-38" tvg-name="咪视界-38" tvg-logo="https://static.188766.xyz/logo/sparkssssssssss/epg/logo/咪视界.png" group-title="咪视界bc",咪视界-38-冰茶专用
+https://msj.188766.xyz/play?id=3000000020000011522&token=3869e7b63869e7b63869e7b63869e7b6
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日02:00_NBA常规赛_森林狼vs骑士 刘乘源
+https://mgev.188766.xyz/play?migutoken=b753a0d5a23ebd262be99946e1bbdc23&id=ElS6KB6I0jEAiXLvJwqVmBATLvjju3dbDKqETEm%2B2dO5XWDoyRGsrWFZiux2ub%2Fo%2FkAIRl6D9xZJindlUpV%2BM9MCQQ4T2DR25XhnGGT20ifb2fIEEdWH42EN3G%2BPmzit%2BGHJy5z9CcT4jHR9fiFodSNKCfvWmAgcg%2Bs37f0syGrIEbR4McUpd0IAp5HDxLemfiTE2Ftgoca1ceoVvcY7ZjA0YnXqOXnvGctRvoTN%2BPg9fGhLH%2BGyvJCkSYmuKk3hQ46Ly2yy3KKfecfy2TuWADG%2FxjFUovmK6Ck%2BeR2BjgxhjXm5%2Bh8j2idhlRvYQZ1pG0vRExUPTdl5lS9N8k19%2Fw%3D%3D&name=968%2BiA8z28%2BeryWUE4z%2BCKQr5TW5GRMueAwNwPiAXOY5mt1E2yUPAjN7mCY0uA9RZtxBz6UhkknP2xfkA5%2Bzwo87XVT4bzNdJM84IG8m3AA%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日02:00_NBA常规赛_森林狼vs骑士 英文原音
+https://mgev.188766.xyz/play?migutoken=4a8be83de87adbdf08b8b4dafbc64a32&id=gn%2FvdVeHYg4GUVz3MT05AOHangXMzkokWL3Hnfp6jJ7qltJWk0DrfQ%2FYVMmTTsGzoVHGzos4QjS9WVupXSl5pTcNMRXywApauY2goGAfuPzf3YSSeWqDU%2BT%2FnJxNLxJNwz5pnJTn7GifXIx3Vm1EafCoSE%2B1IwN%2BC8gkX65HthhoYZqeo%2FUWiFU1MSsgeK6II98pzYuQXkBkP9DItyolGDD5HudCNiHYjwKPQSp5jE9XvXaknkmjyZ%2BdvBHR0pl80f4LszYVktnHjQmh082A2pa8ftUDlwtF7mOqQhY6l7mVPc1kCN%2FV2a8UkzlijzVWbL5xk0X1g3ZRa%2FxBj66dgQ%3D%3D&name=FSq%2B0R1cdwoU5VEV2ufZi1LRI62UQip%2Fh0WPdDDVWVUduagncSA8VFbfo5wvqnPFhWQYGiakSSIfWNEAmF%2B4glpQwfmqHYPRzBwq0HtAItg%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日04:00_赛车_FE电动方程式世界锦标赛墨西哥城站正赛
+https://mgev.188766.xyz/play?migutoken=09ce205f545c35a1f98273aa62c5e806&id=Fqx3tE%2FcvaQqoFLhOVCV1bDxTkEiBId54d3hPLPRWJ%2B3641slM%2FEeKItv60hO1B8Cx0NrF9m9hfXTnKxlgY8egV7dWvPtC1f9APoDS6hycA0nYrOoyTAj8X%2BZao%2FWqTcX2J7KuNtiY7uJ%2FcVntyDBauUtjqwucXDrCDeufHmi6AK9rqu%2F87Ew1kmkoy18AtPNyhuq48SBPReKaHrMufdV0%2FGG4%2Fr5OjVdSMCHFVTQNoloCiUHj%2Fi5vKH67Rv2D434fUWPTinyQ%2FDK1vv%2BILmFNieklE9ypUfgRX1bqLV%2BgDcbqyrWwp1ztkXypaZH%2BVl&name=FwJlnTkxXLufrZsgmzUNoFRuHr%2FB1G0tGypDKf%2F%2BsT752vTtiOorQpfo3UOuPE3QasnhgXXAlVxJWsu5R15BNrIhWIxCjMH0gELH83nEBSc4Gnu%2FeEr0r1TckgM8%2B10t
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日05:30_NFL季后赛_公羊vs黑豹 杨木
+https://mgev.188766.xyz/play?migutoken=936b85acab2c810761eafbaa4c97e0ef&id=sMDmuwQw%2BgfJ%2BEy8sr8h74eGdtPV%2FJsRG%2F5t253CsW6G2rcJNIM%2F2vwbANAxFTJClrKF2ew6eHD3IuDxzlsRPWwreTSnlJDe%2BfKpnY7eUGYZdmarUMAuS3jgr0dlBiJtuQIJZaAnRkJBYC1hoF4seuSDYZ2CUYPk4f7YP%2FcxQghA9i9PNNJFHfq%2FJUnnNyoasJ0Tpu3UAOyAYYXUJZVZMH4AiyAeKUUorA0q0WL%2FCPOTJGkxEQSzqvXfuOh2Z6hOAzYSSKy7g%2BbDkyMS%2FN4xIsUY39F0dL7Qhfm3MUDCmvbmnXYbsM1GvNrH2haVZg7D&name=heYpmMw1nlHDw8G7xVG0X08HBHFQb7Cuzx0dfkoFqV7mpmg71Yz52SD67UTvMYVuJBW9lyo4q8pRw%2FXe9Fm%2BcfTnRStHQ%2FhtTrYvEEetwTs%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日05:30_NFL季后赛_公羊vs黑豹 英文原音
+https://mgev.188766.xyz/play?migutoken=cb7a4e3d993d9dc1fdc3bbeeb40d1e20&id=DDvuVwzG0DfrSVgRCYdThfnuTtEGiAuJvJrgzp90iN1dugIlvALRZJoOBrsuRySelTdHevdJiyZG%2Fme7JBeUE1rg%2FDRLU0ZabT6gB2A0xxLlERXr2QSHKcJLKvG%2BHnmMjc7ybSpFdi3FOzWBxnHu7k%2FwCUV%2Fr%2BxOjIR%2FapBB1zwXMwCGm7kbdyAzK6EIM9vORjAFdPexzVMCvBuZIbgHCN%2FGKT3g46xhBmB7%2Fk4%2BpK5oqivHIBs%2BorKm7imr7LA8mnfiNJzq5TVflDaT3lfvTzARFLt5maqY%2BmQ%2BXh5eotOnYMs2WN3L2esfraC7pruk&name=wh%2FLBbj6fP%2By5i0iOdw3%2FSdeaEd9JV8U5MiA7xA7OnUebDGFVbm%2FceBOD1dp22r18FrPxuCtchODTg0V2EZUDrwfpFjFHQrGhMnevGCDK2Q%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日08:00_篮球直播节目_[早安Tip_Off]第80期 彭磊 苏群 泱泱
+https://mgev.188766.xyz/play?migutoken=c5890c7838bfe92d0866d03766c290dd&id=YsbCKaraNYWEsM0PkhanYjPdGmTr%2FvUFQ2%2F6nJ0CT2lQGsf7%2BaV326ujcVpu8u5FpUtDe4P2rghrtmfLh3pCRJ7E5kSYnQUqDKZUZoh82OFBqPUTUnvjghiV2f67zmS2loGbsXRY5KPKihYkymSBqx7IQReTwee1QJi9HKZKgu5CNN8JIweS64mtQUA7hd8Wf2qykapoOq93shGSlsLdUiN3IywGDNP%2BoI8HnM%2FE98vB0nVS4Cwj2khsgKZpNkGN1V8Hl9j8FEZUnP4e7jA8TgiNRkYppcyO%2F8U56zmivECqRG4fk2OB0KCGz0zf5ahB&name=VfOLOSRSDlw70BHxCTFnyiQcomFUD5dHKHPJLjK1D8%2FBMBNiA28FlzsVXPjhjxHf56ds6sl2tNBPBHkBj%2BtzXlM0a2f0b5JJ3sjjaGkNGDQnpGV%2BZNYTehXp5Qv0nFAW
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日08:00_NBA常规赛_热火vs步行者 王嘉琦
+https://mgev.188766.xyz/play?migutoken=e44feedf70e14bd1936433a6e004b315&id=uUAF5U3oSdAAH07wUFye4T3UAQ6FfJUJa3bbAiLSTTVYTHSz8Gdi2vUJLv9gbqkx7YqkF56jcKmMp3XIyb5R5BH0G2lOUxKeHxi8vtEnutDsIhbo2g%2Bfp9K7a2lZ7%2FJJv6vT8af87pqkRAFKtGqOE1xRCrElRDXgl4trjXx%2FDLYCGdpUQ5ApiuBGnlPkgBe%2FIkY0SpvS9EFRJH2UJpNELkSJIPweeMGf1EFD2IBUPknjoInkCgwTOuPbEXc1TI%2FQy1zQpvJ%2BZhX1UIGbC1mTdlPbDpX%2FBrjbOtYxaDbTOJbwDtXqpbiyH1TY2dKrIyuqHfb%2ByTMxSAPPfUhmY6N9jg%3D%3D&name=8COoR9PWlhKXwd4mCNwnFyYgthlEoZwEQXHWmKzTr2HjJHCBwHoEROua7tR5s3ZbRk3PxO%2F4aLAi%2FWVlXdaYtg%2FVa8FywoilURVbQXTsaK8%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日08:00_NBA常规赛_热火vs步行者 英文原音
+https://mgev.188766.xyz/play?migutoken=6da4fb2bdac5cce8d1ec1776a8b7f394&id=uJExLrWBFJhAvaxeIz0YItv0Ahnc5iHRkHmX4dN5hAxKMFVcczLwurVhl2KJwWOfkQHNm9gNfgpsLfjYM0TPR65xAULd3Io%2FBPtt9qATeA1vHJKpVujKlNhCTNJQjJ4cuQH04Vd2apVyp07atTd%2B9yfYWDJFFr7aJ8EsL30bZUyGiEWKGYao82g8ZdE6ah94X0BMDonHpPU%2BWIz5yVXTmBLQ1m90HjOr35bh747IVqUDDFVbPtXTjdOwEc98bT9VlZIZ43pOa3n7Qn47uYxlu16PURvx01VUr22cdu2qqy4qwnJ2I7mK9aSR8WfvQhq72havpUbXwnmtJqfDYq08Lw%3D%3D&name=T9aOK9jeeQbdrVYpQk%2FyjyDqrnCyuII7ZwxesScBjCJoyG8g0AIlJ9EDjYua7ANEfFSvHPRubDn77P30DR%2FYqNKYz8UmRcEVkxG3MEuVkpc%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日08:30_NBA常规赛_快船vs活塞 彭磊 苏群 泱泱
+https://mgev.188766.xyz/play?migutoken=f40e4c4c65039e519ff799811eb676c1&id=qAcjj7tmmBckGF7C0u6d9jO3PDb4HVXsixkKbjoLr9xDT7W5Ks5hbNkXVTBpGR15wd0Bc08YuvFQJngiFsd%2FRAZ2Ig%2FeCLNoaSlw8PzR%2BMDFhh3df5cY%2FBYTEq3M285hMQ9SpE51lIjlr4ZW9x%2FIQUnPkr0LYBSZ8BLlT2rskIVlFHhzZEmqspWqYMYJ2Qedf8RhnaYsRM3q7QCrDZ%2FkR8RoDdJisW7uGL5bgksvUcJPMUGueA7phBHTwS9m6qSesLZZIfFs5zdvaSogPVXtVLEzwK4Xv3%2F0v9I7xsb3NKHCjd1NWRuDyWwxE279KTRakzc64nqxWX80N3wjzB2Sow%3D%3D&name=M%2Bo1b92dKadIzN3NeHkLRYKgGVFw3BAM34vXmdglFC9QstFu66NMMYrnviSqji4zeEzVOBShyCBsHV7%2BvKnHCOMdsyJkj9Dft6%2BMiIlBUY0%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日08:30_NBA常规赛_快船vs活塞 英文原音
+https://mgev.188766.xyz/play?migutoken=55d85d0a30adb0d0d5135c6c32834312&id=FaiG9I0%2B105s77%2Fw2t3yWUahBP8gCbIacQHoixqDzqQ0l8Rv6QU6tBivoMyHdM9FPiXzQAJA%2FSYnpe1m%2FSQYs3j1vxomj%2BIbu8zloooAEsgWJlBSSv386QlXDJnd4J9v4IFvbX7%2B2cCvvEVzlBLde63cTTbWljl2iKoH1ga4%2FBT%2Feh8XwRjjbiTDiP4oaiCES5FJ2C5SnJmUAhdflNYUxOgjBcrd9P7L3u2SzOKf%2BOXcMTVTZhMcDVE%2BemYmhGOLPOY6fuBTcr6oNgK1kOsIkj15wWecYhLK66d5TPrH7cAfPgthdzAOjFfWRf9aL8JOpJH1bxWARq%2BjLPHX1lD4QQ%3D%3D&name=QuEnNZBKpx4H6UVmJA0b6HCdymrVvc5ht2xh1pfLThbOYQX3OUkTNpKRSHdSWPEJdyj%2B2cwBWIXrJUKLttdDC%2BEi%2Bbo%2Bf5QTn6YAGtaLhlk%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日09:00_NFL季后赛_包装工vs熊 傅皓南 罗森 萧深
+https://mgev.188766.xyz/play?migutoken=687930222a321affaa7191c8ba5344e2&id=fcuKLjyhLwqNPEMYZz3HtkAAY1%2BB2SBdYnocllByXKA2gZVfzvSn6c13llsNbCuimkFuFr5ar3KfdoQlMLyFxXssGqJgMllkel%2F5GuhTh3hvlRxpRxxN0B5Ggug7NARr2%2B1gRdwmmocQkqKrZKpPOWKE4qIFa5xXY9Gbfeq29Ts5r5L0Bd5ibGvXeJWMv44THxM9THIKikEl2jouA86pZsE9nGGxvAiValcXJ6q4n3OiCDh%2BC3U%2FuvzlHYPuERSLj6xqa67y1qMvJ%2F%2FR%2B34mbSlZriDaRngXvyAzT7lCB4rtxBDVcuGQ%2BvuMD2hySVpM&name=p9LfdCxHQFEJrF56ezK93rzhE6T3x674IX0z9EAD5rV6PyRLAlP%2BeXxjcDH5gHQ7rUzdvtIG7RS77PtdTnlReem2gYbfxQRcvUltkg%2FJBf%2BFvCsCV9l4UmLoZ%2BQoLIRE
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日09:00_NFL季后赛_包装工vs熊 英文原音
+https://mgev.188766.xyz/play?migutoken=73b60a001c1636465327ed7ead1d8e96&id=6f6dkwhbc6fBvPul%2BbdvsFw6%2FyroIts%2F2EGQ0CChuAMRsqCchWN3cQBYvv8WO3qTdlQrDUzLgOc%2FmkQItzmjNOwgxFpuRtlgN2HzEcEZCgcMW%2FJ20kRK93Ieb7HPMJIbI8vD1BtT%2FE6Q7bN5dkvEyWTLTFihv0jGt5PGGkA8pSQP4F%2BucSNMUmRY6VHc6Op8gzEkF0AnqnpeuZNDasHURgXcbG3MjEIqK4v4joKfBTaEIKETIYa4Pe2T22E9C2yzzjm9bi%2B%2FKruQBHdImcyra8kV%2FVUirnUv%2FPOxdWuiC7jEt9qPfE1SBoHELlsRE%2BMe&name=3cFGxhWYcc0EAXgPaLytvpdYW4Vim7AGhXIf3iJD760t6KeIAPC8dHO0D9kMOloMfmrQ9ySeGvdDHTnlFOk6ph2FnhRYCrq4h%2FYva0UXzH4%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日09:00_NBA常规赛_马刺vs凯尔特人 王兆丰
+https://mgev.188766.xyz/play?migutoken=6e934ea75c204f6348306d8bf9f14e1f&id=e3oUNJ7hOc8lYI8UmXuUkKUcIjVzZmtUk7hMJ7OZecC7is3mZEDExOg4fv0QyEcmPY5YvEbuHnmcJheatxzyxpS32HA%2Bo%2B0SmadAjHmbOBoOgBpaK3gubTm6LVCl8xEZFNLw18Qumv%2BGpB89U9vX69Gi3uXNFHAi3a2giOwStWStdBjh4NqA9qb%2Fh3XcQtfzVcIrTx4UjKLILiatFqLrzE3Pib%2BO0bs5vcl%2B7t88zVbTb%2BC02bXHiFmOE9E%2FVSaH9uz1mSS3velqieWIG6ggg9DRdyrPA1Sn84ReUbGC4Lues12scgiblzZGmLxfIVfIC4ax0spBne6I%2BXGPV4cRjg%3D%3D&name=6h8UVlnLRlCFBAoBV48JJPueGfsleppUoqRhQhrMwnXK3%2Bxjvqm6rSLdzcC%2Bjh7tmC%2BAbIHjIaSIO5OKG9wu7AXHioOXqmJfvtEnkumzTYQ%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日09:00_NBA常规赛_马刺vs凯尔特人 英文原音
+https://mgev.188766.xyz/play?migutoken=5a64b452221405a27c81e4d547beeff5&id=2O9VtU7RTrwiBAkEMp1IfuiBAzBzaOdO%2FeWUvpVwuE6FjvYqOH6n%2FBwNzAA957cTqI0%2B0pysn2eOIMCeGhoY%2B9PhQ04owwrOCgzlRi9IbXGp0gWY%2BLCIrVsNLVNx%2FzzXxF9ZtISr55731MRwkBUzmEKVlfdLTg1qA%2BGSxipNATM1kOfrodG%2FQF8ngoKLmF03dN0io%2BX8NHkXq2oG%2BIHX4ch77fpVRtkY7FG4YE5fooBVOQfwgwNutTOMJuJpG%2FJ%2BwGyW%2BPdcgCSPrmIZGfUH473VL3cemVKTjblepR%2BInSf1vAG%2BjuQfKhCIjbrjo5bCBOW7znp1FxTlpEphDDPH5A%3D%3D&name=5Q%2BEnKmfF00zVzIkX%2FJoOq5y3m8r6h4nMzdFsjqvtrzS27a8I1DI2ZYdZdd6K5eyJeUxbM%2BDDBR0odJSuChbphL2HfQLJrVK%2FxFKVBMNMlI%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日09:00_NBA常规赛_独行侠vs公牛 王子星
+https://mgev.188766.xyz/play?migutoken=758b6d37b38b9919efc6287b6f294d12&id=xpGjI43XDVmtKJqk4PuldVUunWMcqnwqQYtoqy8YgIwuKCmLebsuS1VWCALv8A%2FF3hXJMSiWq2zua0IUfvJqw67TGwoK1mok05oxZoTocib3kzo9kQnd%2BUr1YiNVFkHTNH2u1L8y2fsZbRS6W4YT8dCTuQY%2BzyOLzk2SzepVuv0ucb%2FrNdyM2tqJSwgXWKHv7egCLXsmQm5Z8pqB2id9%2FEdlHdiFNMILEK%2F0sRu20th8j2%2B2cfzUWPCTGQGpx19GQMRS0CUPXJV7cL1783M9qXIH1adB6WJPbsnGRbssvlnH4xs8SnHQmTKF3VppHDZ%2F6Ir3wTB17MkTAH9eqh5gxg%3D%3D&name=EDfmyqqEjos5ogXB%2BVJC%2FiHUBqI66%2FaYEUm2QHhfFXadEe%2BvxinVKIoIxZaimYDxmMorsxO0uGV%2BoVIdKwA5uSwFIcgXVdwgCaknUtbOwRE%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日09:00_NBA常规赛_独行侠vs公牛 英文原音
+https://mgev.188766.xyz/play?migutoken=1d48433b29a0994fd4a1ac40a4282181&id=vLWra7ZFSI0FAgRLnpJd4uTbpKPX9Gk5CGeWP5oh%2BuTWoajBkR4RWDYscErJ5Xa3Ztm9L7vkpPXfD%2ByzJjcmQZyfxYlJA3xrnuae1bkqMjTj%2FxdGw82pC1b1t8kxviSShS%2FounEagfXPrDMfk7g%2BSTJfLm0jZiZyKTLpgxXHArp4J3v%2F6f6lnYm%2Fvg4To6ISE7nUYZm10%2BiuLpRmdewNQG7zbziGROykHTaT%2FxBiL5J2Ov5k9liZV%2F%2FAmCmfjrJ7Kf3L9NgSrKkT5RuNMWNdtS1jox1xuojkDPu%2BE0xMH%2Fy9sH0Z834NOAYP7fUcM%2Fb5xAwbRe%2BOL9YGT15AMIXqwA%3D%3D&name=75o89etEqAgIr5igdpDdU6g9Kg%2FoPGSw4JhEneybDxtxJly6iuEAeiP4%2FPORkBDV4rZQIjeNWUxUwo6IkBJK6oiiKggTDXn84XrbT6Rf%2Ffs%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日10:30_NBA常规赛_黄蜂vs爵士 孔德昕
+https://mgev.188766.xyz/play?migutoken=e2039bc257d3bf93aec694ae8f6d710c&id=Vzutb%2B2g73dGiGcMOZkiDnUKJraP7606zgS2oDUKuO1kU%2Fl%2FBS8eADtFOGOMxm3YPm8xfyzfv62fYSazvF8j7xPC2qGe8xnzeJCueE13ZEF1EgTEMezTKrJgsThNdCNWlPsXFIjMZQNIx%2FU%2BjLk7a5xemWYM1tO7WXd7yKH8hjVLcnLGGTYTmUJ5Auwju7no4i%2BpV07jSVlR%2B5mW2HDWTP%2FNBIUx%2FTi4HvfBU5yKszYJtMg%2BcLAa9GXYxuiGbHm1Cx5q2qPnmDCghp5Y8%2FYMRCzakkbBw3ZcGxrUSTmNk8mVbbhZY0YNIb7NCDT%2F24de%2BkPP%2FpevtOGOMKAEWr4tCg%3D%3D&name=c610A5JeLv2qKR7BYPxM90BV2sacGzKBRNt4ufFJCt2H%2BSRcsDrORDh10wdMdAHmaQneUQnGKadjhzOT3b6Tk3Jj8g149%2B8E4ULqJrVQ7OE%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日10:30_NBA常规赛_黄蜂vs爵士 英文原音
+https://mgev.188766.xyz/play?migutoken=bf29efd4feeb14408e00ec64cedbf896&id=xIdMeWeAlln81LhzJgmTjwx4wFlSRijgifxLNe7C9jlqkAF6YSnhb5D8s2omQd7N%2FY5uaprDzICIjtWj0oWyE8W%2Bfub8MRakaEtceIQh6gfmZAq%2BIGPzWVlzTTITABx0RCCv%2B%2FUhFHUFV0SESrhp7VG4Cqk6rDcc0w1hCPyr6cRMPAYK3cLAuAzqYpPvPjQ9Xg2H06RoxNXKFUGOjeVTkqAgfQdZSPuIplpmRaYFE95hbeXKU13jH%2BhmJsRsSP5az67Ts5U%2BCSLCXhLY4jGYQFCrWKKs8otzapdvtpvlWqf9ZmR5I%2BwgtECjjIUn47CBiozH4hNhWXkD418J0LppOA%3D%3D&name=ZIx%2FMs6VNIKGovAdwdinjKFsSgFsvVTSDJgYvPw7%2BxUD7Ns5mTR1Gy0D%2BxPEUnfEq4V6w2KxkZJdZinM9%2BmOV%2B40ZbZeIHEK2NZzJFKIBh0%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日12:00_WTA250奥克兰站决赛_斯维托丽娜vs王欣瑜
+https://mgev.188766.xyz/play?migutoken=4344d7a93e0671eaf23e89d5dd400b5e&id=6HiPxTZ%2FypDM9eCAtKvnbA69LGLfpy2WnKmGP4OKYrAJ3o6pj4o0By%2Fb3NGIpvp%2FEr8QqgdzCaxK3plnBiNRlVuO%2B6SromOojQNXTFyqMIMvc76X1WPG4U5zfP4k4rj%2F11wd%2FBszU02WzpQ0W87Ar9WXTIbJbTIBC3k3nNK3x3clshEz%2FJ5GhBzyP760yY3lmAl0J76rtcgruPxRB0E%2BYKnpwskpx3n5mRSl%2FACwOj1JsoTKMZh6FEdUDZVswuMWwSdoOGgNKHaw4V578gndwD8CpDcDAKochI9jfZHYd1qBMAqB6wZcvaCP5%2FXOyD69&name=USDOEVLLXDG6SNEqLpxQQuBocnI8suU7E%2F3VKuB7OveH9gTDv2jA6eFXfsgUFJJIshLvgF4XZ%2Bx2%2BEhdXavsmYkgnqWUZ9rqG6eDyPqtNp6eZE%2F3xdJMBmRDhbgdbg0J
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日12:00_WTA250奥克兰站决赛_斯维托丽娜vs王欣瑜 赛场原声
+https://mgev.188766.xyz/play?migutoken=6a9c3505754a52b0c02a4540e25009ae&id=FY0VlxYvNBF%2BMRBTBATPUlwTJ4EE6GLxhxGSA%2B2U1yw8girqT%2FP5tOQOripxN3Mc7cro00Ex2FPlYEKieMIwM4eto2tYqaKJ44TU%2B0nZwH77%2B0JZ7Ls%2BR9YgJkAI8TcmLRZMSOiZAopKNYDRZQ6yPHCrAZFjM8dGFC90myrHKRr9TdEn8fdKGh3BG%2BqTm%2FeT1MlJHiiG61g3pZw0EPeRq9SA8q94Og1q7FxiEwOZZ9DYkdvyaBJrnpNijqHOOauB6416tNuDzQO1wmhwNZoBQX9maezKPvKuFg5Vz0KCtgfXEIEaDh20UgOVf%2Fa3ix4u&name=PuHY99gKlU8VgTbZUlNkazsLw1wSHXM8mVMlu%2B%2FRz3EHG4GMgs84xF6lZsIZixgRdb%2B7WfU83tkdDHOm58iHhUh2zMkcKjCvDhJJfz82jL5oPiPiNmWMDe1ij2qZ0h6y
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日12:00_WTA250奥克兰站决赛_斯维托丽娜vs王欣瑜 英文原音
+https://mgev.188766.xyz/play?migutoken=b2af385c250cada023dddb6950338247&id=1mwVHl0V0%2B7J%2FPCaSdEWx4jfJa0DwyhqQazzgC3itiHVQQxmlob3FVoP5OyXouBe1ppr5JD%2BkpaJ22Dp8xRBLuf%2FW91M2a7Dl4NuGUieVEyK%2F9N7AhkVaEUoS81bCS9BfcTlrnd0pLnHD67jFC%2FmBUIIw4FcuVsm%2Bdd6Fyfo%2Fmq8p7h1zhlB5CL2yZIHXl9XrzNn945vpOMQX0k168Y8Kon%2FH3wKEEfAlSw8D62wXMtfvD6G1l85ddyTT3kaAeYqR16QCey0JcE0Nm9aB6JY3zc6OQS6mVLYLjsHvZCrlVDchfDiwO%2F2WeQLc5rEBJpm&name=xB5JxGxLpeHazYNKMH1JaAVaIticf3B%2FmzGQI3nRoHnfUPbtUjL7PYYCw1WahSGUHLFmFPE%2F%2BKole1QjUGzklID0mmRFttWz0eJ%2FfJ5oZvwgnILde4MC9sHScgLJ1Rjd
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日14:00_WTA500布里斯班站决赛_萨巴伦卡vs科斯秋克
+https://mgev.188766.xyz/play?migutoken=e907f445ff5fe7792c11bf599e7632a0&id=s7oPJbrFGf6TmKLOV6CXCWAXwfOuseML8anWu9VkOCtC0no9HqNKBz%2BUGRZmy4og%2B3JAM8tnSW8oBYHIDjNsfGskcQMjK0A6X7JjGqFol8atAtZ7Ogm7supKP9NlvXcYtjCKsx5G701QOlirfI9pjNCkwSTbDxLE479g3K2qnFwdCBjPeFfNNWN%2BWNQrtM2IOZJ9FDoF9v989KQ%2FSor0WE6h80WhXcClwx3Mfmu1ZLLLBvFry5MgYFEBPUHLeDdljGfy6r7C34rJ5nyMMr4JzR%2F766i7aCGAwUCPYY%2Fwlpsxb0lgBnJXa8DV4P70OrCz&name=MfydaaTKpNy7ctt8vlYgNpFsGWUPODfB2zDlqZJNXe2IJn7Yw0Y8HVEzS0G5HdCcuLvOGieYhGKtMMsMUhaC2ik6h1%2FKsRpnWq2J5LOOAQGC1JVQ0PYjSqkj5211JVbE
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日14:00_WTA500布里斯班站决赛_萨巴伦卡vs科斯秋克 英文原音
+https://mgev.188766.xyz/play?migutoken=a25583e80940baea66f8d69f56cf6be3&id=wdlt8VWluhBDddPuQcunEIc8nv9dzZ2LnL4l4Sp56wEgQmgIn%2BDderYJg7R%2BYeYOlJzFNuxDyanevbl4Zm6JVaxRX6rV08Fkk%2BSylHzYZFo%2BmlwGAsrAh67dIRqwIWgiooyEPhS1FzY2%2BA2b2eeMzUnjN1LJ%2F06%2Fs7583GgMZ1QT630uMAuIy06uFkTtf88V%2Bp2Wcw6eXOwSky%2FX7l9%2BtOM58csOtK7ht76DaJSNDF7WCvI27ks7cKJxtEsTUBBLsYg3qmJbshEdUXumB0yr3D%2BljNRrHN7wG0APGoBEMjWINGShOtpYUsHceyFR3rpE&name=HJEnYeA46C0DR4bRdKbK2tW2mFC%2B%2BC88SVNq8TUxl89VdVOSvwz9wBxs1nU9tuCTUy7IbHLrASR3FqCxW5vVObhXskQlYnBBsAkAYy3NzqVt%2FAcC4eY6BVTZBnbnopUb2QnrRD%2BhN5b54jSVMniH9Q%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日14:00_WTA500布里斯班站决赛_萨巴伦卡vs科斯秋克 赛场原声
+https://mgev.188766.xyz/play?migutoken=94e1ee586f38d0c6e6b5a3cd31c4e369&id=hWDY4O2SrNmDBli%2BMNe9bdQxRmds8ZwaFqjjFtVB%2FjJIFohSwh%2FipUTLMz1V453%2F9PKJBYIHkv2vrfUjkiiciC5w0CQMZ%2F8EqeD%2FDkTPMTFqoNa57ZuHndvrGuvfpQmk1OPRXQMAB8GpqUzxnvlHmdhvMleRM4pxrAQMiw%2BzyYm19i3Ybc1eNwIYh47pMQkINjXbXCzypiAjli5FVO1aGimwsCnxzuUOUEAq%2B47dim%2FpPR0J2oRcuUQlrjjrsXVUqXr%2Frzh0ct1B3ot75Gm8uJb6k2KQQWBjT4PkM8jMLriVLxBgLpSCFO0nnxX2uiH3&name=QRDkUbx4xvb3%2FudGhwG72AeQJej%2FpRnI4ljKfBBrMLzKrQOlVWHr3%2FyI9lHoPJuWbAlthTZ0IjdHTnTQaWnVfd8DkkO4mWhnovnzEdx5gHmMvtvmcZEMUz06jjWMbNVSjbRPr2ZQPajkpV0X%2FQg4gA%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日14:00_NBA经典赛_NBA常规赛精彩回顾：火箭vs开拓者
+https://mgev.188766.xyz/play?migutoken=ee94acc1ee7f18c7a39c4a75fc316461&id=DPHIqeuxgHsmzayXtqaSrLFvmFrc4hpBD6gIyB%2FbH4eXy1cDmJaF%2FZzBih%2BBo%2BTDplsg9z22vgVi99kIAqnAXkHCHx3eNw5m8cPnNZ75JY1GXG6VeDwohOs0tcaoK6w9U0DZM0anyPLspg14thgW0juwnoUbhe3tKIdD9cBeD5ORP2TmdXlDFg5YMOT5CwA6Cb2SkavDcyjXX8mYPeMgo38VZ5Gi596k3qQEw7mW%2FlXGVtYZQtb656wMTrGCjdbuTkddSxYLaYmjgqg6URu6NcBaiz8SiNNtOpcFWodvXVtaYycJVQogLsZ%2BhwRF3L6g&name=wUTYb4f6HIEEwVx%2FMooQ9j6Iu2toRKD6T4%2Bo8j%2FMjhOdaOTty4%2B%2B0S94J4MCPy0drO%2B3oADabjroELtNGHUeaWJ6FfNX1AnZn8Kt4tLzDZpPL7rz3nrlPKaO1Pwzs2dg
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日15:30_男排超联赛A级双循环赛_辽宁凤城vs上海光明
+https://mgev.188766.xyz/play?migutoken=be740a6865d04ce7bc4854ec8a61a9be&id=8IWcG8msug0ZtpFcHVfiyfQs%2Bztz5%2BY7txFXrh8VR%2FcR9Rrn5f2LDLKtVdztbdPXSUwBtMqbvZAnTaYUyN6CEfAFvfR%2F98jb2oFDGnQO3F2VZ84%2BiSkzeycIJDTM9WFH%2FqZhpHFSGUD2s0WzJ3rv%2BZyhEZrmAso2htCP%2F9r6UCfBn51PsNDRPrOBGr6GZw8lC%2FG1oOJOY7YlQvO986pqN%2BinqGBuReY2Lu%2BvDtvZZYquplnWeFfO1mQkcLhu1zicR4%2F904GmLuFyAri80LqWjJbA9ywEKD%2BJoDgyp76fUJXVJ1FJpaVEvMfcTCsDFheF&name=mEERJIJZtzvRGqd2ALH0akTGpuDECNvdpEbEQ7%2BgHlPzdMbWRDU4W7U4TVhpmLBQYXdvUPP3AGotdBgrZ5bXIS6k5Cye%2BwRtT45yRlvtKC8dhXSNmhKny04SUxDsBPh%2B
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日15:30_男排超联赛B级双循环赛_25_26赛季中国排球超级联赛男排常规赛B级：云南vs黄石
+https://mgev.188766.xyz/play?migutoken=f4ec6b414c0379985de2367c961ce5fc&id=oIy0R9IcGabYIF11qmbcDx2EvX9pXTfG7tk08WcUY%2FmIcmL9rxj1anhOBhB9oyuTrRCewHjfjhYHP1iixsan8wjgYT2zeyHqTCv137u24zUNbJ1se2DQrbGiczXGtGfI8UaEev0QvnVIAjiGVfKkBTj0gW0hoVSjw1gTn8tqaD%2Bez9X1hQ7%2BOsm1CnLP0h0rTzuTdro06PswPS6XPqY%2FUKAnxLNdI5G4H88AuYr6yAJWVJqKjxTnif8DO4UGt6rc2kfRwyN7YNUp4U%2FFnKQfgnQP3fGBDgNDWsJZaw3Z3S7QuQfdlBQ3vDpRXFL11u%2Fo&name=CBFw%2FsznRkrk%2B6Oofpxl8FwFLkNvuUvKONpUxd214y%2BnWc%2BF7jJaDSEGn%2FnFlsCGhoBErk6UBqJSVIOXYnxhn5aKFlF1KywvXiVrmARJQn7RwJJ4acI2wgWhpafFazWUty7p7r0MoJNxHDUu55yRcaRvAvPFajrkSkdf0SJTAnWhTlEIS%2BLz3HSsTFHdf8MP
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日15:30_男排超联赛B级双循环赛_25_26赛季中国排球超级联赛男排常规赛B级：福建vs四川
+https://mgev.188766.xyz/play?migutoken=cf59384b15249ffd7f80bbce6f3c36a3&id=ljzIKYpOgnNi%2BtSaKNLbZenEPeNejt7gWKfCuOMCJPfr52TMoy4AwU5clShV31dkkrZ%2BsFCj59KITM5XxZ4Zx%2F0z17vzgbRQMFGgX0dS%2Bihj9%2FHVFuactzzFMqWNvYip4F6uLWplIsJ4PGteGNunct6UKMVed9uBhrkMPjEv4huWGpGKJAh3hOh3w3M1iTdqw4utH5Nf9wZxwg17ZfRvP6Qy91i6g3rZhetjUrao7BNalcT8c4wY0MKWFn0cWVpWU0zIiMfVUc1FK4jUBtDZ%2BseqrFruHkpfcFQwH%2B%2FdSw4oJ1CnjUCqKrruWlW82y28&name=egRHZpR%2Fvwiez1y9jOkPv6J7ZmmGV0kW7LLg5Nup4ye%2BwT0rak8Yh1pH5Gt0GcQGOM5F1hCu9EJ8jzXC5fqSr1QVdP7opV517etXRY0czrZBy%2F5dND8YJgGeJJb03uNnPr%2BxORi0JGCuYb6blsvxcMBtBXN1VsbHL1tgKC5AG9DGTPvL4Uy01JPYQ2YHxqRT
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日16:00_NBL常规赛第8轮_山东蜜獾vs香港金牛
+https://mgev.188766.xyz/play?migutoken=2be97347217ae1aa7222fb00ae1a4de6&id=Y0P97N6UuxV30bsI1NrpGswdZyJhqLWLm6nKAlbIhIjAhasRtnqD5MnrRH0JnZaFRtGdknVAKywMIQqZlmKr6%2FocDxevTl5%2F3cxBr%2FFccDEpJhIe90D16Rhj65Xwq0BoFTSffjDbH9KprmL5H7dC4dEuf%2F8Ndi56KHbPeHZoFvzO2hL4ArdxEzaL6cuo1eLMx9T9ENwFXv7mrKKf8vxIAbn8ys5IkraBAc0xwNcaFAYD5DDUBi2MAd96Xmr0SoJolmIt0VMKAnutB6cCtcwCeodaXV85WrYxdgioyv6kQFFiHgAf1hyBqHJOERLu1EK3&name=MDFYh0dk4J9%2F6RvomrUMwpPYwBMJEzz07ZJD93%2FxbayylGgP9%2BaVlU36a5JbsgdZmdAy%2FxlOwydq2EiHbRbaPx%2BSM7CV2Fsl696F%2B0JSGNo%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日16:00_NBA经典赛_NBA常规赛精彩回顾：火箭vs开拓者
+https://mgev.188766.xyz/play?migutoken=59517a797b3b22b1318bd506646ea76f&id=rBGP6YjOxJT3TtOKyOym6y9own4ymeMLfQqOloz4xQs2%2BDDOn36KA2o0xOv5SmccOjbP%2F6AlCThRifJCGjOIhDbIiFG2b28oENk2sQ%2BYnOUGqz9bG3FvNyaZerjOzP%2FuRMy0AXYA2TQ6tRyoeX5wvh8SUz3SlDI%2FtoiV%2F6xtysjRF50d6wIGIXT7tHTjbPaRMZ4li%2FmfRDXleNh6ZpmpngVri1Tk%2FHoB63UWOhk%2FbLKXcFB2znqFkIysjCd%2BB4ZPcV5pCpMDhhTzLWl23v%2FIETGJod7l0zvubd97gHZrvi5MYmgAqZir0nzwqgqn%2Blsj&name=xSJKmfRy6zKgo4aOALOxn%2Bl6eL%2FmL2SANxKF1cAH4n0lvKwys1EV%2BRjADAfUtVIJxr6vipEaCQBhffPRdaivluayTGOzPODixhmjxDjzEU3tuYqe5CTsMU6XADW%2B9IBv
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日16:30_男排超联赛A级双循环赛_广东台山和力vs保定沃隶
+https://mgev.188766.xyz/play?migutoken=2d6db97d4864d4fa25cc3de3b5423765&id=y34M9872myKovHDRX8HOMEv2wKHNohXUWyL%2BfsqImN9ApixWJ%2BrraVaHUSZz5vKfIc0kXAAp7O8O7mlrUWEO4W8dbJrFQJxDpfRcliizj%2FSdqCZqLGfl0kggwoafIGx4kLMYUa7E%2BdhrkVwqXKrNU50CE%2BIaNPBvElEjz%2BTwfZDX0qwHTvFVJ8kiAxCuNqh4hyLV6hw1Dy%2F8MvXtSH6uDRtgDCEVf%2FbBgDw4%2FRXUqoP6ZT64esz086O6lt%2BmNxtfyL7%2BbdfsEW9SS3%2BmRzinvTHy2wT90Nc86jFVYuWzHa3hfHsC0JuzlFyYb7pFxdZk&name=OGD%2BpytYe1dYSWQIdwu%2FDchN90eLM2YFyDOdCnocTRd4cZqCV1%2BM0eb1%2Fwb2xPMLznzh6N7ABznx3crhawIbyAGSV574GLgZNRDANNfvP0i8lDV98ilfJ0gmAt5dnIqf
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日16:30_男排超联赛B级双循环赛_25_26赛季中国排球超级联赛男排常规赛B级：河南vs江苏
+https://mgev.188766.xyz/play?migutoken=4d1f258f3a311a65199fb7ae7cc92441&id=jI0Gsw7uhZUNf76zlIj65b7vF0dKawCcMS3c3WV%2BMIGmpXPpp7Ycb28S1AKN6QQneY9oH%2FRqQ6m7P%2FQ%2Ff1V58FgLV9ng557FkIejg54V47TW0MNJgXl3WHJ7%2FskzWN%2BYlOKVuZKGvBoWIxNlmf7Payc1Bf%2BzVbTj7%2Bdku9anpVvM%2F8FG5jN%2BcxV%2BFfKofQTDqbY%2BYUMep%2BUgZWlyQYqB8x%2FAm4EZH3jjo7oWGUwdcVnU22Q3v7PMkfZZ1uPXmg0HwujRJuQme52icTj1mUTjO2HPbBRFBVhPqPAcKxBmx2FhP3DQgl5HQPHnn310164u&name=em51rHh0KDD9PPvlHbryphTok%2BMklTzZew4REu5%2B16Fwx2WnFwSQC4RpdSq%2BFRiD3wCoP8VIK%2BCNLVdQBwaLNZmBTKzQvP1qwSEbATF%2B6CIBqqgUeHTLVR0l0v2BhegC3wriaQYrVsf3EQlF2oBjkRCiGIrxktLhXboogu8qzdD7M7qB2NJZzQ9B5k4XyjrF
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日18:00_NBA经典赛_NBA常规赛精彩回顾：快船vs活塞
+https://mgev.188766.xyz/play?migutoken=7879e0c771a7b2f9260e7642726b94c8&id=6kJdM%2B3PGqYRo%2BjxCmUeSV4J4XTNi7xhRxfwdydlkPfdAMdODzmm3izdSV567LOfFfmZ%2BMt%2FFob9gieLwi8mbFF9u8cDpN2mQJcb6HZCfylTv%2BOdZlIvU0Kwz273P9K9ySJ3kVU89hfKL5iMWOrZEmCt9zOFUft1Zi2KqNakP1I08C5S3%2FtuogajiEg4V580%2Fp2Q75w8Ni%2Bnu4oS4iUgADP%2Fo6ibyJsNs5yHjrk%2F3KwX1xAm%2FWTkTp00j4zLrZ8CcoARsbK2byTlaI6BUjtaZPB1ri23lek%2FtFW251VZXyPTxwNEGIK8szujpni0YntH&name=rdtdYmoGeUuI%2F5x50zBGbmDbx5RwjNiqqW%2BzniLiROJgXAmCLYCqzZI%2FmXNBpYDbgXPQfQZk0WD%2BrweUWJaC44DcEF4wC1oj0QxENkClE0xuxoWjyc%2Bfqen2wlb6Ok8N
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日19:00_男排超联赛A级双循环赛_浙江振德vs青岛兴轮呦呦
+https://mgev.188766.xyz/play?migutoken=c56c046f184776fa0c07214c24f593cd&id=%2F4%2Ffq%2FPG0apDXNxmvVciVV29gD%2BAVA2APqEQiZLrhAG%2BKOIvilrWFGUOkM8pCYtitGGO8XD03M6kqD0rDnIxspr48Rp7iorEzkIVKTkUlr4QjDcqJLfY3Tx5ajtgBN4osdfqchxw3ix5pB%2BZOYiT6pye8lH0M3%2Bwa%2BHLIAXpCBaikhPHTogL2KRmNC8UE5Vk8w2ixrht60H%2BFXHkrFcJG61Uss9EeToICqi%2F78ZvYeghvc7f8xAgcaMJdXByZ0KxkyU1UW7Oo0MGQueLx3VrQ3CClkYYQjeiN5IpaXl4OCbAEJyTK27tRQHVTSMEXYu2&name=xFYmCfYAA6c35r86wenxMJwDdQEuSo8R5I9JjPL8R0C5I%2FXoshE7OzGGZtEiSOW172iHEDyl9bGiv8IBiiHUzwEQ0WNxMkZzBl%2FyedYxWmjtiCy3eDm6PG11EkBj0XFB
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日19:00_男排超联赛A级双循环赛_北京北汽vs天津食品集团
+https://mgev.188766.xyz/play?migutoken=cd7f3a2c465abbd6195a69b9d36b82a6&id=hRE0SCXSNAF8UdxqnAL6%2FZ5XY%2F4LZqJ8lQVZtypVI26BN9Cma5jh4BDsczImvZtzY%2BtXPY1fMxkaQf1HoJKiF8fnRCxLSNf7gwT7Kni%2BdV2q7BrZ5O%2BxAGhRfadhWUaUFfyFwj2fRvU3KFUvn0oKJ22QQusFLeHC9JTBYVQ1Y%2BCd2m1veeet5a2AA2FABQLCGM09HkhJw0n%2Fl3w1PY4FsZ1y7KPizDTBZWrkqCnBcSazp7JkFRqDFJUzwSpGloaWlWy%2FHJCB6phD3bAJSh4H1U5cVj6iHBBQEtVQnYgLQaGID2oz5mIl8TtvT8AoCEgA&name=t8gnELVC7RGQR4Ns9xHgk5QSjezqQNE3HZTMVbNSvXVo4P9Pto4fNqDi4sEqczpyXJnBqDFDB4NqKX1GMl%2BurX24evSob4%2FO7Tj41gZHSnJ2wEZ45iDc7azM%2BPeV%2FeTg
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日19:00_赣BA_江西省城市篮球联赛(赣BA)揭幕战
+https://mgev.188766.xyz/play?migutoken=4aae434b1064a2a251a24bffccf29c0a&id=55WNNRI9cnzkLIT0mpjSWK84PqhOsedhUTVdo3P0LB9vqVybT1ydsQFOwLjMNI49S8jY%2BKYF%2BUGJe8PN6iM0uoIV3q6g1xElei9s8CBnizZihjCkkEYUdzy43c13V%2BP3I5McKFvvTnpdQLewJlAmFod1IaLuQ7QE58IOTYxL6t7%2FkcmXic1V7bGfJoLkjJVDqz1ilZtac%2FdpkKRPvjjPsTsIRqVWYbyFNBwf1%2BuY8zi32O4OU9r8BBRm1NmqdQP%2FnBIuhlWMD7bD6RYrkd26jRjVNNDjNPH1NC3Af07QSzRzNuLB%2FpNo4n499bfKMjbi&name=Sv0TK3biQUITIVXE5TkNvEPMjfistXk6Fu4Lp8hEYUKrayIeJ02ppt062lZKWvkrXXYYCqgVP6DJbcoZYWpNtUm6pr8TdYveg89%2B%2BA0ywzxcuiAizKOP9h1Y7G7JEfyB
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="冰茶体育",1月11日20:00_NBA经典赛_NBA常规赛精彩回顾：马刺vs凯尔特人
+https://mgev.188766.xyz/play?migutoken=7f8086de96493a89fb33067ee1123ebd&id=h3SFjYR%2BeS45TTw7qa6RkhMTCzqB33SvsGt6ihwa2tWUPme9OZIo8HKAk5IqgQdNiFSuO1jMzhGKQuYP9mSEdpmYPuhy%2BZNjlk5lg88F9yu1FvnhPbZf8DnwMHoXLizY1bv6wzdsjaf4PnIVScV3HfDAdBt1xloUVpwkhOSGy28wIyXEm4lwym2%2FIJbc%2FqlDt9RxfBbDE1BGhLOYzF25YyTAUCLFZyDEcsFrPVVbzidqpLrpESBcneakvtcuyV5%2BNdzcOPlne%2B37IoRo1aOBC3AGfNoU7%2Boec2RJ1NDA9MA9AmYYxCr9p9IEySPlV3FF&name=CVY0yUwWq1mBZOh8BzDPFp0mihdjrpLFI2oEM74sKoRjUEBvX1TbSYaPlEZAumeg0SCCGnEZtTrTcCpSVEyutAyt%2FYthz8K5lkzh%2FLDwto%2FIBBlwubdKg%2BZ3bFIaO5ru
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日23:40_赛车_FE电动方程式世界锦标赛墨西哥城站排位赛
+https://mgev.188766.xyz/play?migutoken=f398f48a4e45c775f1f8a98396c5bcc0&id=ymE0y%2FOn9dobABF0d92Akkd8QZapUIi%2Fj5vHpMK5%2Bcxqs%2BWJPAb3tVf%2Bfekfc%2B5tt6hiqrZQfmRt0l5G0JYFLx28WVER2u2i18zcwikBKWU8Rb9f3x2vZsXau%2F0d7U2vDdpMIJyOsXNcZbyWCREf1mqfKMGQtxc4p02yZsgsouX3OKhsNRkD9ojYxcO6LqMpux%2FC%2BKK%2BW7oq3DQqXvpaUSLvvfKqJW75OjfqRGEtgRsfRPeoKdKN8%2F5ydKGowgBDcIfio3T%2BeU07DAs63Yov7l9MzKBGED0GD4cNwvosAAM%3D&name=XtsRPBSuLl4ZmJQ1Gz3sUsn8Bas7Gmyd5o6fEJH%2FdbflszdKblnnydbqHPIynZNBF860xTNJnH%2BzLSAS6iq7obcFPV1yAuD3PWFvbqtNLJJ3PN2F9bqDxwBzC15AD2bR
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日23:05西甲_比利亚雷亚尔vs阿拉维斯
+https://mgev.188766.xyz/play?migutoken=a7c44b2e89649f3444ab40bee8a1c17c&id=kVyzPLzdvPRHEl0pHMQazEk9H0kEQ%2FsX%2FE3MSb35I%2FOjleCNH%2BCib7D8pPDumD%2F491jCcxDEyYMfm9yJ2gngTVaYNdlv2xkMys1x6NyXVnJefi%2B9xCgRLyg8hPbB%2F8KuEFhcszpSNf02wy0e10x2d5R9fKRocSJxc22%2B2ZN1Dj0HCaaT5TukFAJCjtk%2FypK4j%2FmRTyuKq4eWJUQS0atrtW7wIoQ%2FDloqI9A2JKRJt7xpls4s9uq3BpOOCf7Sh0oSFcd1bpW9tN9UynihyEGnbmx4TaO06fQnar3KdQHum0U6s2JbXQXT5HS3SJ3PIzsv9CQEM0DZ2i22PTzZZ9lO1OzlGxJ9upl1Xx0uc54UoUag7d2G6%2BsTwoFkfJTI6ytyZfhT39hmF1V4edqVNIEz%2BA%3D%3D&name=WtuvdnBL3hQG2s6IVKofaAyaPiVRKdR8kIUhCuzRBek7hQ%2BdOISrhVY9qaGBWiDjZF%2BN%2FbMwZdKg1IqoWq9R%2BzetSlnLqY4ZuIhL8kfoiu8%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日21:55U23亚洲杯_伊朗U23vs乌兹别克斯坦U23
+https://mgev.188766.xyz/play?migutoken=082c0048ac6237f4389b059d9badc249&id=FhSx8Y9n%2F2N1YgOWo0NcQmpMwvcwUS6yJlW62PT4L9W8r17%2F072X0W36kdZGZfFx2H0w%2F2X8BqEgKjwSfDiEOjui0h8OsWVYZ1P%2BAAQnhG82mnfEAM0KKok4gG0g6sMpBoexOz1nw2zv2zXPF45YKu7kaA1T6Y%2FIDr%2Fi%2Fv764nvet6B5d73Yx6%2BAuygJbzsjkzteMxVQYd0KGJ1HUWwXKBcQmtpdWqpsYvQVLwpGeM91zD5WGqMGqXcZPjHcXrpX8ItO128q2wwK%2F1yQBxyXHMn34K3ieFk8Vrlk4jY4ecToRCsFczL2N7Zn5lZmy3F3r4kKrVHdRm5W5I4odzewi1XLGvYy8uFtT4I7ie25f%2FszmRSdmJbhItjkQZ9cYFrBMTy1H1G6lQmYf1y5%2Bkg2kA%3D%3D&name=J4b3kSWCudD%2BUWOf0PQhfsr1mQxyZwiLyN%2FhKfonrzUjyiLiHWvqwtoXJJN4ObD%2BbjqpXcYf3P5liGqBRc9xu7i47pb2FLyCTtUIheME9BM%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日21:30_赛车_FE电动方程式世界锦标赛墨西哥城站练习赛2
+https://mgev.188766.xyz/play?migutoken=e6178ae7cede84b0ac020ec869f3534d&id=qvcyCSLoVYm9KNq%2Fi4ugbNJeK%2Fyz%2Bt4rk4%2FQ3m506oTT8UKMuUbkjicDIMaQI17N2cZcbOPSiFYAdGR558hqaNVMfLfsqp7piVzkBI0LA3TAIKkAo8SS5mnRWnZIBgMdItQXc2oITPAYycUZHmirKDruewcSTspZQqiyOYGA8ESeyh6qm%2B2P%2Fc9yLBDx4PARSy24pWqG5DFVzjmxLQGqWFYr3PimNcPIlQ6NiChJTU%2F1s7eGR9wS1BDmEFQzjpRXrLGN3XbxWgXsfMvy2CvGrZYWgv3hmjfEy9K9LfRNYwQ%3D&name=rsL%2BC23AMxqlQF8pPiJCP7N%2BjanyRr3WRRyYc1vzdZ5h86mH5b9b%2B0nsoJo%2FaenlXElTzdPvbXTyj5Qs7oyVKE3H0cb3Ps2TIvSuvvktnyDbnjHMhrPGyibe83Zu9Inm
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日19:30_NBL常规赛第8轮_湖北文旅vs江西鲸裕清酒
+https://mgev.188766.xyz/play?migutoken=9ab49d338883753cdc2495e629f9e54f&id=Bo2gjADvkO1eZVmhPn46XG%2FMmv3BE3cU7S1e8kaqKIObynb3rSu40Aj8XnT7Ei0epg9WORm52ZPw68Ge%2BiW%2BXnQ%2Ff4qY6I%2BFOiYL6Con1%2BNoZstD7xCKe8tklYZbDcUYkkhyGRrGmTBZNMbIM7RERxBsTIBGUnr8aLNLgW4Q%2FV%2F22bKo2zR%2F0wHxR0uHg9ntyPzSB8tt%2Fx7BkllVSfVwiTO%2Fo61d9jTapCihIf%2BtoQbVE6Ub7AFGy4480m0oTwdpnOLFr2jQ18Jxg19f2ioxRIi%2Bxalr4LFQa5ox669QMHs%3D&name=xWQuFTYL1enJOnDc1su5ejWTNkBUXbsD3Jlr2NTXMlR3sk8EPhQpl9D%2Ftgj09EESj8bibTng8TPhT%2BIm5QRnpEhbd9FJvjGDutexsNf6%2B9g45QvITfWju2JOYEdnr3J6
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日19:20U23亚洲杯_阿联酋U23vs日本U23
+https://mgev.188766.xyz/play?migutoken=58dbead32131f9421bfd4dd3b144ffc8&id=6MgTTBJ7dD1o8BPENDtKwC%2FDnelFBx%2FHbCNN2%2BVEwXfXTah2dyaWsu%2BWAXgns4mEbAimCx9dPkqT0EB9ACuUCe1GQvT%2FC%2Bg1qRxZ1BSukbARyeX7sezyXT3qPs6lPDU4y1dzYpiqaBVUzxDG2gX7KLqJ04HHfvZm7%2BjOZ6%2BtKax0ghFeXB4S3TmdXssL4rQdByrbELo5W8GAGh7kudHQTDG3Tr%2BCyrW4hNDo3Jak9DuyUN%2F6B5nZwNUDQ8tkMau063IzrRPGtCh%2BXv6vsT7NhiAwViWCTpXnpNuSRtGImsAdCMGQcoef94o3e%2B15cvSkfc8v2%2Fud4Rr928kMGB%2Fql6SMyo1qPyXW9sjWLpC72gi2ur%2BvPbZaeaT7u5YD8y09LhO3C%2F0FbA7VtGjELeUxTg%3D%3D&name=reGWJqasbNhAjF6zyWufjEqczyGaKFDV8pyCxSyNBG%2FxU2lmPlPVStO9YSplzuMlsF8GMZ2JNZ9KPiy9Av08zxKO7KwWb2LW2Md%2BpAOx51I%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日19:20U23亚洲杯_黎巴嫩U23vs韩国U23
+https://mgev.188766.xyz/play?migutoken=ed40709e9acd65bbfbb9dbdf893eda99&id=D9eagNL4ioMZnRlY93MYg3kGtYZmSbhpn6qA0OdUR1k9flAk3%2FQ6kjXkfQMYodPQX8NSc5978DsZW44isETpvpO%2B02Fpu1jVeCM%2FuZduymFMJQwyeserm7YFTvBV8KLIfTvgTkxwwAwluWtivud8g%2F5dIAPhAEnVuLhvocso5bMM%2B8vxiQ59vF7%2Fl6eEpjxyfcF6CvcLrm50WDSmFuHuLN%2F8jGE9W%2BQC6%2FwtebPkvdShaTrtaYzFWXl93oDKWXFQpKU%2ByPlWg9Iscv3Vp867pVxisLDxzPuDLA2H73YJnbsWoVtkjQahA31LIHqFsHCbLGrLXwobkEqFyCyhZmN7uHV%2B3yXX%2Ba%2BxVy2qej%2BA8nXKM1ctscUtE%2FYIwjlcmvuqw4D1TFvMzdhjYl4cZoFg8Q%3D%3D&name=k80zECLokaHUiF9dWxsTeHT4P%2BdwIEZBXxyERU4YqyjF0LZIEze1MUX3ArIEFAe7ezdx%2B0oxwGHMWz6CuLec%2BUnU%2Bf05JAdvlULPFhL0XbU%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日19:00_女排超联赛A级双循环赛_山东日照钢铁vs辽宁东港草莓
+https://mgev.188766.xyz/play?migutoken=0078cc1bceb346be07dd1f65d9d654e3&id=yNuxfaovkzrJdlvvlAY5jf6PDokRpVvKaXc5Hbl28Xe8eo0H%2FubHp5DRG3pp1PBmXpPcIFpcgtLleidLI7UrNc%2F%2B1XGfmIB9AgwUzkKwkg4Kfnn3BshYUPoddAEPpZ7brDcjSMIHkkbXWbW7BwEalYhQK1z0ijBW%2FXGX5Liefivc4IXrZjQgRd5WFw0MKpJj0G7oajbhjRCRzBavHWTFVovUOtSgnEYMg1SbvcAG8dQX%2F5Ssj52v6IJPGmCYdLo%2FqpEyNFOVLVXeSA9Dx94IdNaR6GtkifNAX8lQzS11RQ0%3D&name=tbeNN2%2FnIQzvyhh%2B6H85TymSHgi63iPBsXT11NVEij37gElxvfFYd7B43JUF5FkZJxiXqez4Zgc4%2BVxTSq%2FMlFYPoTAHhCe%2F76IUELyZ9gh%2Bot6HOFbLTVPp18I%2FdHrM2FhVxyNEdZeoz%2F1q%2FJyT5w%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日19:00_女排超联赛A级双循环赛_天津渤海银行vs北京北冰洋
+https://mgev.188766.xyz/play?migutoken=898fb11a54dc08b6793b192a3f19f886&id=B6fwVC7Mt6y303JFMJzokh09lC57%2BAHHdoZ96JZ0SB31h09zso%2B6N9N7czCv3YQzHoAhoWvP0voX2RnWmwpETixYAWBfZSP1YzKj9BIBn56%2ByXBtprB8%2Ffadft5sINDfXa0sbmsO%2FZvbETG6eT2SxIEU2WWprAS3qnxBblsREtO2B0CeSMvCAxbtSbsPqiFzJuJYJK1gLMHLeEDIFEHZXurxj8gyTXo1S%2FAGeYkT1XhlS6zbr%2Fxv3dwyIfxYuy%2FDfrjfL4vFYuwU08tamLOqfZTjN67SEyZ8nRXbBO3fCcU%3D&name=%2Bu7ln6ZCNlJb6EJhgGFmdrPBXfhTg%2Fxb959kOH9KAX1JKTio96d9TJPBSH1ZYYy3FTzoJBSKRdhlQYcxaRYDkm7pDUpnM2WnVKuqSTd17fQP%2FWcBR5wt8%2B9WC8A14CytWEs6D7UoxWVVi4aFsio9NA%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日19:00_女排超联赛B级双循环赛_25_26赛季女排超级联赛常规赛B级：河北vs江西
+https://mgev.188766.xyz/play?migutoken=884f4bbc0cffdac5dcda373308d50c62&id=BCIDU6SL0alu2%2BAe0txx6IJmPqSysH4gjreAU7H87PE5Sjl%2F32lz0ipC3nY%2F9ETwA5tYjUsKnee9m2iW%2FMGTf2AZ9J1LBUjkoFXPjLqh3o3%2FR8ZSfIaEVtfjya%2FGL%2BTI%2FoHthr6NHynwIhh47s2VOwsRbuVFC6CoI0angsIxsQGBYRzMJW6MYUnAZhIufwJls2XUX2CqHelBRpYUlVJQJmddk2TNieKV5davTuq%2FHnF%2BSfO9ZUDx1Xhr8BNvU3uu%2B5ogewV6m9cSZK13E%2Bo0mSU8L2POupjkbpMX6ZBTqLY%3D&name=YN4mIy71o8Q9KkVljhNjA5CS2tonJjBnv%2BOO2yeCOUKTSV2HCowjtXQy9JjyYUt%2BAlEmQCpntFHYhB1aSil4aTNogauixcC5eOPkej8G8psaxHraIAwmJH2mCfyzaMMv4fw1PmH3I9kZNziw81R86UZvejBoEJokrgw%2FCWXE5cE%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日19:00_女排超联赛B级双循环赛_25_26赛季女排超级联赛常规赛B级：浙江vs四川
+https://mgev.188766.xyz/play?migutoken=38e74447dbbf5d1351798cee7bd48618&id=Yy%2BhfzB3nv3%2FouGCAN6G3VTv5RLW5cZ5GFg%2FTJR2U%2BemHwCwwmQo2uFwwdOQk6icIKmFvXhz5bKtfdn%2Bmq%2BT1qWc13a0ieYrnGKvTHpZ99G2ShAuMVVgo9gSr5GgPD200CkayvvucFDQDsyjeMkuZan6deLQpdan59egfZM3dYpsec9G8MBCtm9qS58Ri6L2j1IPjCljBM7gwyZPB8fO6%2BCen%2FW%2B1sNnLgMXlNKUvwkq5vaGQcP%2FaZiuEsvXjdUs43fG6tLdat28magnIPKBJ%2BMn3AXBjSrp%2BRMrcSrZKXI%3D&name=yzF6IWLEL8f%2BF2ICxv5oJanb6aRdpCctwC%2FCt53PM1iq0l2B%2BtpzLxfW67u65AIcmE8ihxULaUzhUh4DC5MCtkIK%2Fkb50Ac9L%2FXkl8XPzGAToEKbU9nO8pZu%2BX1EZOSnG9eL2IoL9MDhNNhnMbjDAmIqw%2F%2F%2F1%2BLLXJD%2FPFrsGUw%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日16:30_女排超联赛A级双循环赛_上海光明优倍vs安溪铁观音
+https://mgev.188766.xyz/play?migutoken=7d71f5b6546f98f935fe03a54b0fb968&id=UFwRJNRhTj6NsqKTywnDAE9d3qcM2GO2Jlpa%2BOCy%2FErrCut80VoNMZCNDapVHTH%2Frcbs5rPZbJdqVJK9YjEn1VaZr0PJ5aoM%2BQPQKz6zIb3WlcuSta8GVZvdxuRDsCiG9O9fLwe8Q4tp2SCCyPqAKP4iyiMkP7BzH9LsX8KSoAyu%2BkcFuNkwvWIrNQiI6p2JiPQNQeFfo3AYonY0Y0gtqo4Y5EThlLvEY6%2B0y%2FC5FvUG44gMh0QEUzhoKpnvfMxO1YrVW7h4vDwinIfOIimsNA5i%2BcgxPSqRn7vOpFLTNk0%3D&name=xJwbtqTa617cHHqg5ZNjCf2mNprg5EdLOyS053F2fZOS8lvH%2BwhPsp5GBBv7GzpphcuxqvWIo08PCQx%2FxXAX3tpZzDZILgud1eW8sazRWf4xZmDcQE%2FlozHz6MPf6AWjrBAiDrPEzcHKHgUJy%2FKzXA%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日16:30_女排超联赛B级双循环赛_25_26赛季女排超级联赛常规赛B级：云南vs广东
+https://mgev.188766.xyz/play?migutoken=bb19a768df9f3e102043b10c2c14c24a&id=kzS3WtfPRZNmZSYon1pp5VQekxreh%2B7cJsLKYmGm8jH4yQrlj7c2C8asDeeWB8d7QL6BY6vvFF7zU2h%2FWKgIFDmMr6RUsf6egLQpXhe2Ld5wgijnW5U48TIlsjCrLLhpqq5VLImBaV97U7yQXJXoBPdJUapeBEZIJ3cXyAYUxKIpRWUYq8Rm1gjWeBY0Cfnz%2BFocubGbU14O0p%2BHB9mQjnG0rLw34x%2BBuUZHc0ARR8rwWunfyu3WZVbwTMR2q36OUF87s%2B%2Fym7ZdqSmQj04lXLPzzEM9gSZYCML4WjtdUt0%3D&name=0UKB12BtpWGlqbl3EjsxlGPweN2pdq4QgiTO7tdGF9eXfhsI2%2FdnCd34uBz5axie18m76Uau531WdhkYnRmA4K2xvp66QfcDnh9wfXrs6K5cxhAHD69OWTj%2B2g%2F9vowVxH06UMgzoyEN5NmNws5nZvS9XUQsdQW01KEM6YnANjM%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日15:45_WTA250奥克兰站半决赛_斯维托丽娜vs约维奇
+https://mgev.188766.xyz/play?migutoken=1609cf55861f42473e801c87e7b7837e&id=NchSLT25tpim3FUAnw6B0183%2FJEp76pMCQX00gqr6JxmyWauCLg%2BKDqIuWyx0H11S4GaNgY45kQE5uMneaIe8Xf1y43EzphAcJ1spNOL70wX8Llk0WDTzhwHR5k6LT0DxAGN15IaA0EHriV8CyDZIH9J5qU2o6DujN0mEuYY0A1qh41BxUsClNUYV7IoZSdWnQ%2BzRdX12w%2B%2BSMxN18Pa7KQD1WVoXH5s6PzwycDM8tOCTs4fQ2xpTHYv%2BjJZIG4YRR8gvANKYbAOiEOrVTlMC%2FakekCcLg%2BnyXdXHpvr63c%3D&name=xXcUS7BKyRYb7ZefTvvwsepme60eZNMfDGs5M0AztBQw5Y1zs2QHEI4X2LRERTdNepsJlod7piK9Rb6lkhxGMW0J%2BbwOJxQ%2BQYEUnuMytvWTKYbBfw%2FcoF91S2zMpWsg
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日15:45_WTA250奥克兰站半决赛_斯维托丽娜vs约维奇 赛场原声
+https://mgev.188766.xyz/play?migutoken=438eee9a703f86f29c4d10be90e076e5&id=C5cdGYan7SPZuy%2BHqQhS69mq1TdHfsiREuA3TNROTcvrlUGlIedKzth8ohmT78%2Bdmm1Hll%2FYG%2BFbPpPzlpEd%2FYRoSn7P4%2FcXTWmMNoofblY7sjtjbdSttlVirCorJykyWqLZUmOMHr1sjtwFB10I3l7uEu6tM6hK3J86Olu%2BCy6QhT31f6BIrfMH880oNY1x4SofhaL%2BDNUThCvTFAYn77VZGfpSi9veS9pLZcJgO%2FJuZm6yF8gXYITH%2FbX6zn5NJcvjBN4X0zezisaPGbwp1l74QHwqAg%2BteMSGYK0l0XM%3D&name=zn41J1pRw31AXJWjUCphdUTYA7PlJLfh2jfCrZhbcoSDZ9C%2Bp97LKsDBJAxgfGsKpkS%2Bzu9FKjhrznph5wAu128eV0TOEA%2FDGhc0BqF6QgE%2BPgmv%2FaTrbx%2Bq6iNyWV%2BevjLGvpwk7o0BeYlja9Ki4A%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日15:30_女排超联赛A级双循环赛_河南双汇vs江苏中天钢铁
+https://mgev.188766.xyz/play?migutoken=ead7a78f5eedb4094bd5abeb2e9d961a&id=1kLkvOFyhDhCInNZ3Z6MIYMZeiUACFvh7pdOlgs69IApgK1YchRuCKDouLqQnhZ7kbAXueCntu7maGffGny%2BiHyVftCB6WnQbttJdTEQuxD6l5HYPrvbC0CM2fhSsO7gYfuL70Z1ukvth9lhwfcNW%2FzHpFItUqL1M1w1n11bfSeoyBU4k25zxE4gshU1%2FR56MmK%2BhvEOvXEnnLHTQ0vDBb7fvBvzPNl603dOeJSrHjRsFtFXk5fVGT0C9hRPfaZ0gh%2Bx8qdFoOTFIgmxoEnT7uJG%2FHUajPEywfKouOoRni4%3D&name=6WkeBk%2FAucxWrWm6Ujr1cab3niI3RKAR%2BH5DW5JF7D4DnzanrRWC5wlStx7dTvnWLs3tOMFHriPbZVUo1lGBVlfEb6%2BcJM8OGf35C1RkTqgkJP7YRjnmDKCzfE0twXQd
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日15:00联合杯_2026年联合杯·半决赛：美国vs波兰
+https://mgev.188766.xyz/play?migutoken=2c4efe9d11977dba40a3e8a5634cb9c4&id=HhnaLEhCkETU%2FDHTt9inM9W5xkMIE2D7VmLs5HXfWWxuVqNyvST1wZ4gbg3g%2FxGW4ET9VmJWKZgR5%2FM2ISCuJiKtogseqiqdx1Joczo783Dmzmn20ZiEP12F%2Bd8XzSUGw5g9w7e4YTla%2FujSkbPYnn91R9QhouP%2BLXr5BRWFMZgZ5%2BvXgPlQiCNmV2MSj0rBS09YJpFm%2Fah%2FzT6EmOKtWVociFaAFjrbXp4uXd43sDcl25lda1751L5JsUgHwBkiYdCVn6EHYK8DLYFeQXnsy5IIWEyZq4V467Nr4wrQfK9%2Fwi3xxw1UJ95e8cxsFTJpzEICIdoGFcMpU9TNELmT6VvHZGi9MZdFaYGcYbU9VyJ3Gl%2FvwcUYwUgtALiMqRqo%2B0ITaGv2m2A8zUSl8ij8bw%3D%3D&name=0qC2WJOWXxYm3ZBo9JI3NypE4w69VRB69oWFv0H2AG0TqemMxn%2Bl4%2Fytu0PDBF2Iah6i2Q311vGit5T9Z1hR145ATR%2BpHeXRFcHMzDtIuqVbpRGK7wb36jPpCH%2Fjo3Ry
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日13:10_WTA500布里斯班站半决赛_佩古拉vs科斯秋克 邱超
+https://mgev.188766.xyz/play?migutoken=9e1c4d5271e40a5b2512ac1a83982197&id=KT4rzM8kF6UI264qc7dCnvon%2B4bNfe1w1Ul3fDcKr1YaE13faO63EIQDpMj9badDP7opVeTPpQfWxL5%2BNdXezrJyfwcYKmSLL3NCDYBngqiQ2t4s89NCsc%2F7cW06GBIpGMgmDdhHJ7Yu%2BP4XOasHYQIvqf5c8FlYmgihPL8ovaMjMWin2Z6%2BZsdUHZSBeQ5uHwbba%2B8hhL%2B7ZALGQ4dSt%2Bw5HM%2BQiSpIiNgyQFzxZ7ZShY3WiNGw5Qn68hQ5fC8sazL%2FdON%2BxA2eo5d2qvYUTQ7bS6fY0YEmU5XVy6zQ73Q%3D&name=jom3KFCdd2eboVWWcjQmGdunQbceLRcNhZi9wf2oZqBZRWN7vT8MNraWLqfr9l2IJ5XwjVUtExjRAAry3Uegf9pXMp3L1BcKDGoebnxTt4dixlvxeEApC1HolJu%2FmBx3
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日13:10_WTA500布里斯班站半决赛_佩古拉vs科斯秋克 英文原音
+https://mgev.188766.xyz/play?migutoken=b203f0928157e1bf32da93fd698193fa&id=3DZHaP2aC6H2E0Q%2FWgl654qybhc3nl0tArNQ5A6f8gdVOxkx7tXg259fbAaGnkF%2FeGTG%2BgGezj%2FFJzXmcB07EbP162KI8AXAwsY65G076qcx7Ht%2FDRABamTkxPan38YWp2tAyEkk4rf6ey0926RmGxTWnnOwLHjA3BRKzFy3lWzvx0RMQMVG7WYkllQj5KGEpN5m3goJi6%2BmUsbljOFMn60rWAd%2Bx0Pt78BJioj6PFtyj%2FC3OFcOZp6MdqZt%2BLUSEtduyNzcQd2rqdO5qVDvCvtYWkxKs4bcmuhTMe7Y5vI%3D&name=dsrHSKk9vQmu6fod5F%2BGIaWWjrB%2BumGPkYpEaIbUQk5XCog0S8fGSAomrkdLtEFB5Kk5zw45zE%2F7DcqkmQ%2BNiw7OPrfIpQqYyhoO6q7Ww0Ae%2Fio9YhAXCRF3XOEdalG%2FlDKTTSQlaKD%2BKEkDw4hSTg%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日13:10_WTA500布里斯班站半决赛_佩古拉vs科斯秋克 赛场原声
+https://mgev.188766.xyz/play?migutoken=f11b6605003c54811dbb022de25fa8c2&id=TCXTC79CgWSF0K9vfnJCyPjWJqvGbQulr8SJEnRosfhcL%2FCUdamgpaGsLDdiotdYwjctGEiBGoY7MUuYMZJYZBEMvPnQcDS3HjeVvvC%2BbWdGE9JgKtiDrgdEc3jl1RRifgjkhE6CJmOIjnuVonHciDVG6YhdKmZ48qfWw2rATENpdLVMaUDrxmOvyoyNo0IQonY2jk2TrsVhRv8d21nNIGpdCA68xr5fQJX%2FKnrFwgekpwsG5%2BMDL%2BgTS5Cpt%2FqQjVF%2FOZtWI%2Bqw0MM%2FEtTtBE99Ipf4QL3fmgxNGZZItvk%3D&name=R4T0Y3RmxOny1EhnhIYfoz8%2FxjMiOXXPGMkVadapRy2lQ6lbkjj9fVYYoRn%2F0EUG4bMRxLnvAVRTJodzu1TfmbCEaDeW160HXlTUTUmh2Fy9VfdAX3bAQJAZtJ4KJnSyWnQNHcl43JjPyEBiw%2FkNvQ%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日12:35_WTA250奥克兰站半决赛_伊埃拉vs王欣瑜 张文悦
+https://mgev.188766.xyz/play?migutoken=087fd2ca85288e65a4a02bf7937bc40c&id=AsYzHz2aWafmob5A71%2BTaS8Rgu8OtmHdTy3CRc64aHQ6YhJKw648fboxxWtzvVR26XLoMgs4s7cu6DMNeuq0DYwUlfFDuHBvmISOFcqXKD8Zmsg%2FHM1u2Z9Gnhe15MhtanOEh%2F%2Fd0fNRCVcTR9Hj3v%2BwIZIjJdVjua%2Fo9CR1LAJlzgvkYAlVVgBCoGgErP8yv1jAv24%2BKPT%2BEh9dI5R7ndRMo2QpNVrtXw0hXeROvPgs%2FqzAyRBNGcENxxbtVIlaOk3MUa%2BqgdLBw6c8bhoPa394FIFnpTD83D1JflL0A40%3D&name=5oiLJIgipBa%2BipnkasXXJCrydlvKXNo3E6N%2BCPKc0R0uQX8XZTXIapJsCRNQN6KVVABHs7S53W7h7NBZwvnfcHlkbtZeXlYMnMGNt7HObFKw9qlPQMrKnEEJzQvD0T4o
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日12:35_WTA250奥克兰站半决赛_伊埃拉vs王欣瑜 赛场原声
+https://mgev.188766.xyz/play?migutoken=5fc7901d360f21e37f764eefc55d45d6&id=OGc0WaH4uMvgFbUm79U6g1z4D5n6rgQUiJvotcl5F4ekNihr7wo2wLtmuUzLG%2F65gxa4cnnNuJnCjmWBiaNhlVH7iQFFsAutVdnIO2PN2lqBRglQSzUt8LrcM0RXPbJwPphGX8kfSi2ivZDnpLCjx8MidPsXMDgnMweSF6T3fcZf%2FJx6YvVcOn1SHuWlpCYFeov2kHbNCJFecx43Zf3EjxIYdpYbKh9WtvNDTer6JVJLEo0hqZL3ipbb5O8vKfuuxDXJSsg5ejFVg6LH4ea6zop1Se9HH%2FfaPGRyfQvRL68%3D&name=AKwWFBEvvogGSiSgjOXBF35oMN0jLLHyisGXOzApmCr7Py8W4t%2FrXJXM6lDSJ%2BGQmZi1rctR264oMhcMhlrPhDq88CWaOru0Dis4y03%2BBc6X117zporInbnwoH5%2BD2hM
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日12:35_WTA250奥克兰站半决赛_伊埃拉vs王欣瑜 英文原音
+https://mgev.188766.xyz/play?migutoken=a17cc4ce0f577c91934a72a81447b0dc&id=xPtbnDw8B2Z3qYJP15PijCo36lp8Oq299haG4doy%2FdTw09nB1blLkjX5Eho48AsVEiclyShiXuw4fb8Lwzhs7Oh0o3Mwn%2BVNlQ0iypHqEKzCHn7suO%2Bl%2FhyPi7dWQf2RAWTDR%2BAMIVneqyumtJGyCCQX9bDHMSP9ek9pQwae2XUD8cEeiSCV0QAEpvXylOPGmsVswDo9uF%2FJTe%2F0Kaq0P2Dz%2FT5dbSze%2FZSygu5LgasLM8GaQMu%2FDgTZIm6w6qIqMe08xF%2Fy45H5SnuQpnbCl5JxL0jZOLUn9vC7N90FYb0%3D&name=xvuOeZbTrmAz9iHzi%2FgD2kUd7Os%2FkGObSk7meq0qnlsXSzzzC3W49suoXZho%2F9NJw%2F6oq0FLR56sfSDABjKfnc3b6B2IstLVsH2XQqQmrUOXejsjI%2BZMWtt%2Fro5Q2w%2Fy
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:30_NBA常规赛_雄鹿vs湖人 王子星 孙悦 泱泱
+https://mgev.188766.xyz/play?migutoken=017ea658617042922f8e9f901b755257&id=Ylk%2FZ6ASktV7ZEH5Q%2BQ%2B%2Bc1TD7ZChDfNbAreQRJlD4WK8wW7dICY4WqWWfmS0F4obV0Hc3DF6I8eXPpNLmQxZEbtmrL67lbv%2F%2FtPA7a82Qkn7xESIx6U4ps%2BjbtfUS36rG3JPqJ0RoyUYspXNvQBsnCBoGBELIhDU4mueFHo48%2B1OF4JurYOA9ZdZI4K69a0JmrwzW%2F7sj953rJ3kkZL5qLGd5ZWQ%2FqN%2BNNYRUvfwtnQqm3TLxxIyPNN5pEd32%2BM2%2BxUwZz3UC%2B0ahTImvj9C%2Bo540JerEwYx8UCR8zjr3E%3D&name=zd1u5Z6ZThuXTc34bUPXUfIrf2p3mNg8hOOaF8GJGc7N3Yi4DBU69XD%2Bg5kwlGlvoWgz75LG9Cg5OioCeeAgeHkTz3yrxmu1zn9ADLDFSWb%2FsPZ0I6DrzEg4khHU5oww
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:30_NBA常规赛_雄鹿vs湖人 二路_徐静雨
+https://mgev.188766.xyz/play?migutoken=2e1e1a7326e7c21ae0fbafb3c83759a3&id=Bc2M5wrWIReaC1ulTy1AFQlS20T6v3JBlm7y%2BCO%2BDP45w7uYA%2BvJHRLvLDqWiB%2BobzCPcPwe5TC37l0FgDQ%2FQGjxmDuVWc8Yvy3xVKHeNirL8tpIYnVGRTFsHbjaQcS6pjJsbwmtYg6ABrdVZlfOHv99dPgIc24SCF1r0Wqy1YwLdm27QBq45rR7FlFvLlUIpCWxgXfW5G8ayWRGVWOk4ki9%2BgNlQKU%2FimAn0raDiK0nggwbb7z9oLRCN7WjQJRz%2FjRW5MBBcYBuz9mYmBBvwYxnt8JUlApQANgFNboIA8w%3D&name=dZHlIOrqMJQd6mJM%2FEGZCrcnhxzZ4785Z79KtgCqxGODdiiJtN45L0K30u16KPermlPjiWT2N9Qg6kZ3B%2Bk83C49LLvMo9%2BzeVtPjaUZ6sA%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:30_NBA常规赛_雄鹿vs湖人 英文原音
+https://mgev.188766.xyz/play?migutoken=11f4fbbdcbc437d9f9ceecd3a87c503f&id=jAiA3ptJQdfdnDKrIVfcCLBF2sEnYPv565i%2B0Yq0%2B6qc35HlYYlKn5v3o4kGGy1RodZ4422zX1DE02vuUwXvypEjsOQ8cjXZ4BSJrtN2OrHCRAKINTlSJvQJ5PcXWgU8EmLyar0KeLZtgf8K98DLTMFqYjSgYiDdY74jwoCIJG2mcfb4aw%2FFWB2PH%2FgM0GidnhxfdS0z6Z8ubIYNPnQunklSGF9lDZcSExKxAWB9hQ93K8l0ui6O0y7k2rafQPszloMvsxyIjNklSujnQt%2BwqvbR%2Fw8mIueGPAHI%2BkzS8hM%3D&name=gL5sGHxWuq1p0UvdNwxyRZ%2BNw%2BxEjZfyK6nYWRnHjd1OUuPV1M8D%2B8YRz24L9xHnESNdDhvKbxb1qvHASVAcc5ckgg2G2KMNXk0B4Wlo0AM%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:00_NBA常规赛_国王vs勇士 孔祥宇 殳海 果果
+https://mgev.188766.xyz/play?migutoken=7e5a431ebd6d8e715928490929056a6c&id=w5su79GpLzQp6Y%2Fj3n%2FS3sZwRN0cFHmoatatMCT64JxizGkzsFx%2B4fHbdaoJAT3VtJGJeptNhmY7G9QBfNdANRU7QsO%2B6g8gyP46vnCItrixncWqpO%2FHDpAA17XCqDbpMFehdt2DUO1vQwTxfmZdKxGQWHxe9aw97fky1IrXwEWOSIY6KQUuIQK%2FS7ZcJdGbDzHF%2BeTBR7I%2BKRTj0i6yoLbfHDtL9owCpKrZF7kzMrfZycb3rrcN67taoUhwTJEy5%2F9bw%2FML3j8%2Ba2anhK01AxM1Tn86U1Fcle56NTLO40I%3D&name=cPJt9D2RxxVGYCSE1eyr33Dn7vJ1hLKyM%2FAqcpNZOxa1m2kW%2BCdaGViRst3wOd0Z5eyfBUlJzMvIL6OMmtLkKOyJsuLCBmduFw8H2ZXtsx54RTDAhDoo4Dr3eMjCVyU2
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:00_NBA常规赛_国王vs勇士 二路_皓篮球
+https://mgev.188766.xyz/play?migutoken=fd6f944b5e09ad7ea7dd57109d1cf295&id=u5uay6scgyg0agvX2IrU40SnxbiOOpQxfD5ZevspkrNSWr1C3SOfLSRLCu%2BuvWIqHiT0YpMkg73KZf3X3lHS6pC3fO%2BtVUPXVMGRhPN0rOt%2Fa2HLowVj4qy%2BkYAloXGS7JK2Cu%2Fgh%2BAwwr6nBO9jiiHG9ByeVkWA79VxlPVsCXjY58SUTqFrEA2rypd8pj2szqCCebvz%2FShYdsla7J4p3mCNh6mlLiIoAYUeyMWf%2FoWg9AZ4oM185gZkydtfM618SPR8HkpVs3Wg0l8lEtX4adaMXcyzf%2FgmZdqnR24uKik%3D&name=xi4DuLZtIRfBN4XUxyHXyN%2FXqn47Xv56GM0oGH7VfvLkp4byBIqJeroXyz02f%2FQyHr8geh2SY%2FZUFB7db0Cxb%2BI4V2OWK4mCE9iKUxsS7kA%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:00_NBA常规赛_国王vs勇士 英文原音
+https://mgev.188766.xyz/play?migutoken=61a2867ee78c69efdf1694cc3f6fe134&id=GbyOphmYMd%2FBAdSG14e9jCn8KgLmASFhFFeNtffRdJYeRMsWb4ovBYNwNhv3PnqHJvsowkmsqy3HiB%2BdjlBiMioewzCS8opBPqLToW3xitR68jc%2FuwgSTK9yDNRAOT2yixRckoyEpjG7tIlkHsn%2Fk1nRmBNj8Ld2K5lEKgUIh9twndr3Mv3K6SoLIyQJxqANpNz8SV2wyLZfrj1MOgySWdV14PIHOfwdK3goPWjXzUGWMu8RybIR%2Buq9UQOgAj%2Bs5pdJoN132zlPug0glesJP5V%2BPXo0PZvdhQ0RvpPQm%2F0%3D&name=jdkDuhuyVjMp6jHyi2ZCN%2BrQsJ6TQtnJF%2FWra2In4j8lgHcOz%2BIZuVSV877H4WxOuniTFd%2F8hmgfNg5WVTgcOayt8D9RUNOK%2BhohrvI7Mx8%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:00_NBA常规赛_火箭vs开拓者 王嘉琦 苏群 炼炼
+https://mgev.188766.xyz/play?migutoken=1ff5401fe0b9ad54f97e8413ed2448d5&id=rB0TFQ311eEG5GRV87AF6HXUb7R05Fi7%2FpNDxIjJgkYTJKWiOnRMH2XOpLpkqZ7w4Wy6l7tCAn8vpomwdE8iaHGnmLr5lNyfu1f5eT%2F%2F4XS38XeOx8ble9n7e7xQf%2B%2By3TIXyJFJENETBW2y8HQjycNe9U6lwB7o%2BTR5h1%2B6kKYDdx8zFIjF6nAMfbmtMa6zbqtu23nGCYCikWU95U9CKvUHsq6wiaQ26I6qzXyFUTy5Vt3LEQ%2BcwdVHTyEiFiHAIBjwSUMPJItxdVuIPB5bHmrI5IVX93%2BO1Y9KhwyhUNw%3D&name=2HilH1rQ3OAjvTQmnBEcDJ%2FK28rcQMC%2FFa7z6gdnvlliT9gZEiT%2FNliH3RxVqGHZHtDeakU2ZFaiizKviy2F%2BfI%2BcvaX3m%2FgHTIzAQQ2sG3btqBE72%2BvK7QMRN5MhnGa
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:00_NBA常规赛_火箭vs开拓者 二路_狂言Doggy
+https://mgev.188766.xyz/play?migutoken=bf56c5e2f08edeaed5be42733781f519&id=GWLxryfOFbKekFkzlAve%2F1gdqvol4Rjcags98KmM6Cz3tjEWh4e%2Fthdqf8q0%2FmcZFUXLzpieiQ7JrKkD2E3UcI7rzNIH63SBXMjWGDiaSM8%2FPemb8h5XiTlk7VMOJTnujk99h%2BFd9vsWnVq0GSriPkF5uP%2FB1dwFsLjm9u4hbUfNWCkpq1KzULaQKqE7ga03eya9PypWiDtWI9dQgYGSEtcyawn%2BYgdwVkFnkXgBrktp63RWp4MALI9RefJnkG%2FX7tyt795jrKlVb4eVucTMz%2Bw%2BEAoMUMo3QmARUrX5Uz8%3D&name=%2FW00isHy88mkJqrrgKDo%2FTxIZHuRxlWvavWpH7A5HQaJOSvmnJnlmknL%2FCAH7Bc%2Fu8rmWfXs2PzJ6E%2Fs8WNIaY%2FxygXU2xYmTAIQmDqUI8vMJ0wPVzxffLVDjLkuVV40
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日11:00_NBA常规赛_火箭vs开拓者 英文原音
+https://mgev.188766.xyz/play?migutoken=a4552ff8b42a3e7f2e3ba3ffdb182282&id=gq61zaqfi5SYX8OOMy%2BuurW%2FfJLmCeVrV8gBLyOYW39lUZVa9EsDLTpLK2DlX%2BRtmEAgh4R9TuToSm%2BzPDsdljil6H9g31%2BYigR%2FLPAl48A9ojEm%2BLrsv4ibaye6OdBkLBlWfvmjXDoBRgQYHxkBDLzJ31qnxpIDw3S5a2A0AhycBCiotuREnfkNWlAIeza1jxN9cgRUMwMZ63oEq3EIL7uyShy61a212lRIDg9eZnvNISVTQQtOLCjKIPtF%2BEhODHwKW%2BVVZotTYoROMMkYEPu7G%2FOfMOYVc9qcfoqWqOM%3D&name=aZ658LbAx0s4ZiEvWX4LXzz0xfdgHSHLijQuyrLY%2BIiaHAOjzJmuJFYiuJPyi7S5CKW1GMcpMDWi9kO6vf8Ys9nGuSkmaIqhekPo79UrJhQ%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日10:30_篮球直播节目_[早安Tip_Off]第79期 王嘉琦 苏群 炼炼
+https://mgev.188766.xyz/play?migutoken=8b5b48e08684a597791b1f3e8bed1f78&id=0X3DwgYgJsUCDoVcgk0nkkOojs0%2B4vQ%2BDk%2BATgZ0vLWXUWSVmsQ2FRjkWwGIE5Yg2S4Amt1XljQVPbO8Q8YFaWCUUt7AGRj6piuK7G4NdGY9BclUHH6Ogiq9hnSuCN2YFHjboDVK3HN8nSE0BCAdu%2FdxKWWGV7sWotsY5JfiECvvLaUYMcFjSudduYHFKZGUgmiaHwCmZVYfIGYXqukORqKZBzSAfIpDw3CEYV%2FduJWX2oPMq2s493OLrr3tP8xlN8mtJYcDE4qrO%2Br3SfpqgB821jJQrAionF56sdQ2xe8%3D&name=qWYCSoeaPL%2BaI9Kdg9XfvyXY%2B9p1HijvhK05kEKebO1s6Z5J2%2BtLzocnRpzGULY46ufoOWI1mkM6A9zg%2BcMrZsGOosEdvg0Xdl9pmc6oRcy4g4x5fN0htmben%2FGABX1ZHDo7Hqc3WbawwX2Ls2GJ%2BA%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日10:00_NBA常规赛_老鹰vs掘金 寇逸豪
+https://mgev.188766.xyz/play?migutoken=9d3d4582ef357778d80c9b1533c6dc08&id=%2Bpn2CWG56KuaT2Z2EUHA91aqiyXLA5LmTULTGMSH8RWflgqSGxfqMByKf2AMB1ufPPpilDUIYDJWnxK3QvJViLY%2FuQKus0Fjr3DfLaSFptImGkUzoy0dMbQWK4SFNQUx%2F95d%2FF17BYj%2BvuiFU5b4fu9RNulo1VY38l6FAKo1jcC%2FxOjkJdnPlD99hijlHU7iR6ZrTNj6FTz7AprFmtxZmMsLC2wK0fce8YmnDstL%2FWXHlmEBHKW7rzjcT3hozPyvWZ65vONSobDrBsoMxTgQlAimFmooPXrwgE2n%2BcUyNdQ%3D&name=84kplY%2FzeBSL9WNXkajrQfE89J3oU1G6JDFcMziv0XfAt1T5t2RYjO9VhwF7IWm%2BlT7zMyQSVRE04mWyyLFXCBnjSmTMXdFcdP%2F3CuC1V1o%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日10:00_NBA常规赛_老鹰vs掘金 英文原音
+https://mgev.188766.xyz/play?migutoken=a82e62b4916c5242abe903ea551975fd&id=dyjHWHQOWNf0yXiRCq5cJjccSPI9COfMKZaU3uAx9q6J94Wcf9upXmEL5%2FxSTRuzCRfXZc0wYIyxeZwa5KYxVgX99NOnMlgrGa0HCf2t%2FqCdhrncWyl9pvpms8SbJ3E4GNDNVLLRetUjUujsVSPFWhq6RCLWj%2FQ145C%2F%2FGmPt4DC%2BOmZCcxlYpVF0%2BVHhiv4Os764%2Bmc51Xd5z3n2f%2FEbXIzwLsNAfnNIDTZ4LxULF%2BNJsNpQv7rUXU%2BMmaqpzrydlKk14QYUKVHNi4GMMuoWr3J183Q976Elmj90KuNdvk%3D&name=K6jP7xoR1O7niZ%2FY7FzdPqtJYhnOVubfogBaRda4yXNqIn6cTnYPQyyHXm0QqCextVK4ZWupWzvf6amyAclzFzLqPAhfRXIzFpE2amuXidY%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日10:00_NBA常规赛_尼克斯vs太阳 郑诚
+https://mgev.188766.xyz/play?migutoken=2796dc8ed76209e000f19b441b11252a&id=FmjVTfADahG6yCE3xJtIkCuF2k4FkI6ifCKZUF3AHUMvcc%2Fo1fX%2BjXiFL4sX8OPWUnjMrMaEQIK5h%2FELJ5rrs2cZrMWdCLZXFhHTCZb2Tf2slhI5UBQ3oJI7kXbpZpo%2FZJ%2FDgJ1YOn47fLNR9MX2RK350H2prMhXPGymk3dWYU6NHrNRUgX%2Bn%2B9D9n23GaTP%2Bl6WW84h%2FXPNdt4UkZfYSLeo7ekCpgC%2FoExjiKbeu0NyYr8PZid8Bfysa%2Fvh%2F2kmrzctrsSL4GT5JgaoIA7UVrgdEWnvVkYav9PezQTEAfs%3D&name=A5n3S7g0tGCQC1m%2BNEdc3oYQpMMrKqQijH8psLBEO2GuoQe38exwdUWp%2Bi2JEOAD67IDWBcF6OW2crwGkVpCQTyRUVwzjXLDbGkheNvt2Ks%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日10:00_NBA常规赛_尼克斯vs太阳 英文原音
+https://mgev.188766.xyz/play?migutoken=3fd49a8ab3f95d1613fad2c98fddce4b&id=uUOKRF5NMruXhpLhO%2BYDxTsEANY%2FxmHfBZuT0TimgYCbjPZSWzDM8swBmDXJV8k2NXR6daCoUQFrWAofBDcLoZQGPvf9uGu6EW8z5z1Xzm%2BbXQkMfDETgQBvMVKd9NJ8eOn%2FbCXd%2BIn33SUzirHCS0MiF1Sua9U%2Fi7t3MBFLvJrjXFTyjy0XLBwbwQoHazz18DQYvlJwS9XwUbsTiMNCC%2BMr%2B4fNI5anclDL1r5GUO47O4bWvL4DFjj%2BZHDGrw9fk7Hjv1OnlP9MQEyqrRXQKwN9bSrlX23Ce7bLVzG7dXM%3D&name=y7seDHPWypcwmWhlcrjP5CP2PQPI6fT2hYwq%2FqFCKHScerckisEcTeRpUXQOhyivU5ZWkw3LIVSGU%2BQXetV%2BuqGEO16g5baipUxNj7eto7M%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日09:05_WTA500布里斯班站半决赛_萨巴伦卡vs穆霍娃 胡力涛
+https://mgev.188766.xyz/play?migutoken=23d890c9cbed1b03a101cd514e08251d&id=1jOvoR4aq0KueCRtMz0QCRQM%2F0VOCqy9iX7ewnjzu%2FQwWUosVNEPA7Wuev5O1lUiSByu6cRrvfKXa9V217DX6sOEGc6TeadnA4%2BeCLKiiQll2Y22tVxZRjoeg4vKQd%2FyRNsuAZP1kWK7%2BUYmiuPBCqVjJBQ3W7hGOtungloL9Vj2OOnFGvyorEaD1s0lqO%2Bvy85saPIUnKn68RZfEhyWNdjskF45ae%2FrYhd%2FzF4AXhDx7NF1BYQL9jW%2BYMsa3tQXflj%2BTc9%2Flqk6BatIsFjtDwmcpLr3gGwT27ixXO4A7Mk%3D&name=5FGEaOpzS85En2laGlzm0GzgMcq9AMmFnBk2SYj83xEk1iCx0uce6%2BdSUi4eUjPyDh7rBjkUE2xBHLdizthzAndRfKAUH0ZZqV3EnoRA2LT2d66km2fQ0GevjB%2FBxj4v
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日09:05_WTA500布里斯班站半决赛_萨巴伦卡vs穆霍娃 赛场原声
+https://mgev.188766.xyz/play?migutoken=afb99fbb60b008ae1cc7863e16205a00&id=%2BhlGQHYb7Vzndio%2Bk0NDPAv%2Bw7EQ006GYeObMiyuSq6O1N2cEiRqe0%2BK%2BOMoNM3avs7yVmbm88LrSFLgvwrdaRfhlLfMLcwMI8R5yXMrH5glWoh9DR3GUaN7K5XQaLqGW4%2FWmAIZxU3COIO9DBurXExXXQnf4yfBLoKlbli5FSr2%2B7xWpjcaMFhDlqZre0JdcW1XdxXeOCN%2B%2Bp7OyCvApAQhaG9HSdR3vYr4I%2BZSZr38eVDy4ZT%2BPSvhBOyZiP1cwe33HtoTUmiBFi3jaDMJY84uwvoY9jxJGVIWzhYc3wY%3D&name=YRDKGtQ8GqDFdtQPCjoXDoaV9MogsKk9F%2BzNK0dh3dnzVOiRlWtw%2BBlDLtqm2Nei0k6S5rpGOBUPEWUf25GjqcINrmjZIjCZtroKyajMyyDCPSwyn8VhNg%2FtRXw5vZlWqJTjEvbSCPmgZTbC4OLZOA%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日09:05_WTA500布里斯班站半决赛_萨巴伦卡vs穆霍娃 英文原音
+https://mgev.188766.xyz/play?migutoken=a3ad38a47118fe59e78915eb0e6efd37&id=cIqBo0GqKCETIBzkVuPDoFDIxzMObEq06ezWa9MwTwRSLkIMCANAXBmfjkSsyietRtEC7iL3QW12tsZ7Pq1eCUFnvPKH8B2taXPT19fx6Mu%2BK9wWbR6G3rEyLhk3njXlCLYkVVhGbzvS34hIwf294TQA%2BtAonBn2V9rP77sWVhScOlWpVr6jYvzsQm2l8R%2Ber7PKiiUIqJs2QAYNlei6HhtbuDKmiLTxqbymQRx56Mhssgs1YVk%2BmlT6u2l1Mwa5lp7T4P%2F4eVCNJE1irolfFZ6xs%2Bbk%2FYhRBOUZfN1tECw%3D&name=lA39ayas53QxeQeWs56mjf%2BrCPC%2FzZSaG0IYBH5m6eCqlgO5rjfA6ld1qOwAK3xX7krN2Dm5NFSiT2FQxliQ5Jhm3YJHWfBI0UNZIffTJe2fehVKf1ehBkmXbP3PbMefpFl6LsGCbQF1P08umV4BYA%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日09:00_NBA常规赛_雷霆vs灰熊 王兆丰 沈知渝
+https://mgev.188766.xyz/play?migutoken=ecfe8838378a9580fd66e92cbc85c961&id=DO63eVQiifyVmkISaSv2%2BF2fzn1O%2BJmqXWUyuLFV9fsRWjHqfCQ3iuH4w8%2Ff1nedIXNkhfZ9wGW1V1sSVutI8Ia9dreqsbD%2BXLTT%2BfyHDhnbQHr635Si%2FEBuWc5S0Jz1RyFex7%2BmuIUQOq7mGnDEf84Qv5oLyhWfLE5vcA%2FRLhVOiH6xRZgFgxTBEsewj7dXC8U%2F50AejvoD6zn4LCvVOZvM1cZcZcvPtu3t%2FIADvHj3fOG4KeCZJOWenCgVS0dyDHM6OPWI9iWuTO4A8kyD%2FuwShkZXPoW5qQxHF9rUGX4%3D&name=3szocn%2FKwxQ0eY1qUo%2F3ez9aMFQOryQVsOWmC77Nqt31Qb8Dgi%2Fc4ps1JsbcaZn6kZShY9KrC5JwgFW%2BQ7%2Bl7b0nrANdXHGPYirgQksm3eY%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日09:00_NBA常规赛_雷霆vs灰熊 英文原音
+https://mgev.188766.xyz/play?migutoken=6c96e8ef1fb949677677ddafc8ade936&id=OMCetjl2MGxgx7jXWQ7zldeGLwvtom7GjSplp8u1NEsoREFJUs9IQzPSgPKGT3%2BDrg55ENbJ32mknW6mGsA7yA7KrE9W5kljYSEfvp2YyxmWnvbanY%2BNKvj1z9kk4yX%2BdQQfGCq%2FfyhZs3EFEPpnu9yN2KAr%2Fzz3CiVgHvsWy5eeD2N3L9%2FG3QQnlASdgLQ%2FuYAsLTmzP3Pjp9De2Q3l%2B8Aan4oiLDsdSEc5F9A%2BF7pNAT6d1TceMj7KdPsdbenq8h4041%2B3oxg6wa2pFWGmZD5XqEndc7pa7TXHegZOhLA%3D&name=ffT0%2FxvlrIHZRwTU%2B62xZoTgbYaYsGpGwyOYneTlUZvj19oQNaFJ8vihkNvl8IHSEszRKB0EdU5%2BM56VlnpHyromO4r6u7X2xqVP%2F154FPE%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:30_NBA常规赛_快船vs篮网 柯凡 孔德昕
+https://mgev.188766.xyz/play?migutoken=87797b64acad9559265cbe4126987419&id=G4d1ilHfu9ItJiRTZuvHd7k6QCEy5D0CVBQr9KGDblp3JLd%2BqAqPESc3UTVIV7UB3wyHruRQmHCc%2BnDnPFZQCA5aS1iBdxmDEqkmBRB7Z59jISSA6FF6XoBHhdALaDfV4CDBLXo0VjMBY2wMnbAyITd9xRLj0lKxgaO8XcumO1lQrDYQ%2Fzhqlum%2Fcr5Xv4pB07k24whbu92amLqcbWadbZkhYcmrxR7KASu%2FU0PxJqHsDckKuSFbrhUwMu8kOGGypLlyRnrbxilsl7%2FwyFPn%2F1fzxUFjFX71w%2FOT2MMR%2Fc0%3D&name=si%2FuFdMqjoHHErr8XGOjRcfTX6ZAKTfMuIVFobWE8JBDWCQZWvHB8r0reQvD%2FfDCAgzU4i6d6lE%2F3RlWQUHY14mBm9MmjamWgmPmVJomDdM%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:30_NBA常规赛_快船vs篮网 英文原音
+https://mgev.188766.xyz/play?migutoken=85836c773a199994df57f5e91df3909a&id=g2FEHSga1ef3uKvdy1Ojn4pkiRdcCf%2BUi5XtScJ%2F6qmWQIVHQETks0o7CvAnaKmW7Kq%2BP43q8c5t%2BAV23wlfIYpddU1uxJvHt%2FKk4N1HDCkwfgippqNMxuhCLuTqV%2BvvPYWPqhrmskW9RX0RmXbW4YQ9jXFnk%2Bk9RT3UoiS9Udy3UdkTn1F5zrHWB3b9BeZT47tbH%2Fbvt2iBrxbaIm9Sm2FvJVdT5fX50JFQQ5YCRFuKQgf95ehlq4kMj1Z3Mb1pY5DsmWkfTmGbwMTeID3Xbghvv1f6lvQ%2FogtqoDlDuW0%3D&name=2QfAANFAijqY5uNMKbTQgLOJ0xCgOyqu%2Fh3IEQkW55ba7AaExCOAy%2BFF7zGf7FpgEv3VuQfx7MuPkZq2L5CWxPmnZsCe2ZQsEmRxykt%2FfLY%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:00_NBA常规赛_猛龙vs凯尔特人 彭磊
+https://mgev.188766.xyz/play?migutoken=a0140a3e76245c3be19d72851cedaee6&id=jF3JwR4SRp2MQnPF9Ap%2FTDuQmlguZNt0QY38ZxHZn%2F21A3iYgcYaMgcK0HBTbaZUSHvHH53e0F1d3tILzPZVrsXZDl7oVbzMPcHeJfXUaJlSklOQcu%2Banik8NcWON6uYw7eAvxy3MD%2FWoght8Xo6R7IjTcHXET3M5DKU8qN67rzwusNk559Bqh4Em0j2sqdvT2FfUwTja%2FS%2BplGEFC7y69YEmCUZuVlCgFrTN3mKez2Qr00yxWUlHe3v9d3LsI%2FU4RvyB5%2FeBdOub6cKQythXx%2FFD5q%2BCx7mIUM2mGTz%2BuQ%3D&name=TDmQp4b5AA8U5QwYQIQfUZb0Pq1vUqf4wQmnHhnMcoeXZLWJofozXjJmBt4uW33Zci97D6%2FlneXMc5PK%2BT0TR3dCDxpgse9FDzXZdTGe%2FJo%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:00_NBA常规赛_猛龙vs凯尔特人 英文原音
+https://mgev.188766.xyz/play?migutoken=8c171d41d488efad72edb939b1addaf8&id=LadV%2BYMrrnEFybyIHJB6NuqRQ1MS7C8X73vMjnmL98IPRkwZjO1Oks1%2FWxiaGO97Imb494MlUX01MuJyAXau18f5yb3G3sdrM41xuo57XAT1NE%2FqZP%2Bp6f41JiyxQDqqoczYHwV%2FNex9Ps4TP9coUL0Po9h7tWtPCfNWAgaZ4j%2B4hyyH1Ra8Z2eFjsCpXl4WrYFiyO8U9%2F5gUJWCTyMKZY43UQjQ6%2FIOrrO36Sh9dD5jNeYGUZu500%2FsYJ1EVl5vV9acKwrNQ45x6QdVeavSp9T1BhGH3isHfH1MX07Oalo%3D&name=usYCQrQb2OeuX%2FvDXW%2F69mbaFdKpXDLIpKW0%2BZrqoxRGpMuEJ8CVCi9KfqsR07EgFe82t44L0nQbwVyuXiV%2B9cIK8bT%2B0fpK40y3x1VKa4M%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:00_NBA常规赛_76人vs魔术 李雪儿
+https://mgev.188766.xyz/play?migutoken=5745ea9e71c0c37b38114f10416cd74a&id=0jjysvdQAkqnrpfyuQM3Jb3Sh52IK0H3PuOk3p8bf3QfEe%2Fcwv3jEfSx2%2FWAZB7J%2B%2FQSpgNltUqx%2BSHnHteqUQRrOH%2F2gyTXvYAH4tLoZWwNBW8zjvxLsTrnG4MfR%2FnM8xL8BQBfom6WNADp0nF2b9wOryfqr6FGJPww98bw1xe1I532mjQZkgFHBAjN4pJE9Nb7JBzWNZKV5VODDxbLTXF%2Blw0aFOU9aavJGi0%2BMXSFD7MyDxXmJlYDQgpxzcmJfPXefzb3rY4jg1XIGPchE3jFdr3SWn6Ttjb1Fou%2B3x4%3D&name=VkUMLMcVb7bOuJXXvkGd5S4Qc7JVFuc8UEMSoZiVbdFiS0a0nvfvGZ%2B47Gj8iSaeoxrpTN8Ya7lP7DPXD9bqUMlLmf796uKEBBfqgOzIBfw%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:00_NBA常规赛_76人vs魔术 英文原音
+https://mgev.188766.xyz/play?migutoken=c9344751515ef496d7345dfed0d5c006&id=wr6MF5nhZZNXDCMBuVLuGFXDux%2BA3j8t6rgcR5vJqmwDfz4Mu9rX9LUbOd0WJFqOSxFyld40jtBjOSlyfPxUVkAm01QGheyybiW0QemDwgnWZOAcQ8omExJgfpCNi%2F6c1Ocqq4fdIeblO9K5k7wTrOacs6L%2Fiw1s12NDXVLT9aLQUU3a4LZApZup7CdeIxeMA5nDk728SG%2BeRSsDB4QuETV%2FskXpYy4IjYZWkCgNSmgM4lN1TX4%2FMpYsD05sSfkF0GpZSzBEAZVUYNA%2B%2FXs%2FaGpi2%2FpKFhvvvSShARMWhB8%3D&name=wu%2B0d2bPDKfaKBClYgMCi3MGBdD%2BKTrmCBHcWbgmJuzBAbxspKUS5BwV6PV9CA7gyJv3f5XXv%2BpbLE1Be3Dub1D6WmEA0USvmbw6FjIeCoU%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:00_NBA常规赛_鹈鹕vs奇才 石楷文
+https://mgev.188766.xyz/play?migutoken=a864972e80f6ac4b91cc801a90880baa&id=efCh1nEVBdaXfaBS13gNW3AIllOSRgiQPx2IorfFE7drt49G8eG33Gl5%2FQW5XQoEmxpNbfLoVkiHG4CFckMK5NqHxM5RUQ9NpyVfOcJSSkcVEVMsj5isboKRlIONkV4f1zmH77p3ItkuXIsDq33E9ide1Fu50RhR%2F6C1%2FpDYTU85teQwJwbLk9doAv2i9FYWWegCCQKsuFPEx6LWzti%2BsmvA9Zab9ZTKtTok%2FyDFKluQmUZQqUWetBkdJ%2FW3%2BHscw7JwOjgDm%2FDwF9JWf%2FtDkUdkNA2GL8gArq6DBxhoCM4%3D&name=bTckbd%2BqVvUS56r1VAIjETA0I1ddvoLnv0z8bTlaK2AMZW4q9%2B%2FDLDHLcYzEqP2E0XRH3DM3W1PSm9zupSwdNZhmh1Sg1axm%2BW3IvJNxPvs%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日08:00_NBA常规赛_鹈鹕vs奇才 英文原音
+https://mgev.188766.xyz/play?migutoken=55a8adbdcaca46cd75043452a725817e&id=0P7P46WFhWwdK0Dg%2FJyujL6I%2FpZGRkUVqjWa2nf6Wvt5lMJdZQ9W7mbiQd8fVP4P%2FH4ZSSZ4U%2BO8715E8Ff7lMhkXXIBO9sgiu%2FMKNaOAFpzY%2FuOvt%2BaMg7h%2FexvL9YE7yBNcl%2BvKQU1Odm5cT47S0eC7oYoJ6q5mGqRuEstV3I1GpdhJTZwSYsBE3bAE5Y2C3PMslxXjBR1HRS7DcImQW3CxJ097dIUZpWpcSlxqSFN7MkY4q85wrSlC5KnZdV3jwoscXU7pn2NppjnozcK2g%2B9k0ufPF60P4alnHtd%2Bhk%3D&name=HUd9w9j7XNB0ILuu%2FI8iX%2Bt%2FzNfkj9MgcoxktlPRWteEUZcYXjBUzbIKwdqWcpJgVqw56ambQ%2BPnHzaQROnoRCgf4aVjPs%2FI1Y1lrChXOsI%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日07:00联合杯_2026年联合杯·半决赛：瑞士vs比利时
+https://mgev.188766.xyz/play?migutoken=38486c9745a24afa822bb600b1086a7d&id=EMaQC8y0HCtxtabrP2slzllW2gnQy3%2F1EsOEj2ZgJ48b%2FjWm0lBIXlx%2BQYXIVo4rYQAGEZLgD%2BZIFeh466O5%2FX7Zo%2Bk3DvBqKlMdtg%2FN7hwE4CgrnWH%2Fj6jlkB5W5drC7kWS0JHCI%2Fdsc9nKg6vIj4QjmWGJDGvFlk5OuzNPsqE8RoY%2Blnou%2BgOQNMQzHTSUlPWPp605KLSYYcJBqgqpbV3iPkERbxWBi7XvPKRG%2F7jdc5bB8jXBEOihAwS3UQGLAek2vP0pqVg4DD6qdt1RItJShnvDZFXXFYiW3c765CtXsbBMgI4EKnX%2Fy7vn3VhVlX8UUR9FO9j4jh7kPSqdG6Kg5Jj8xO1p%2BT6KyNjyDuNPPCW9%2BXVirP%2BiOcLxn5q0wVkUVdk2h8Ldn2H75wkOFg%3D%3D&name=Q13cN9VVNQ6AXdMrpOjJmyccZdGmPN%2B%2FcAKwLhTBtsjsYabSs1MxQSpIjwFo%2BomskPpsp5e0a4VGxDzj2HGx4crIQZ8jPKRpNiGbOkABSrqLH8K1%2FZ0%2FKMFJLUXtvimx
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日07:00联合杯_2026年联合杯·第9日全景直播
+https://mgev.188766.xyz/play?migutoken=a2afd1576f5b3042885d76f1aff44966&id=xPsLXV2p51mKTv1DonlgnFqeLrrQDSwFFFVHwamz36PDvbXD3bd7r791OAUJDD6k2H6B3N0TIVosUgME8FsZ%2BU7V0zqIrE5I0zPRhHXwZ%2B10rE%2BeEy%2FaD49cG3Q4WZ2H7xnauChO5g6pyxMWV1UKn82oDCmKj%2FKe6ehq2B%2Bg4gvTFokCWoAVm9q%2BUuwQTTZS4lgmDr4e41bc9l4MpL3dN1i%2BZ83WgyCi2cBgnJLb4m4c5ledyA5CV54FFUOPRaL66aTapGI8Pdh4fQEHRxkgTpAT0SgfLubpoCTLeYn4qoyx0qz%2Fug5WlSDxxlAacXPEA3%2F1YwOstr9XP8XfGSfzNJSCyEWeTK1Ixsu6mUn3XzSJt5jKMNmo8C9kVIRkemyKnuzqbtqWJOuehSM1AnXXvQ%3D%3D&name=un%2BRGW3K%2B6idtYRMXJ35pkowKiV%2FS0ZkZhKOsaJAc4Qzha8Qh3t90IIKVgFpkfIvKP%2FeYaICDExcTUfbYNt0xN9vzNvG39S1PRW4fnmGuRQ%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月10日06:00_赛车_FE电动方程式世界锦标赛墨西哥城站练习赛1
+https://mgev.188766.xyz/play?migutoken=9271a1c4c82c685f5206775bca801022&id=OqHYy9c0cgjj%2B9OCWX21%2BpKzpjDKPf1yw7EJ35avsoc5h2o0%2BbA0I3e0Vl3nrUKZ3q5c97VOICHnwoj1OZ8Ibeb33mFoIf%2ByovnFIJSYPlEUj5obZ95rKGb9kSAvpqZCFLFQMNGhOg%2BlQ49oA2IByOxg%2B%2BXNezZ3xGSRq%2FTL21qU5%2BVzxlA3y46Ln7%2Bi4rMeW8gZdHcVmuXrC4ze2%2F5XV1jWdeVKRQ%2BUMygn8A9BICm1iAToEVTtjeji5YsI3w4IVojYqDybQSqTCed%2F6y%2BRA2NZ4g%2FCs3PupDsT42now%2BI%3D&name=svNa2UD4J%2FUhvyHpJBiRAokO3AN3FDfJWnB4D4Nk8qfNrPZ5egV63aRAZqYLOMOxpVM5YiYHbnErr7yDdy%2BfnCLdTC88ZjN%2BxHIJbErrpExtCsm4OueZbvGfoOdkMM0k
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日03:55西甲_赫塔菲vs皇家社会
+https://mgev.188766.xyz/play?migutoken=af7c426d1899d35f151bbf3a0a806eea&id=WfNSuOr7R26SpamEfPO1Dz9WXErgmHi0QW1bUzsnYNIKr3KNCYeXVeI98rNRgURL7mAEX0Ffxpz1j69px4LLpl90Q3KcwZtkrn9A0fz0OCPP32jnx6T%2BPtWWQwVRv%2B60kvhi%2B1eGYB3sQfbP%2F5uCkNpLciLn5%2FYQGqdy7yquwCN2RACEciHCeA2aJRjUIO7YdDn%2Bhm5xCdj3G5SaquKygDgXSY39Xx8lMT3fZ%2FvSgoPiHKIKwVrQOsJy%2FYeV%2FiJeSX5pFHOuEvw6yVCDMI%2BS1NNatl4%2FkWvGDWwCsLf0duhcExAhKSZwJlYxI%2FDnsak9b2IYLavqW2LoRUsQNtyEd%2FE%2F0JBpvao5FChi8GxdntfWSsIBJZYYpHcZ45Zxv%2BK74LkvkupOuC0YW7dzMELAyA%3D%3D&name=fw9fudrk0z8WabZzHuRgZvv2YD3kx6rx1lYsHFYeFE0U6ta%2B12ufRFWP9w%2BKOD7VhgKodfdODINrKHjenzrZAQ%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月10日00:25U23亚洲杯_约旦U23vs沙特阿拉伯U23
+https://mgev.188766.xyz/play?migutoken=f231d39a3981f6b0c7e8ab3082dd0ca7&id=kPXBS0FVmwA6WEw5YkkA%2FtZJO2Z8x%2BG4HjvrC14pCmPDVltWLx8H%2FqCtLBDdgklFaBxAESnzIaQ0TTs5z2yhreFrqrydm%2FNnSib4AnGh6f%2FgeivshyGeHgwlE8uzjRUYFDoGQA7jfnZvDTr%2Fkf0k10OORi1D4A8%2BKX9tDkSzPXOhQsjsirF99ANkfMOwyUkSonwhqbtd2RjVAGx%2FBL1ykM2EGBzlz3qFB2Xlv%2FIexB7ujI2ORfEacutDppBjyH5VkQ1hz8Ev7zjU3za7PZ%2BpLXllx2pSH%2BMCkb9VEggheq2Qtr2aoS8U7BChXS9Z4D6%2BuhAaXP085pOYBNpBxf9ocx5f%2BESPP1YGJxHDnyh9iEtJ7P%2FJWE9ugsgmGTVEVuiklA00QkPDRKXFC6plIOUh3Q%3D%3D&name=GXKcBXo5gstDqJup9%2BVYa69Q5Rw%2Fe3a%2F2ZgaR0ETej9I%2ByuG%2FpSN07pWAk3Ap2xY3k19jViXDReE2GTAcdo9gWtM2%2Bd1A6RaRKKB%2BsjlEV8%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月9日21:55U23亚洲杯_吉尔吉斯斯坦U23vs越南U23
+https://mgev.188766.xyz/play?migutoken=a9b2e44b02c2e821fa0318918c2b0483&id=ZeiMzs%2FN04lYiqX9oviMd9tOIt83EEadFH14gR55hyUWcxC1lu1vzWGD1nJliA1579MLitdHYHNRF8UlrFcjUBrqV905j%2FjKtRsGS3381PndSxjw0E0TNXPkbzpSfnG1bdOgIJU2TiXFY4Z0upOE6VEk0XEWQmC87AHchxjD4KO6e53cL9MeWiSnCKHd6p5vDSAHHgzK%2Fkq4ogy58rDnY4rWyCm%2BbFAnccmhkhtfV4svyttajR2jhrDi51kSt%2BAwc5I0L0Fow8ABjjym9BmH0NKOABHDOdO8xUX9lYvt%2FN0yvIDvyBOP4yRqv%2BCotp26CarObG6ysMEC4H%2BY%2FkX0tsmvOSTpt4p3eChauLKjo014ctIH5PrZgqeeGi1GGVZLbh6ArHxQdo1rYvj%2BG8J%2FNQ%3D%3D&name=%2FIw%2BUojkadWTRifNAO3dFYRtyeJjyVhlVN2GwhjzYPDrBh6cpWFhCTzfqf0uYvP11J62%2FndbU%2BNllyMpKeDL1zgtfYTuLRN9%2BY1doR2lKSs%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日19:30_NBL常规赛第8轮_盐南苏科雄狮vs长沙勇胜
+https://mgev.188766.xyz/play?migutoken=ed31a84b289d1b8c99f4572f4b99f6e1&id=fTnTfuYD38ylfpDYT2IwC2dMacCjj3Evrdp3NafB7mE%2BquCNMbz191hKFKtL4y2jnGT1KHpfEKGl6ewLbUOhVJL0HJ6svoU4%2BJU%2FM6sgI5CEtn4GGQoOgpMRQjb%2Bx5A7eqznBTucaZLFBcBEr4iDRvm%2BDqBdJd9AGRAvhlQDCdcXy1KW7oPMeAYE0WSeu%2B9wHv%2FdjKheERlGvAH%2FnSyb18KYDWkkq94rKM8DyjUQJnM9l8qOv9pjF%2Baqw6xWMqYfTE10%2B7bhOjI515U725zozqD%2FyhgcQ4CKLpOOlzDRp3w%3D&name=UF9XNXrk0b%2BY6e2BTuF8jYw3WTN1RrX2r%2FKwfb9MGx7ADBLstihsRsbPeLtDpSLTjalsKQxZYvMB219c3S34QHU5vkvwtzlJWjjFzOPXrgd36Bvrnf66bE7kY49ZC0QD
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日16:35_WTA500布里斯班站1/4决赛_米拉·安德列娃vs科斯秋克
+https://mgev.188766.xyz/play?migutoken=ccd8c2c59856a967b9bbe000dc7d1ca3&id=ohXxtSxOupvarAf5MQt870M4GiPuShTOHZWkqD5xWXBRCyV50QTGZcAcmNHBy2Fh3ZGER6WA4jZZ6qYiw29d24W1FODVd5%2BrM8xIXDaeqvpEyfJVYl%2FoB5kpEK4hJMY%2BtflZ%2BO6xfEHO3kRwcHA9rPvoD5o%2BUwOquDumvtCEQJGfmLxo9soYPU7N2wnzEM%2Bsl59X%2BrLEhUPuWDF1ieq93OUZemkhdxDOWxZjl%2FfUDN3KOYnxfpSnNn%2B1elLbf%2BklUiC5QNE9pug8fSrY7Qk8Xggfz9gf2bUrtwjJygYvC18%3D&name=bXt%2FRiKSJ%2BRU8%2By1479doPVzBEN4xSGUsrUujfBD0ccyCLXEnRsnzMPOcec%2BPmIYeN8qDvkj%2B4SkE%2B76LfsxL8Z7EOFMJCGBW35YO0bO1xJY85MxJZyLqWl6j5EGGToC
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/爱奇艺体育.png" group-title="体育回看",1月9日14:30联合杯_2026年联合杯·第8日：澳大利亚vs波兰
+https://mgev.188766.xyz/play?migutoken=9fde70be3f732900f9a4076bb383b96d&id=kUDGb42LGpDYZ9LiwamlZ8qUd%2FPbu3FAI5sn4zdgoKHuBTe5wFAlmMQsZJv1oS2zu14OI5vBAOl5GU1%2BG64%2FcygFjEitSNXs9vCoGTJqLy5GGvGieyJ938Pl8lhz4EiaDtsHksxoreLqknjP%2FC9bamurzPmTaXQB82pNgEgphC8%2Bq4hlNvUo2ksbsXXVwjttXW9OLR%2FpGoGWOkuktE3M6mz5dkgboNKYjjq87uqS6DdxFhNR%2BaeJx3Cjcgq1lFxgoq1ws%2BDepaSKCGnZ1y3AxfhmqNSZGfW1rK334upZuuYBrjQfw%2FzBWIZZMIA9HrGomSgaI%2Far1yBg3vTuz537pSQN5VDfclcxvOS2hMNFt%2BKJDmRDP1%2Fq60y0z%2FBXwhMUoUu6ChyUeK9SzwBqqv8r7g%3D%3D&name=ACk4Bl5THykeU0batwQGnvlgOeXtBS09XrTO6sT3aUK0obkSbY63gQkFamWCME4gLv20sQVRCIQtzOJDPpyOFygcMkiFFa%2B%2B06jBcUWPoA5JAG5YU74c10bXTTlP8%2BAc
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日13:10_WTA250奥克兰站1/4决赛_斯维托丽娜vs卡塔尔
+https://mgev.188766.xyz/play?migutoken=8b2517ec0f74cd41e4dce43e5ed56ba2&id=oyQlGd%2BlXKSLaV1d8WPvPSfBVP5uiJrUqLLo6sIhvYUQMOJZNiE6DWABQFM0H1KcHayrRCFs76xrwxwa2vab5Si14kgk%2BqaShqOTeif6PFfx3sBB6r%2BJNVAa1qGGxkj7viU9llXws9Xg9MOr%2BuqmqTakJYkEOYGphp0fY86qeW1ljHyIyguQdJuIg%2F5mKtOfs54HJLRXTHankZR7lnWk%2F%2FJYJ30HTVYmmncRukWplPmvqKTGI8eSp7rVuvGuTY2TlwAGRYjicMt2zd0bIAjsfIhf7H1UXHnNR5TiRBzBJb0%3D&name=W58rCesGH8tAajihG5aVGv2JlNqBGVcq9U2qXNtqfFOukJL157QERP99lpi55IWTX2ig4rb1fu1%2B58VIMrKcoBPGFeYxxuBbgf5MxXukWco3OzugM2Bvl06EiiyQ%2B7pH
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日13:05_WTA500布里斯班站1/4决赛_萨姆索诺娃vs佩古拉
+https://mgev.188766.xyz/play?migutoken=26d820b327b65f2211ccf247b9b63ad9&id=dmkrJVSRjM1ORChPEjNDJZnCZfMZcs9HDugkz47yOybJr02Qo9%2FyqZ0q1OtD8bHuHTgztwXqOb3AFIwPSKsUOF1hMNAYYYlHLX7Z029yeMkgXa%2BzXtX1V4aDgTBCg1vSj%2B1PQ0rSbZiMACNZuPJYRZkTSYywHpH%2F93v0E9H7rSR%2BB%2FQML1ed0kONNuUioENY21kSzIAAd6bEw%2FPo1h%2F4xbG42ne3%2B5gaxBMrccDOqDrL4HyIOkP7HKYTXUKQR%2FiSFRDPfkzT3gVXztjl%2FWvWK8Ef6Y7nFdkv%2BUxJyOcn4sU%3D&name=o%2Fk%2B55w3UNUPkCAjNE8ImMZbVAcewt7BrHM2lmmeMp4%2Bt2y%2FJ7%2BtLby3voFN3E9Do1DmGpXsfAL3DhFZDvlFX%2BHQ3aOMYrESybMJOW1XgRCSDhXAZNuFo6My%2BjJeMeXm
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日11:35_WTA500布里斯班站1/4决赛_萨巴伦卡vs凯斯
+https://mgev.188766.xyz/play?migutoken=f7ca5e072a4680f2227de5ddcb535472&id=u29jBtnutrlm4NR%2FZU0RbTLLJhI8Iv0QsBTsLqc9lkeW4E%2FsmUPkoO%2Fjy7nQcD8nChsM40bCgx%2BPbW2H0XK0fohQn61d0EB%2BOW1HBdI71T%2FXqcVUXc%2BSpiWPY2xN%2BAhRwd1EcVGQN%2BYgtJ57KA%2BjHXrAdtnf92AnZAnrAPf64I7sHZqWX2ODxd3HQ9LdGGWoYJqUCOkBK6MII8KcSZdPw5XXDgDJegB5wlIaiB5lUlSZ0z8D6DsGIy1FhfDOAb3Oqub8d1vdfiLwpaCksRcVzZMlOTilnc44ewJssuICU0Q%3D&name=6QC%2FQu6bMeo1HguI%2FsBWAHrbwbOIFfy1QSViRIF0eSW5wWuKKn6ZOlCrOdvX2cZxlnZrJp1yPodornmOUtLvcD8IhhxL2TAXb56TwR4ZEDiQlBx8Aw%2B%2FRpx7UASDj9Ud
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日10:35_WTA250奥克兰站1/4决赛_约维奇vs科斯图拉斯
+https://mgev.188766.xyz/play?migutoken=377b47d9d6042dadd5bf65eabd7fbf5b&id=V7naG7ySdFCYSPGiYCq%2FTrYCNDvm1puwoL0eIA4zrNLbJ9EDkcisFvaFPcUJc7ZmoHPlAHbVmJcA0Icl1SITZhN47WkiE4Jw04vEd2GIe4g4UL3q2Kt201Z96AuZPF%2Bbko2Ny0pc8gc1Bc2%2BgQs7%2Fh6EiUznMmAhevbQaP7429ckLCQfnzZzYDuMF66hvhrQydwJxA5EMwu9YJlv0cumZEXJs77t3isu7HZHCuHA3RLcbgZT69thKZQDcQj1%2BK2BCs4H9MOR%2Fimh2iVGYhkrDA2ROhUpzRuL%2FkIfqBL5T8w%3D&name=evfYLqVeAH0SnZoQ5t95CWm4EBcSzACvzFQekYvpnHDQu8p2S9GFZIXjxF6mJc6JM1syYfCpdCpCn0Nz6LF1wPes%2Fp%2Bl7pQ8bCCdQGAwqzdUcbf%2BuhXyssp6eTmqnRRE
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日10:00_NBA常规赛_独行侠vs爵士 孔祥宇
+https://mgev.188766.xyz/play?migutoken=41a60bfa46b8effd6b84cb93a4349633&id=AcD051yInw5vnE3siWVz5xfHfaQWDDYQ8dQHRYCUHj6pXJig1SF1%2FfqtIGwm4na4XobAEa4qGChQpr01x1E16pMaj%2BXYBj7OEHbtE71Z%2BkzKHi%2B6YpuwO6Hf4t%2FSLl6A1a50lV4ty2oLOmvit9PIblHzK2LncS%2BNLhFD1XNyeFM5JWHFxu%2Bh%2FAFiSSDZ4ZmoA3111dSgLi82BAw1chBn1nHODpuXOGI4NWv04e0D4u4Xf%2B5acJq9Kaf36vMvRsW4m9s8Fm1iN4EhTVyqx8L0LEm%2FQRM7X4Q29%2BB7mmK5jn4%3D&name=eYJ0Lv%2FIpOxEhPiozZZgvKD2CLKajyyRpot%2FxESC9RPyGhKsQCH1K75Tab9TLZ9doyh1%2BzFJdjZYIoViTnAoaId3vmjioA5KdnFog9GhPsU%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日10:00_NBA常规赛_独行侠vs爵士 英文原音
+https://mgev.188766.xyz/play?migutoken=a289512ddcb47064f98e0666d04b1dba&id=z78NTbncU8Nt0DEyWSt5sYYq9jdqPHxuK41Cjd8NO0M1TXRoknmWzF3rmAiRptkfFR%2FwA%2BJ97WKpnLxlFgjZKvzxc9K79sskL0qPyecnDl7QdwJHnMhy%2B4i0Y5d2xNQ2u7fgHIW8v42N1f65xBFycdPkei1mIMjoZZ6WxdMP3%2B11kyZ9nuuTdslA5tiBSoIyIC6aVlSo3mTFdpWPmqm45A1%2BlqHSoy7FK%2Fb63uqcxGOfZZtH05840baaVC6e31W8jFGtzWphAKwnknRx625PTYPw733JCVj2dBY58V7bfHk%3D&name=DsNDD9njCVWqC6%2FZJ5zwsS5HlA3Q5w0Qq%2FsJaGRbwKMuUMFqL869HFa5elTUPqfbCa%2BZOi4eEL4RI1ov8xT6SAdLQVb8T%2Bdsmc3tn0SXAJI%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日09:10_WTA500布里斯班站1/4决赛_莱巴金娜vs穆霍娃
+https://mgev.188766.xyz/play?migutoken=ef9701082256f73b4e77bd41ee29d801&id=l5%2B8LFTYGvyWsefcwYOLLfcjkT2TVSqm5GeR55VdpgpUUSbIL%2BQ9EtQAwOXUb0XmTodpYROIJNdZnrlipvMFZ%2BYeLYQJkYr5s6XsJY2%2B8iBEOvqDmhPLEEd2hHX6rwa9yu3eBRAPQIrCB7Bumx%2FFtIXsEqxDlqe7xRDkRiPKFRIkScBQF8PGyLtINyrnqTVggeYh1cJCWY%2Buh23pyOKD2WFPzLJiVCkPxVhIIn6R42x%2FA37azJspQSWGklm5Ae%2FaVSTWfd7DRKFTK%2BIr%2F0kXcVFzB%2Fq44KgliXVzWOS7No8%3D&name=owS3Vx34qfYF4jlbHTsx2PRffXckP704Wn5TQf0XG5wyBUhLO5IbrInSa%2BeM%2BOVuvxS15kmmx5lmEGWf85D4tvDwUOZWH90qr0nUkcejXl9qjYI6w%2FAEBMDXFKl2rXkj
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日09:00_NBA常规赛_热火vs公牛 王子星
+https://mgev.188766.xyz/play?migutoken=ac2222f1fccdc71030d3ea0277556820&id=IM52fzty8c2GCzPVx4tvYaEIhUO4CBZwnIsxE2Jj1IkUsZC8pFpKYVX4vnEQqCXW1qWJN6RONUA8czYA36tIGs0QwimxvjBd816BLggNreopCpMPohD%2FDw18qJPfQSHJRf3Z%2FJNEAw6prbzSXC6wtspMHcwL88Un8unVou3qUmKT3ObtV58D80YdyhdmqGmAU5dkiAWT1peeKd6TgEXbU8a0wd7qlGZj5AA4cIc3P%2BhHQvJ3qCq6a8wOOazPl4HVkBvf3OpCQX7jhbWopm6hIlbHsvK5mpPhClbyvzJrWPH85PbrTEkwyqhFLkTkquefPbUnctDIhpSa0CNKHsYAYg%3D%3D&name=fzjlbJ83lOSej84nY%2BVYfrqQLTXcfZHm9Yn5BcPPVf6qBgTwHs%2BbQ%2FynroUgdJvAehbDuvV9hj7mjhXmx%2BTp%2FptDcIEiTo4bQE71WVpKHhw%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日09:00_NBA常规赛_热火vs公牛 英文原音
+https://mgev.188766.xyz/play?migutoken=acf9d5a592db7d048d1423890f094d2e&id=C6o%2BiUf6ZssbNAXgqfRLwFNM%2F4XDj2foQIEZsBD71FLAk50fnGslhduny%2B9k0NeqB4nsmARb%2FngTGNjJbyzxdNGFSl7rNVwUAAiLhHgYTFAn7md37HDfebKlxk4YvLJkmTGri6Pkgq24XFv55JqTLcGNUSv9GiJvE4izqkVwWGI6AOCnrQZQ5nGEQPUZMmqV1XhYNK5OlfeRo4aR0XzqkBEfcKjpnTMNgDHmGJ1s06U9OHRELSr3B%2FNceAPGB0Ipt04atAffZqoKNm8PuwwFrVYpgYcSghU489OeR73o9AzHIfwom70ztLmt7N3K3PTkEWJWyyhFc8bkLu3%2BWnJCPA%3D%3D&name=0xiU%2FBBewVbGgBKfZr4ayetzWXqOcRQyBSN%2B9%2FZ81v8YJEbp8I7doM6YvsKRroWNMQATPL3AnMgEcTZF4NwhljHmi7nvT5YIjCg6VOuq7Jw%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日09:00_NBA常规赛_骑士vs森林狼 段冉 沈知渝 婧雯
+https://mgev.188766.xyz/play?migutoken=b8a411fc1ade6e7f0b51945fc1bf157a&id=kcoSkiso%2B1gxdrd2VxPaf81ffJxuyDJVmMI9%2F6R2HaWmyXAPjb%2FULlqEpUSkGBmMvv1q5Ea3qDlGtNV4134WSgwmNhUjG7b9oolE%2Bylccl3nVnH5vv7oXOaE8yUn7UP2DX%2FtjaMUBcQIgN7aNPfjdPSy2QxALTn2MIkVbRdV2IvKXxObm2hVy1rDjffyFNijrO33C4j83fK9%2BRbCLPzJrmLHkywOlgF%2FUktNp5ZZUcy9RQ0y5gVfmOTNdlzeQTJ%2FkCRwF5GT5k6xG69JsFsHNZFmZOP%2FNMZ%2BcocQYRNrDdA%3D&name=XTyJmXON0NnJBUIsBcQ43Tl29vYVgbbrOcEpRuW4eNh3yCHC1oduCttxIzpC7TWITiYvO8f5ss8rmOrkPX0a0LPwfOE3%2F0UGUvl77PgDxizEc%2FslY8UxZTMCU4ZGG9RG
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日09:00_NBA常规赛_骑士vs森林狼 英文原音
+https://mgev.188766.xyz/play?migutoken=32b97d176e55de7cbb475c5a196ee61f&id=xzuuiawGRtfozV4UhI%2B1N7mdg6gynuiB51D9iE5ewKvMKcDKlfnPPQeT1ta29DtkHG6BOmfQ9Qp0MhQhADVDtEmlE%2FYNoONAyD7T4T78p4YTFDOUmmd9ABmMCmG1pzpmwKUfnDRT%2BovOZLJ9mjlV3Rz3htHK%2B2Jw6tMt4iZ4hg7XJtlY5KGMp5GR2vvcejO5BI6EMc0GF5tM%2FnDCYzphXmHeU5y%2F75raunOsP65IIvZiFyUeJr4EbFH19JqaWXECxEd9W%2BFcSuwEWNenR6A3Ctvq3SSQsZusM8wIfuWTaZo%3D&name=wu9QUHqpXeMvEJB%2BDs9u06tKXhBW5lHt0bdhR6FZPgfuwsem%2BfgTOFNmDyoemMqEWde6WH1uGRe1sivuP0yzx6BGWVg5d2HSM0nnp6xCQbI%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日08:40_WTA250奥克兰站1/4决赛_里内特vs伊埃拉
+https://mgev.188766.xyz/play?migutoken=dd9d99e4fed3ede8febfc664161f39ef&id=%2BbrAqPXGkEKxDBfC0ApydpGXaFJd%2Bqj4U2Glc2bGAk0Go0btsLn8yOODv%2FwlmHhB6btao6Rbbze%2Fj0BvC8ae49zqfwjlVHy0RuN4UmGSN6HOrxiCIixGdHFlrW9hfEiNiSoGrRMul2yMR7q09r9BpYfuxRLnxq3GtqECxIESIRGJC%2FjLvQK8xWF1%2BklvBdmEy2%2Fh5RDMe3kcoBhJVbS6e8ay5FIdl8nBTl9WzdlIfoGevHoMXpNo2U1RVSQgAR4cabSNjwFM%2BnY859rqfNls40kBZpyw3%2BoT1oR154ogpDs%3D&name=a00bbv8itn4td8uc4gw5smVtdmq4LfvPDhlOuGkwuJu8rV2FeCx7OaGlvzEPYZdNlv%2B8G%2FJY4vRYKSWnsOVaylKXpOJdH8zivo1qJkdMjOo%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日08:30_篮球直播节目_[早安Tip_Off]第78期 段冉 沈知渝 婧雯
+https://mgev.188766.xyz/play?migutoken=2ac5d57fc9b8af5054a541854bf7ec4d&id=KdXZu%2FPhoXfn2OBzdN1xMSM0mzicxSfB2CDQP1PxCbNdw3ijhjZ1Wad2p85oJfikpisqfDsJdwGcKVaNyxUrs883K0LgBM1a%2BcIwMOnFjHm7%2BBIIjbyOUxQ8rR%2F4PitZc83tZ5pVjz4Om2XliajQAX1kLLwfs41BrVfu7zHSRCruRvgO6pZX21aNcb0AD%2FQCA1cfkQCAb4y7gLH%2FO%2FBHisQIC85mWaI7%2BuiMDHDYvyZ7aD7zjZWeNX9KpWCKwC1axMaW8EHjGoRAmqvXwrqYmDjNy3qsH5rLk7nucYK1PNo%3D&name=nHiNATPdD1vuSLRq25FDZADuwMvJpK92J7QWd0m8SnzR9My2%2Fl1WWwd61K1EKsWVvaCQc7zvuXi4TWAI4GXCDgmO%2FyS8gT0Nps0xVDMaqCX%2FGGRuDzJ57vfaHZ%2Bt5b7R9C1dUep0BjCauBuUVWmWpg%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日08:00_NBA常规赛_步行者vs黄蜂 金浩霆
+https://mgev.188766.xyz/play?migutoken=3628108f7a7244d1712b25c81a9cb973&id=T57NThKj0sZhJtmMNuxRh2LtOyQwGkmSxUFHWCI65W2nEodJUVet4Ck%2FvkO7RFcmAgquBTwsXW8JzbSz3yXxLdC6gaHhNsX3%2BAKrR6LVTXNTO%2F42yde55jKcbpYsPQfc2JDv7Wu197h07Op3ks1e6J%2BwSBWFNH3QulcuGNjr6ZXGab4b2E9O%2FU30U4kmbfvRM%2BN5dd6acF0ttVMXZ93GDyyAVHLm2NhfezHnXTWvc8dp0Ni9FyJah0Qid2rEcI86QxUem5UcCmCjINQO8RY89z9FBH%2BQM5RhjAHk3H49NNo%3D&name=1tiss2axbPWPvSBtPub%2FcISO30PPYHIOFqcSP7NwChD60OcmSf83G7aN4yVHQd1VaLZ4msw7ZFbNZHreJOwkxFJbDUjwmSd2pM1477lyOyI%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日08:00_NBA常规赛_步行者vs黄蜂 英文原音
+https://mgev.188766.xyz/play?migutoken=123a6066bbdb8cd2e9a9d37f6d77adad&id=yt63QQT3irQkRTCM8kENAjQzWloVuin%2FLrm4k1OLWrU%2FRC3bZD07Zlj%2FZsrfwZR5Lme9YOffGvJYKS95BaB%2BVYghqbqpqKPW7lZycQ3vBM%2B92vOffyRwAX9Nkx4N4xtDV7JZ2ZHeoHYAxKQu%2BJir3LOOe5LZ0uI7SZvKzyFsP1XUXncOfD%2Brb3hX5Ztg6FDepKA%2FGsAtGneLD%2FsdIp8UTRkWr8OR9YTyU7xmoDlgVf73oO%2FtW9ARoSZ6EbHN0osBRmXWNq2sLq4F5jNn9lm4kCN3Zzfv93VLo81iJcADKDk%3D&name=USy6Laa%2BOBVuSO1rfZBZNM3IE%2FIUu%2BF883nnx51MQ%2FAfrctLDKjWOJM3YFMSuAjrewVVQFXjnk1NNj1q7fbIHjLATZR5CE51QdQnv7XkBHY%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日06:40_WTA250奥克兰站1/4决赛_王欣瑜vs弗朗切斯卡·琼斯 张文悦
+https://mgev.188766.xyz/play?migutoken=30e47770468536c676a9c5c3c7c2eee7&id=qIZ%2BBk1NU2I0RN0yFk3b84JdDU8g0JycgQbIL1mM0z%2Bnemg%2FAiwwshiZP5wMJMnT%2BKIK8DXNy3dqmIhjmCFlNZLD8mljC41QL71tUBYOVeBAzlU2DINH65%2FJt9kji1qlixrRD4x8UXyPesmMc2RQyA5pmBztnxOmCfxfbDi0ENLMd8hVsnDBYEvNDdarN6vW%2Fiyocv3Z%2F%2F%2B5G00k%2BrefqS%2BLEY3cuSv8Ye%2FwpumBGdA3N9CPjjdqlFHfuLON8eLpQR%2BPpG8SrTTNNjwlSXfjp1ZxpkSC4X%2F0gNoql9CbadE%3D&name=a66zkhWNnEHX1055BSSaPUlColG5pOsQsyZzJmdJ52yft3j6gJbZFhJXbP%2Bux492ICUX9CIiD6cyxkoPDjoxzIJERwS2EQrQ0sJ8peoYboT%2BD5M0Rnw%2BZHo30elrw57RbeHsKqIfCe4QKLrwSlw3gA%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日06:40_WTA250奥克兰站1/4决赛_王欣瑜vs弗朗切斯卡·琼斯 赛场原声
+https://mgev.188766.xyz/play?migutoken=84a8cc9ff00d74a388c34506c5f8a6ad&id=v45ab64LxvWmP67E1St%2BAyEKfJnwof3tBf0iqZiHmpQAB9O8mh3%2Be9iX87yzq9UtuYcHxEJG8SKNgbVmP0KtvXFpBNYqSxXooV2Fzro5bOYfimEmT6tOMo%2FpWd0LsEgqBv0EsdRm30U1zOu6wn9JLWpvcBQvTumcVo%2FSimO8NxFFwxlsLUOypaL2oe2eaTlpecJ4NZAWoe4upR9NGFVFUsnmgZLSX5v15kTzX9wJJEBMN1xFmcJ3UaKjb%2FmagsNgbxTY9VcVIwQ4gYLZPCX6ZH3WvgKRYuz6T61tJGQdqWE%3D&name=z8h29MoMsnPfjXDQJGYEmiQZpZYnI8xxh4opeSQlVXTRsIG7dWBmnaXjlcLIkRTWxeHk%2B8XO40txSOhY7OpWVOAM0r6SXbdMpd71AgkwdEebaGA0jSCMGVEN5WVkCqD2OhVuJa1ks7g%2BXUJdprUsCw%3D%3D
+#EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="体育回看",1月9日06:40_WTA250奥克兰站1/4决赛_王欣瑜vs弗朗切斯卡·琼斯 英文原音
+https://mgev.188766.xyz/play?migutoken=cf861e6e733c857c68b0c594b84b5dc3&id=8DLizDLFisMFVPeozuBFlOWFUSuYEo9D8DC%2BgZ3FoWpu8IWHeJOxRNs8jShMcYuBKbBVK1el77EcABRsoB%2B8WNKZnxNAm%2BYRbmEaeVipqpaHVE6fLpHrNcNgEVH4gSsuNtE%2FizZFqLI%2BNXB%2BbzaDCOk65tHNofDXf4hh33SMHRZkHC3%2FDYak18wXZYFqQGwgq5%2BsYfz4oTBFLOmL47xzhu0%2F015RKJW1tfmCG%2FVzrbSWBL%2BEzn9L4m4SQWwsPyZdZYuBUYeHgdxfqk%2BqW%2FHWbHSEWW6PeVoIeVjRjtHxC6c%3D&name=H2OtK1yDGilqDpW3jgYEQLKXlNUGtDAqsJqPIKP6za8NPP8OepMiI367GxI9k26DYH%2FjC086m%2BMRWHBdroV5%2B6Lew9%2Br3GStK%2Btmq84zl%2BuNFKdjku%2BEQd%2BllMd%2F73mwL5zANpbri8tZ9MF7QLHpBg%3D%3D
+
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1" http-referer="Origin: https://new-player.snapx.cfd/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-1.png" group-title="英语体育",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referer=Origin: https://new-player.snapx.cfd/
+#EXTVLCOPT:referer=Origin: https://new-player.snapx.cfd/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=Origin: https://new-player.snapx.cfd/
+https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-1&token=16320adb16320adb16320adb16320adb
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2" http-referer="Origin: https://new-player.snapx.cfd/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-2.png" group-title="英语体育",TNT Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referer=Origin: https://new-player.snapx.cfd/
+#EXTVLCOPT:referer=Origin: https://new-player.snapx.cfd/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=Origin: https://new-player.snapx.cfd/
+https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-2&token=16320adc16320adc16320adc16320adc
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3" http-referer="Origin: https://new-player.snapx.cfd/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-3.png" group-title="英语体育",TNT Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referer=Origin: https://new-player.snapx.cfd/
+#EXTVLCOPT:referer=Origin: https://new-player.snapx.cfd/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=Origin: https://new-player.snapx.cfd/
+https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-3&token=16320add16320add16320add16320add
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4" http-referer="Origin: https://new-player.snapx.cfd/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-4.png" group-title="英语体育",TNT Sports 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referer=Origin: https://new-player.snapx.cfd/
+#EXTVLCOPT:referer=Origin: https://new-player.snapx.cfd/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=Origin: https://new-player.snapx.cfd/
+https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-4&token=16320ade16320ade16320ade16320ade
+#EXTINF:-1 tvg-id="SkySpMainEv" tvg-name="Sky Sports Main Event" http-referer="Origin: https://new-player.snapx.cfd/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Main-Event.png" group-title="英语体育",Sky Sports Main Event
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referer=Origin: https://new-player.snapx.cfd/
+#EXTVLCOPT:referer=Origin: https://new-player.snapx.cfd/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=Origin: https://new-player.snapx.cfd/
+https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Main-Event&token=12b6524312b6524312b6524312b65243
+#EXTINF:-1 tvg-id="SkySp PL" tvg-name="Sky Sports Premier League" http-referer="Origin: https://new-player.snapx.cfd/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Premier-League.png" group-title="英语体育",Sky Sports Premier League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referer=Origin: https://new-player.snapx.cfd/
+#EXTVLCOPT:referer=Origin: https://new-player.snapx.cfd/
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=Origin: https://new-player.snapx.cfd/
+https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Premier-League&token=74c7392d74c7392d74c7392d74c7392d
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/fanmingming/live/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+#EXTINF:-1 tvg-id="免费分享_用爱发电_拒绝贩卖_只有TG群" tvg-name="免费分享_用爱发电_拒绝贩卖_只有TG群" tvg-logo="https://static.188766.xyz/logo/sln654360/itv/logo/免费分享.png" group-title="🎀冰茶公告",免费分享_用爱发电_拒绝贩卖_只有TG群
+https://188766.xyz/qiu
+#EXTINF:-1 tvg-id="奸商太多_冰茶体育已隐藏_进群获取密码" tvg-name="奸商太多_冰茶体育已隐藏_进群获取密码"" tvg-logo="https://static.188766.xyz/logo/sln654360/itv/logo/免费分享.png" group-title="🎀冰茶公告",奸商太多_冰茶体育已隐藏_进群获取密码
+https://188766.xyz/dong
+#EXTINF:-1 tvg-id="免费分享_请勿上当" tvg-name="免费分享_请勿上当"" tvg-logo="https://static.188766.xyz/logo/sln654360/itv/logo/免费分享.png" group-title="🎀冰茶公告",12月09日_咪咕老封号_咪咕体育看咪视界
+https://188766.xyz/yu
