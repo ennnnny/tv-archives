@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/iptvorganization/first/media.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="普通频道",cctv5
+http://82.156.243.185:36888/av3a/cctv5n.m3u8
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="普通频道",cctv5p
+http://82.156.243.185:36888/av3a/cctv5pn.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="普通频道",cctv16
+http://82.156.243.185:36888/av3a/cctv16n.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="普通频道",cctv4k
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="普通频道",cctv8k
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
+#EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="AV3A频道",cctv5-av3a
+http://82.156.243.185:36888/av3a/cctv5.m3u8
+#EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="AV3A频道",cctv5p-av3a
+http://82.156.243.185:36888/av3a/cctv5p.m3u8
+#EXTINF:-1 tvg-name="cctv16" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv16.png" group-title="AV3A频道",cctv16-av3a
+http://82.156.243.185:36888/av3a/cctv16.m3u8
+#EXTINF:-1 tvg-name="cctv4k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv4k.png" group-title="AV3A频道",cctv4k-av3a
+http://82.156.243.185:36888/av3a/cctv4k.m3u8
+#EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
+http://82.156.243.185:36888/av3a/cctv8k.m3u8
+#EXTINF:-1 tvg-name="2026 FIFA Opening Ceremony" group-title="世界杯节目",2026 FIFA Opening Ceremony
+https://cdn.99998888.cc/event/a63e6342-e21f-3c25-95fb-b1b63cbf6c4f?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="México v. Sudáfrica" group-title="世界杯正赛",México v. Sudáfrica_1781203200000
+https://cdn.99998888.cc/event/8585b934-f3b2-321a-9ca8-c557927c9f75?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="República de Corea v. Chequia" group-title="世界杯正赛",República de Corea v. Chequia_1781228400000
+https://cdn.99998888.cc/event/00e43092-95be-360d-8cba-5d59a912141f?prefix=https://cdn.99998888.cc
