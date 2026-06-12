@@ -21,9 +21,15 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
 #EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
 http://82.156.243.185:36888/av3a/cctv8k.m3u8
-#EXTINF:-1 tvg-name="2026 FIFA Opening Ceremony" group-title="世界杯节目",2026 FIFA Opening Ceremony
-https://cdn.99998888.cc/event/a63e6342-e21f-3c25-95fb-b1b63cbf6c4f?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="México v. Sudáfrica" group-title="世界杯正赛",México v. Sudáfrica_1781203200000
-https://cdn.99998888.cc/event/8585b934-f3b2-321a-9ca8-c557927c9f75?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="República de Corea v. Chequia" group-title="世界杯正赛",República de Corea v. Chequia_1781228400000
-https://cdn.99998888.cc/event/00e43092-95be-360d-8cba-5d59a912141f?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Canadá v. Bosnia y Herzegovina" group-title="4K杜比视界世界杯正赛",Canadá v. Bosnia y Herzegovina_2026-06-13 02:40:00_1781289600000
+https://cdn.99998888.cc/event/becb85fa-9742-30f4-8e86-9f901cb294b9?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Estados Unidos v. Paraguay" group-title="4K杜比视界世界杯正赛",Estados Unidos v. Paraguay_2026-06-13 08:40:00_1781311200000
+https://cdn.99998888.cc/event/8fdcde99-8f66-3e36-8b1e-715e49d0ad9a?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Catar v. Suiza" group-title="4K杜比视界世界杯正赛",Catar v. Suiza_2026-06-14 02:40:00_1781376000000
+https://cdn.99998888.cc/event/d7a8572e-ccf3-38fd-8b64-dcf58f221009?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Brasil v. Marruecos" group-title="4K杜比视界世界杯正赛",Brasil v. Marruecos_2026-06-14 05:10:00_1781385000000
+https://cdn.99998888.cc/event/de2cfe5e-04ba-3a05-bed7-aa773925ffa0?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Haití v. Escocia" group-title="4K杜比视界世界杯正赛",Haití v. Escocia_2026-06-14 08:10:00_1781395800000
+https://cdn.99998888.cc/event/ec834533-c5b3-3bc8-bb32-93d79249051d?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Australia v. Turquía" group-title="4K杜比视界世界杯正赛",Australia v. Turquía_2026-06-14 11:10:00_1781406600000
+https://cdn.99998888.cc/event/f582845b-3f4c-387f-90a2-4be7d6867f27?prefix=https://cdn.99998888.cc
