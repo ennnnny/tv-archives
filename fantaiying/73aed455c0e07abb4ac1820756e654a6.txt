@@ -21,14 +21,6 @@ http://82.156.243.185:36888/av3a/cctv16.m3u8
 http://82.156.243.185:36888/av3a/cctv4k.m3u8
 #EXTINF:-1 tvg-name="cctv8k" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv8k.png" group-title="AV3A频道",cctv8k-av3a
 http://82.156.243.185:36888/av3a/cctv8k.m3u8
-#EXTINF:-1 tvg-name="Catar v. Suiza" group-title="4K杜比视界世界杯正赛",Catar v. Suiza_2026-06-14 02:40:00_1781376000000
-https://cdn.99998888.cc/event/d7a8572e-ccf3-38fd-8b64-dcf58f221009?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Brasil v. Marruecos" group-title="4K杜比视界世界杯正赛",Brasil v. Marruecos_2026-06-14 05:10:00_1781385000000
-https://cdn.99998888.cc/event/de2cfe5e-04ba-3a05-bed7-aa773925ffa0?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Haití v. Escocia" group-title="4K杜比视界世界杯正赛",Haití v. Escocia_2026-06-14 08:10:00_1781395800000
-https://cdn.99998888.cc/event/ec834533-c5b3-3bc8-bb32-93d79249051d?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="Australia v. Turquía" group-title="4K杜比视界世界杯正赛",Australia v. Turquía_2026-06-14 11:10:00_1781406600000
-https://cdn.99998888.cc/event/f582845b-3f4c-387f-90a2-4be7d6867f27?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Alemania v. Curazao" group-title="4K杜比视界世界杯正赛",Alemania v. Curazao_2026-06-15 00:40:00_1781455200000
 https://cdn.99998888.cc/event/454d5625-16c9-3f00-9452-79a617875491?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="Países Bajos v. Japón" group-title="4K杜比视界世界杯正赛",Países Bajos v. Japón_2026-06-15 03:10:00_1781464200000
@@ -39,3 +31,9 @@ https://cdn.99998888.cc/event/5540fe98-7814-3a12-a02a-5031e5c6c5c2?prefix=https:
 https://cdn.99998888.cc/event/12806ee8-ac96-35b3-918f-8b3201caad10?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="España v. Cabo Verde" group-title="4K杜比视界世界杯正赛",España v. Cabo Verde_2026-06-15 23:40:00_1781538000000
 https://cdn.99998888.cc/event/4d7027ee-e1f2-3fbf-98c8-2673e5300fb0?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Bélgica v. Egipto" group-title="4K杜比视界世界杯正赛",Bélgica v. Egipto_2026-06-16 02:10:00_1781547000000
+https://cdn.99998888.cc/event/0a544cf8-48bd-334b-be69-eccc480121a2?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="Arabia Saudí v. Uruguay" group-title="4K杜比视界世界杯正赛",Arabia Saudí v. Uruguay_2026-06-16 05:10:00_1781557800000
+https://cdn.99998888.cc/event/020efde8-33e2-3b44-8c92-25f478bbfb34?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="RI de Irán v. Nueva Zelanda" group-title="4K杜比视界世界杯正赛",RI de Irán v. Nueva Zelanda_2026-06-16 08:10:00_1781568600000
+https://cdn.99998888.cc/event/db32306f-a0d5-33ed-9207-e6123aa34475?prefix=https://cdn.99998888.cc
