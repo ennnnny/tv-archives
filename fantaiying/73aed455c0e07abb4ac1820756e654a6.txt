@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml"
-#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/iptvorganization/first/notice.jpg" group-title="注意事项",注意事项
-https://cdn.jsdelivr.net/gh/iptvorganization/first/media.m3u8
+#EXTINF:-1 tvg-name="注意事项" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/notice.jpg" group-title="注意事项",注意事项
+https://cdn.jsdelivr.net/gh/jkwu5472/first/media.m3u8
 #EXTINF:-1 tvg-name="cctv5" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5.png" group-title="普通频道",cctv5
 http://82.156.243.185:36888/av3a/cctv5n.m3u8
 #EXTINF:-1 tvg-name="cctv5p" tvg-logo="https://cdn.jsdelivr.net/gh/sparkssssssssss/epg/logo/cctv5p.png" group-title="普通频道",cctv5p
@@ -167,12 +167,14 @@ http://82.156.243.185:34567/xhs/4460931
 http://82.156.243.185:34567/xhs/4460972
 #EXTINF:-1 tvg-name="世界杯4K回放-南非vs加拿大_2026-06-29 02:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321qsga6g7k06k77ao0jp40000000002kpfstm" group-title="4K世界杯回放",世界杯4K回放-南非vs加拿大_2026-06-29 02:00:00
 http://82.156.243.185:34567/xhs/4459717
-#EXTINF:-1 tvg-name="16vos de Final: Brasil v. Japón" group-title="4K杜比视界世界杯正赛",16vos de Final: Brasil v. Japón_2026-06-30 00:40:00_1782751200000
-https://cdn.99998888.cc/event/8e743110-4dc1-373e-b103-ecfb1f637431?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="16vos de Final: Alemania v. Paraguay" group-title="4K杜比视界世界杯正赛",16vos de Final: Alemania v. Paraguay_2026-06-30 03:10:00_1782760200000
-https://cdn.99998888.cc/event/b0c51552-2671-3563-9fa8-d06858c3ac70?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="16vos de Final: Países Bajos v. Marruecos" group-title="4K杜比视界世界杯正赛",16vos de Final: Países Bajos v. Marruecos_2026-06-30 07:10:00_1782774600000
-https://cdn.99998888.cc/event/112886bf-a33d-3755-9107-8571b6d203ac?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="世界杯4K回放-巴西vs日本_2026-06-30 00:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321s7klh47o06k77ao0jp400000000059q46lm" group-title="4K世界杯回放",世界杯4K回放-巴西vs日本_2026-06-30 00:00:00
+http://82.156.243.185:34567/xhs/4459720
+#EXTINF:-1 tvg-name="世界杯4K回放-德国vs巴拉圭_2026-06-30 03:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321tdn1sk7o06k77ao0jp40000000004hbu7da" group-title="4K世界杯回放",世界杯4K回放-德国vs巴拉圭_2026-06-30 03:30:00
+http://82.156.243.185:34567/xhs/4459718
+#EXTINF:-1 tvg-name="世界杯4K回放-荷兰vs摩洛哥_2026-06-30 08:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321s7lpic7k06k77ao0jp400000000064n0t84" group-title="4K世界杯回放",世界杯4K回放-荷兰vs摩洛哥_2026-06-30 08:00:00
+http://82.156.243.185:34567/xhs/4459719
+#EXTINF:-1 tvg-name="世界杯4K回放-科特迪瓦vs挪威_2026-07-01 00:00:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321t544e8nu06k77ao0jp40000000006c2oao6" group-title="4K世界杯回放",世界杯4K回放-科特迪瓦vs挪威_2026-07-01 00:00:00
+http://82.156.243.185:34567/xhs/4459722
 #EXTINF:-1 tvg-name="16vos de Final: Costa de Marfil v. Noruega" group-title="4K杜比视界世界杯正赛",16vos de Final: Costa de Marfil v. Noruega_2026-07-01 00:40:00_1782837600000
 https://cdn.99998888.cc/event/e6091e35-b511-33e0-b9e5-4da25a21f4c8?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="16vos de Final: Francia v. Suecia" group-title="4K杜比视界世界杯正赛",16vos de Final: Francia v. Suecia_2026-07-01 03:10:00_1782846600000
@@ -181,3 +183,7 @@ https://cdn.99998888.cc/event/a3c65404-ec0c-328a-8268-d75e8c292ed4?prefix=https:
 https://cdn.99998888.cc/event/b4a32e9f-df20-3cf9-a563-50da2b760d91?prefix=https://cdn.99998888.cc
 #EXTINF:-1 tvg-name="16vos de Final: Inglaterra v. RD del Congo" group-title="4K杜比视界世界杯正赛",16vos de Final: Inglaterra v. RD del Congo_2026-07-01 23:40:00_1782920400000
 https://cdn.99998888.cc/event/3a9290ea-1613-3cfe-b6e6-a3d646eef522?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="16vos de Final: Bélgica v. Senegal" group-title="4K杜比视界世界杯正赛",16vos de Final: Bélgica v. Senegal_2026-07-02 02:10:00_1782929400000
+https://cdn.99998888.cc/event/1c3cad1c-c380-301b-aadb-4225087e7903?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="16vos de Final: Estados Unidos v. Bosnia y Herzegovina" group-title="4K杜比视界世界杯正赛",16vos de Final: Estados Unidos v. Bosnia y Herzegovina_2026-07-02 06:10:00_1782943800000
+https://cdn.99998888.cc/event/12a42388-ec40-3819-bdbe-964d02a75b1d?prefix=https://cdn.99998888.cc
