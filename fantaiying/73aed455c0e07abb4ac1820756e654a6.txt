@@ -191,13 +191,11 @@ http://82.156.243.185:34567/xhs/4459728
 http://82.156.243.185:34567/xhs/4459727
 #EXTINF:-1 tvg-name="世界杯4K回放-瑞士vs阿尔及利亚_2026-07-03 10:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321uprq747a06k77ao0jp40000000000vtqtjg" group-title="4K世界杯回放",世界杯4K回放-瑞士vs阿尔及利亚_2026-07-03 10:30:00
 http://82.156.243.185:34567/xhs/4459729
-#EXTINF:-1 tvg-name="16vos de Final: Australia v. Egipto" group-title="4K杜比视界世界杯正赛",16vos de Final: Australia v. Egipto_2026-07-04 01:40:00_1783100400000
-https://cdn.99998888.cc/event/4327060a-72c2-343a-823e-26a838f12bc1?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="16vos de Final: Argentina v. Cabo Verde" group-title="4K杜比视界世界杯正赛",16vos de Final: Argentina v. Cabo Verde_2026-07-04 04:10:00_1783109400000
-https://cdn.99998888.cc/event/681dfdcc-8f6b-3d56-a16f-fd4a538921bd?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="16vos de Final: Colombia v. Ghana" group-title="4K杜比视界世界杯正赛",16vos de Final: Colombia v. Ghana_2026-07-04 08:10:00_1783123800000
-https://cdn.99998888.cc/event/68d6c109-2275-3c0c-afae-814defe21c9e?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="8vos de Final: Canadá v. Marruecos" group-title="4K杜比视界世界杯正赛",8vos de Final: Canadá v. Marruecos_2026-07-05 00:40:00_1783183200000
-https://cdn.99998888.cc/event/2c495a06-411d-37b7-b40c-8a967674d667?prefix=https://cdn.99998888.cc
-#EXTINF:-1 tvg-name="8vos de Final: Paraguay v. Francia" group-title="4K杜比视界世界杯正赛",8vos de Final: Paraguay v. Francia_2026-07-05 03:10:00_1783192200000
-https://cdn.99998888.cc/event/1db13ffe-8a93-38dc-96db-02775070da8b?prefix=https://cdn.99998888.cc
+#EXTINF:-1 tvg-name="世界杯4K回放-澳大利亚vs埃及_2026-07-04 01:30:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321tihv8sna06k77ao0jp40000000006j30r04" group-title="4K世界杯回放",世界杯4K回放-澳大利亚vs埃及_2026-07-04 01:30:00
+http://82.156.243.185:34567/xhs/4459797
+#EXTINF:-1 tvg-name="世界杯4K回放-阿根廷vs佛得角_2026-07-04 05:05:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321td0q567o06k77ao0jp40000000005ngimok" group-title="4K世界杯回放",世界杯4K回放-阿根廷vs佛得角_2026-07-04 05:05:00
+http://82.156.243.185:34567/xhs/4459731
+#EXTINF:-1 tvg-name="世界杯4K回放-哥伦比亚vs加纳_2026-07-04 09:10:00" tvg-logo="https://growth-img.xhscdn.com/ditto/104100n0321umlpa17k06k77ao0jp400000000014trnvs" group-title="4K世界杯回放",世界杯4K回放-哥伦比亚vs加纳_2026-07-04 09:10:00
+http://82.156.243.185:34567/xhs/4459732
+#EXTINF:-1 tvg-name="FussBall TV" tvg-logo="https://cdn.jsdelivr.net/gh/jkwu5472/first/fussball.png" group-title="4K杜比视界世界杯正赛",FussBall TV
+https://de.zongbu666.top/live/stream-4cb98b7a-6afa-429a-b6c1-c585bafed5a7/video/index.m3u8
